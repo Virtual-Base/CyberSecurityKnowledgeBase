@@ -57,5 +57,5 @@
   - [Attacking MS Exchange Web Interfaces Analysis](https://swarm.ptsecurity.com/attacking-ms-exchange-web-interfaces/)
 
 # Business Email Compromise Attacks 
-  -[A Holistic Approach to Defending Business Email Compromise Attacks]
+  - [A Holistic Approach to Defending Business Email Compromise Attacks](https://www.youtube.com/watch?v=sV-BzlHSyes)
 
