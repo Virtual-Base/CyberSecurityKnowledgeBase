@@ -9,7 +9,8 @@
   - [Forensics Kape Scripts](https://github.com/swisscom/Invoke-Forensics)
   - [Forensics $MFT Browser](https://github.com/kacos2000/MFT_Browser)
   - [Forensics Windows Diagnostic Database](https://github.com/stuxnet999/EventTranscriptParser)
-  - [Eric Zimmerman Tools](https://ericzimmerman.github.io/#!index.md)
+  - [Forensics WinHex Templates](https://github.com/kacos2000/WinHex_Templates?s=08)
+  - [Forensics Eric Zimmerman Tools](https://ericzimmerman.github.io/#!index.md)
 
 # CheatSheet
   - [DFIR Regex](https://github.com/rathbuna/DFIRRegex)
@@ -21,6 +22,10 @@
   - [DFIR EZParser](https://github.com/rathbuna/DFIRMindMaps/tree/main/Tools/KAPE/!EZParser)
   - [DFIR Kape Triage](https://github.com/rathbuna/DFIRMindMaps/tree/main/Tools/KAPE/KapeTriage)
   - [DFIR Tcpdump](https://github.com/rathbuna/DFIRMindMaps/tree/main/Tools/tcpdump)
+
+# Foresics Images Practice
+  - [Ali Hadi Challenges](https://www.ashemery.com/dfir.html)
+  - [Cado Security Forensics Image REvil Ransomware Kaseya Supply Chain Attack](https://github.com/cado-security/DFIR_Resources_REvil_Kaseya/releases/tag/v1.0)
 
 # System Live Analysis Series
   - [Part 1- A Proactive Hunt!](https://sechub.medium.com/blue-team-system-live-analysis-part-1-a-proactive-hunt-8258feb7cb14)
