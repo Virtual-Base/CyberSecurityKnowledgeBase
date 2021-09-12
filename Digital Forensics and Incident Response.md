@@ -1,3 +1,11 @@
+# Tools 
+  - [DFIR Tools CheatSheet](https://dfircheatsheet.github.io/)
+  - [DFIR Tools - Start.me](https://start.me/p/4KjGob/dfir-tools)
+  - [DFIR O365](https://github.com/ANSSI-FR/DFIR-O365RC)
+  - [Forensics Tools - Start.me](https://start.me/p/q6mw4Q/forensics)
+  - [Forensics Kape Awesome Collection](https://github.com/rathbuna/Awesome-KAPE)
+  - [Forensics Kape Scripts](https://github.com/swisscom/Invoke-Forensics)
+
 # System Live Analysis Series
   - [Part 1- A Proactive Hunt!](https://sechub.medium.com/blue-team-system-live-analysis-part-1-a-proactive-hunt-8258feb7cb14)
   - [Part 2 - Windows: Rules and Tools](https://sechub.medium.com/blue-team-system-live-analysis-part-2-windows-rules-and-tools-fc42be6c060d)
