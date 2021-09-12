@@ -44,4 +44,4 @@
   - [Fantastic Windows Logon types and Where to Find Credentials in Them](https://www.alteredsecurity.com/post/fantastic-windows-logon-types-and-where-to-find-credentials-in-them)
   - [RDP Event Log DFIR](https://dfironthemountain.wordpress.com/2019/02/15/rdp-event-log-dfir/amp/?__twitter_impression=true)
   - [Windows RDP-Related Event Logs: Identification, Tracking, and Investigation](https://ponderthebits.com/2018/02/windows-rdp-related-event-logs-identification-tracking-and-investigation/)
-  - [13cubed RDp Flowchart](https://www.13cubed.com/downloads/rdp_flowchart.pdf)
+  - [13cubed RDP Flowchart](https://www.13cubed.com/downloads/rdp_flowchart.pdf)
