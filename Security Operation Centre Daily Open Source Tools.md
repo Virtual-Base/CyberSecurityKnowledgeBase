@@ -1,3 +1,5 @@
+> :heavy_check_mark: Possible :x: Not Possible
+
 # Indication of Compromise Check
 | Tools | IP Address | Domain | URL | Hash | Email Address | Comments |
 | --- | --- | --- | --- | --- | --- | --- |
