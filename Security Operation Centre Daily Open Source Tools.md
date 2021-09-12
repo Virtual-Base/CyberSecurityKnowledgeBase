@@ -1,2 +1,6 @@
-| Tools | IP Address | Domain | URL | Hash | Email Address | 
-| --- | --- | --- | --- | --- | --- |
+| Tools | IP Address | Domain | URL | Hash | Email Address | Comments |
+| --- | --- | --- | --- | --- | --- | --- |
+| [AbuseIPDB](https://www.abuseipdb.com/) | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :x: </p> </center> |<center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> |
+| [AbuseIPDB Subdomain List](https://www.abuseipdb.com/whois/google.com) | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> | Change the domain name as per your check https://www.abuseipdb.com/whois/PutYourDomainToCheck |
+| [VirusTotal](https://www.virustotal.com/gui/home/search) | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :x: </p> </center> |
+
