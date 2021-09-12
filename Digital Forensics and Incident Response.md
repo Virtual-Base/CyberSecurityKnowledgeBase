@@ -59,3 +59,6 @@
 # Business Email Compromise Attacks 
   - [A Holistic Approach to Defending Business Email Compromise Attacks](https://www.youtube.com/watch?v=sV-BzlHSyes)
 
+# Anatomy of Native IIS Malware 
+  - [Anatomy of Native IIS Malware](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Anatomy-Of-Native-Iis-Malware-wp.pdf)
+
