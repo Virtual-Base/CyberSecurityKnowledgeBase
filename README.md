@@ -2,7 +2,7 @@
 
 ## Table of Contents 
   1. [Security Operation Centre Open Source Tools](https://github.com/vigneshb0197/CyberSecurityKnowledgeBase/blob/main/Security%20Operation%20Centre%20Daily%20Open%20Source%20Tools.md) 
-  2. Digital Forensics and Incident Response 
+  2. [Digital Forensics and Incident Response](https://github.com/vigneshb0197/CyberSecurityKnowledgeBase/blob/main/Digital%20Forensics%20and%20Incident%20Response.md) 
   3. Computer Emergency Response Team 
   4. Malware Analysis 
   5. Threat Hunting 
