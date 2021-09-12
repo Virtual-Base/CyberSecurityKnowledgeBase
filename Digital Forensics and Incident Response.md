@@ -2,9 +2,25 @@
   - [DFIR Tools CheatSheet](https://dfircheatsheet.github.io/)
   - [DFIR Tools - Start.me](https://start.me/p/4KjGob/dfir-tools)
   - [DFIR O365](https://github.com/ANSSI-FR/DFIR-O365RC)
+  - [DFIR Windows EVTX Logs Hunting](https://github.com/Countercept/chainsaw?s=08)
+  - [DFIR PowerShell Script](https://github.com/dwmetz/CSIRT-Collect)
   - [Forensics Tools - Start.me](https://start.me/p/q6mw4Q/forensics)
   - [Forensics Kape Awesome Collection](https://github.com/rathbuna/Awesome-KAPE)
   - [Forensics Kape Scripts](https://github.com/swisscom/Invoke-Forensics)
+  - [Forensics $MFT Browser](https://github.com/kacos2000/MFT_Browser)
+  - [Forensics Windows Diagnostic Database](https://github.com/stuxnet999/EventTranscriptParser)
+  - [Eric Zimmerman Tools](https://ericzimmerman.github.io/#!index.md)
+
+# CheatSheet
+  - [DFIR Regex](https://github.com/rathbuna/DFIRRegex)
+  - [Eric Zimmerman CheatSheet](https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/blt1e7af8929399a930/6086df08b35a7a3c69a38b64/EricZimmermanCommandLineToolsCheatSheet-v1.0.pdf)
+
+# MindMaps
+  - [DFIR Filesystem](https://github.com/rathbuna/DFIRMindMaps/tree/main/FileSystems/NTFS/%24J)
+  - [DFIR RDP](https://github.com/rathbuna/DFIRMindMaps/tree/main/OSArtifacts/Windows/RDP_Authentication_Artifacts)
+  - [DFIR EZParser](https://github.com/rathbuna/DFIRMindMaps/tree/main/Tools/KAPE/!EZParser)
+  - [DFIR Kape Triage](https://github.com/rathbuna/DFIRMindMaps/tree/main/Tools/KAPE/KapeTriage)
+  - [DFIR Tcpdump](https://github.com/rathbuna/DFIRMindMaps/tree/main/Tools/tcpdump)
 
 # System Live Analysis Series
   - [Part 1- A Proactive Hunt!](https://sechub.medium.com/blue-team-system-live-analysis-part-1-a-proactive-hunt-8258feb7cb14)
