@@ -23,6 +23,9 @@
   - [DFIR Kape Triage](https://github.com/rathbuna/DFIRMindMaps/tree/main/Tools/KAPE/KapeTriage)
   - [DFIR Tcpdump](https://github.com/rathbuna/DFIRMindMaps/tree/main/Tools/tcpdump)
 
+# SANS DFIR Summit
+  - [2021](https://start.me/p/xbgNmz/sans-dfir-2021)
+
 # Foresics Images Practice
   - [Ali Hadi Challenges](https://www.ashemery.com/dfir.html)
   - [Cado Security Forensics Image REvil Ransomware Kaseya Supply Chain Attack](https://github.com/cado-security/DFIR_Resources_REvil_Kaseya/releases/tag/v1.0)
@@ -45,3 +48,11 @@
   - [RDP Event Log DFIR](https://dfironthemountain.wordpress.com/2019/02/15/rdp-event-log-dfir/amp/?__twitter_impression=true)
   - [Windows RDP-Related Event Logs: Identification, Tracking, and Investigation](https://ponderthebits.com/2018/02/windows-rdp-related-event-logs-identification-tracking-and-investigation/)
   - [13cubed RDP Flowchart](https://www.13cubed.com/downloads/rdp_flowchart.pdf)
+
+# Windows and Active Directory 
+  - [Windows And Active Directory Persistence And Malicious Configurations](https://web.archive.org/web/20210623173110/https://m365internals.com/2021/06/23/dfir-windows-and-active-directory-persistence-and-malicious-configurations/)
+  - [Windows And Active Directory Attacks And Persistence](https://m365internals.com/2021/08/06/dfir-windows-and-active-directory-attacks-and-persistence/)
+
+# MS Exchange Web Interface 
+  - [Attacking MS Exchange Web Interfaces Analysis](https://swarm.ptsecurity.com/attacking-ms-exchange-web-interfaces/)
+
