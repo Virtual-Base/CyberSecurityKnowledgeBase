@@ -39,3 +39,9 @@
   - [Part 9 - Windows: User Account Forensics- Ownership: Process, Applications, Folders, and Files](https://sechub.medium.com/blue-team-system-live-analysis-part-9-windows-user-account-forensics-ownership-process-dad2a55ce249)
   - [Part 10 - Windows: User Account Forensics- In-use and Locked Files Acquisition](https://sechub.medium.com/blue-team-system-live-analysis-part-10-windows-user-account-forensics-in-use-and-locked-files-17eb7bd8619f)
   - [Part 11 - Windows: User Account Forensics- NTUSER.DAT Rules, Tools, Structure, and Dirty Hives!](https://sechub.medium.com/blue-team-system-live-analysis-part-11-windows-user-account-forensics-ntuser-dat-495ab41393db)  
+
+# Windows Logon Analysis 
+  - [Fantastic Windows Logon types and Where to Find Credentials in Them](https://www.alteredsecurity.com/post/fantastic-windows-logon-types-and-where-to-find-credentials-in-them)
+  - [RDP Event Log DFIR](https://dfironthemountain.wordpress.com/2019/02/15/rdp-event-log-dfir/amp/?__twitter_impression=true)
+  - [Windows RDP-Related Event Logs: Identification, Tracking, and Investigation](https://ponderthebits.com/2018/02/windows-rdp-related-event-logs-identification-tracking-and-investigation/)
+  - [13cubed RDp Flowchart](https://www.13cubed.com/downloads/rdp_flowchart.pdf)
