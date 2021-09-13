@@ -1,6 +1,7 @@
 # Interesting Blogs
   - [Malware Analysis in the Modern SOC](https://www.crowdstrike.com/blog/the-role-of-malware-analysis-in-the-modern-security-operations-center/)
   - [SOC Analyst and Blue Team SimplyCyber - Gerald Auger](https://www.youtube.com/playlist?list=PL4Q-ttyNIRAoV4nJqiDh5v1exHbIL291g)
+  - [Security Infographics - Sigma, TI, MITRE, YARA, so on.](https://medium.com/malware-buddy/security-infographics-9c4d3bd891ef)
 
 #
 > :heavy_check_mark: Possible :x: Not Possible
@@ -20,7 +21,8 @@
 [UrlScan.io](https://urlscan.io/) | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :x: </p> </center> | Narrow Search - Search Modifiers |
 | [HaveIBeenPawned](https://haveibeenpwned.com/) | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | Email Address Pawned
 | [Firefox Monitor](https://monitor.firefox.com/) |  <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | Email Address Pawned
-
+#
+> :heavy_check_mark: Possible :x: Not Possible
 # Domain Internal Records Check
 | Tools | Nameserver | MX | SPF | DMARC | DKIM | Email Header Analyzer | Registrar | Creation Date | SSL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
