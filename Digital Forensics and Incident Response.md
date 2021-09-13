@@ -1,3 +1,8 @@
+# Training 
+  - [DFIR - SANS](https://www.youtube.com/watch?v=pSAW_T_WvME&t=2s)
+  - [DFIR - Diva - Part 1](https://freetraining.dfirdiva.com/free-ir-training-plan-part-one)
+  - [DFIR - Diva - Part 2](https://freetraining.dfirdiva.com/free-ir-training-plan-part-two)
+ 
 # Tools 
   - [DFIR Tools CheatSheet](https://dfircheatsheet.github.io/)
   - [DFIR Tools - Start.me](https://start.me/p/4KjGob/dfir-tools)
