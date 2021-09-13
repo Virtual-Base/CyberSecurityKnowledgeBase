@@ -1,3 +1,8 @@
+# Interesting Blogs
+  - [Malware Analysis in the Modern SOC](https://www.crowdstrike.com/blog/the-role-of-malware-analysis-in-the-modern-security-operations-center/)
+  - [SOC Analyst and Blue Team SimplyCyber - Gerald Auger](https://www.youtube.com/playlist?list=PL4Q-ttyNIRAoV4nJqiDh5v1exHbIL291g)
+
+#
 > :heavy_check_mark: Possible :x: Not Possible
 
 # Indication of Compromise Check
