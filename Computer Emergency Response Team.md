@@ -1,5 +1,8 @@
 # CERT Global 
   - [Country Wise](https://www.first.org/members/teams/)
+
+# Vulnerability Notes
+  - [CERT Coordination Center - Carnegie Mellon University](https://www.kb.cert.org/vuls/bypublished/desc/)
     
 # Ransomware 
   1. [Bitcoin Payment Tracker](https://www.bitcoinabuse.com/)
