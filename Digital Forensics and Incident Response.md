@@ -10,7 +10,6 @@
   - [DFIR Windows EVTX Logs Hunting](https://github.com/Countercept/chainsaw?s=08)
   - [DFIR PowerShell Script](https://github.com/dwmetz/CSIRT-Collect)
   - [DFIR Windows](https://aboutdfir.com/toolsandartifacts/windows/)
-  - [DFIR Linux]()
   - [Forensics Tools - Start.me](https://start.me/p/q6mw4Q/forensics)
   - [Forensics Kape Awesome Collection](https://github.com/rathbuna/Awesome-KAPE)
   - [Forensics Kape Scripts](https://github.com/swisscom/Invoke-Forensics)
