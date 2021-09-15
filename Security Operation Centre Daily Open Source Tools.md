@@ -1,7 +1,11 @@
 # Interesting Blogs and Trainings
   - [Malware Analysis in the Modern SOC](https://www.crowdstrike.com/blog/the-role-of-malware-analysis-in-the-modern-security-operations-center/)
   - [Security Infographics - Sigma, TI, MITRE, YARA, so on.](https://medium.com/malware-buddy/security-infographics-9c4d3bd891ef) 
+### Phishing 
   - [Training - Email Forensic](https://www.youtube.com/playlist?list=PLvOFsJ3VdHa_USZuhzIjDFk_EYA5pRP9Z)
+  - [The Ultimate Guide to Phishing](https://sidb.in/2021/08/03/Phishing-0-to-100.html)
+  - [6 ways to detect phishing sites using high-entropy strings](https://bradleyjkemp.dev/post/6-ways-to-detect-phishing-sites-using-high-entropy-strings/)
+  - [Hunting Phish](https://emptydc.com/2021/07/16/hunting-phish/amp/?__twitter_impression=true)
 
 # IOC Feeds
   - [Phishing DataBase](https://github.com/mitchellkrogza/Phishing.Database)
