@@ -2,6 +2,12 @@
   - [Malware Analysis in the Modern SOC](https://www.crowdstrike.com/blog/the-role-of-malware-analysis-in-the-modern-security-operations-center/)
   - [Security Infographics - Sigma, TI, MITRE, YARA, so on.](https://medium.com/malware-buddy/security-infographics-9c4d3bd891ef) 
   - [Training - Email Forensic](https://www.youtube.com/playlist?list=PLvOFsJ3VdHa_USZuhzIjDFk_EYA5pRP9Z)
+
+# IOC Feeds
+  - [Phishing DataBase](https://github.com/mitchellkrogza/Phishing.Database)
+  - [Twitter Feeds](https://github.com/0xDanielLopez/TweetFeed)
+  - [Daily IOCs](https://github.com/StrangerealIntel/DailyIOC)
+  - [Filescan Feeds](https://www.filescan.io/feed)
 #
 > :heavy_check_mark: Possible :x: Not Possible
 
@@ -38,6 +44,7 @@
 | [Symantec Website Checker](https://sitereview.bluecoat.com/#/) | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> |
 | [Zscaler](https://zulu.zscaler.com/) | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> |
 | [WaybackMachine](https://web.archive.org/) | <center><p align = "center"> :x: </p> </center> |  <center><p align = "center"> :heavy_check_mark: </p> </center> |  <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> | Internet Archive 
+| [Phishstats](https://phishstats.info/) | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> |
 #
 > :heavy_check_mark: Possible :x: Not Possible
 # Domain Internal Records Check
