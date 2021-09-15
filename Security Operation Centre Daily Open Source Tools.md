@@ -37,6 +37,7 @@
 | [IPVoid](https://www.ipvoid.com/) | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> | Many tools are intergarted in this |
 | [Symantec Website Checker](https://sitereview.bluecoat.com/#/) | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> |
 | [Zscaler](https://zulu.zscaler.com/) | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> |
+| [WaybackMachine](https://web.archive.org/) | <center><p align = "center"> :x: </p> </center> |  <center><p align = "center"> :heavy_check_mark: </p> </center> |  <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> | Internet Archive 
 #
 > :heavy_check_mark: Possible :x: Not Possible
 # Domain Internal Records Check
