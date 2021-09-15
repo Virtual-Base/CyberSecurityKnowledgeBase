@@ -2,6 +2,7 @@
   - [DFIR - SANS](https://www.youtube.com/watch?v=pSAW_T_WvME&t=2s)
   - [DFIR - Diva - Part 1](https://freetraining.dfirdiva.com/free-ir-training-plan-part-one)
   - [DFIR - Diva - Part 2](https://freetraining.dfirdiva.com/free-ir-training-plan-part-two)
+  - [IR - Sam Bowne](https://samsclass.info/152/152_F21.shtml)
  
 # Tools 
   - [DFIR Tools CheatSheet](https://dfircheatsheet.github.io/)
