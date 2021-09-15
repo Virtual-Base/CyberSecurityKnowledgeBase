@@ -16,6 +16,7 @@
    ## **Analysis Blogs**
    - [Chuong Dong](https://chuongdong.com/blog/)
    - [Ransomware The Digest "Crypto-Ransomware"](https://id-ransomware.blogspot.com/)
+   - [Ransomware: Creation, Detection, and Response](https://www.youtube.com/watch?v=pLmOWeCAT8M)
 
    ## **Compilation**
    - [SANS - Ransomware](https://www.sans.org/blog/recommended-sources-for-ransomware-information/)
@@ -23,5 +24,3 @@
    ## **Configs, Decryptor and Decryption Key**
    - [Config - Darkside and BlackMatter](https://github.com/advanced-threat-research/DarkSide-Config-Extract?s=08)
    - [Decryptor - Prometheus](https://github.com/cycraft-corp/Prometheus-Decryptor)
-  
-  
