@@ -3,6 +3,7 @@
 
 # Vulnerability Notes
   - [CERT Coordination Center - Carnegie Mellon University](https://www.kb.cert.org/vuls/bypublished/desc/)
+  - [Vulnerability Analysis](https://vuls.cert.org/confluence/)
     
 # Ransomware 
   1. [Bitcoin Payment Tracker](https://www.bitcoinabuse.com/)
