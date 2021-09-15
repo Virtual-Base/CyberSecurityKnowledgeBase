@@ -1,6 +1,6 @@
 # Interesting Blogs
   - [Malware Analysis in the Modern SOC](https://www.crowdstrike.com/blog/the-role-of-malware-analysis-in-the-modern-security-operations-center/)
-  - [Security Infographics - Sigma, TI, MITRE, YARA, so on.](https://medium.com/malware-buddy/security-infographics-9c4d3bd891ef)
+  - [Security Infographics - Sigma, TI, MITRE, YARA, so on.](https://medium.com/malware-buddy/security-infographics-9c4d3bd891ef) 
 
 #
 > :heavy_check_mark: Possible :x: Not Possible
