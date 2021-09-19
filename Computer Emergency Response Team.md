@@ -18,6 +18,7 @@
    - [Chuong Dong](https://chuongdong.com/blog/)
    - [Ransomware The Digest "Crypto-Ransomware"](https://id-ransomware.blogspot.com/)
    - [Ransomware: Creation, Detection, and Response](https://www.youtube.com/watch?v=pLmOWeCAT8M)
+   - [Ransomware Double Extortion and Beyond: REvil, Clop, and Conti](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/ransomware-double-extortion-and-beyond-revil-clop-and-conti?utm_source=trendmicroresearch&utm_medium=smk&utm_campaign=0621_dext0rtion)
 
    ## **Compilation**
    - [SANS - Ransomware](https://www.sans.org/blog/recommended-sources-for-ransomware-information/)
