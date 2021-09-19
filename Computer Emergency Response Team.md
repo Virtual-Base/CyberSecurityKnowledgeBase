@@ -13,6 +13,7 @@
   5. [Ransomware Wiki](https://darkfeed.io/ransomwiki/)
   6. [Ransomware Monitor](https://darkfeed.io/indexransomware/)
   7. [Ransom Watch](https://www.ransomwatch.org/)
+  8. [AN ENCOUNTER WITH RANSOMWARE-AS-A-SERVICE: MEGASYNC ANALYSIS](https://blog.reconinfosec.com/megasync-analysis/)
     
    ## **Analysis Blogs**
    - [Chuong Dong](https://chuongdong.com/blog/)
