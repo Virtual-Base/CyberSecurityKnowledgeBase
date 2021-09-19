@@ -92,3 +92,4 @@
 
 # File System 
   - [Windows Alternate Data Streams (ADS)](https://www.winitor.com/pdf/NtfsAlternateDataStreams.pdf)
+  - [Malware Analysis Fundamentals - Files and Tools](https://www.winitor.com/pdf/Malware-Analysis-Fundamentals-Files-Tools.pdf)
