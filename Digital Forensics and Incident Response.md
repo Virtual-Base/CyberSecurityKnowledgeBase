@@ -68,6 +68,8 @@
 # Windows and Active Directory 
   - [Windows And Active Directory Persistence And Malicious Configurations](https://web.archive.org/web/20210623173110/https://m365internals.com/2021/06/23/dfir-windows-and-active-directory-persistence-and-malicious-configurations/)
   - [Windows And Active Directory Attacks And Persistence](https://m365internals.com/2021/08/06/dfir-windows-and-active-directory-attacks-and-persistence/)
+  - [Playing with case-insensitive file names](https://dfir.ru/2021/07/15/playing-with-case-insensitive-file-names/)
+  - [Shadow copies become less visible](https://dfir.ru/2021/06/28/shadow-copies-become-less-visible/)
 
 # MS Exchange Web Interface
   - [Attacking MS Exchange Web Interfaces Analysis](https://swarm.ptsecurity.com/attacking-ms-exchange-web-interfaces/)
