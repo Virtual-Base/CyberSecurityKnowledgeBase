@@ -89,3 +89,6 @@
 
 # LoLbins 
   - [LOLBins Are No Laughing Matter: How Attackers Operate Quietly](https://www.uptycs.com/blog/lolbins-are-no-laughing-matter)
+
+# File System 
+  - [Windows Alternate Data Streams (ADS)](https://www.winitor.com/pdf/NtfsAlternateDataStreams.pdf)
