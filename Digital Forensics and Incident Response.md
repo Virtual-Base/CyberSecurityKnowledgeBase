@@ -69,6 +69,7 @@
   - [Windows And Active Directory Attacks And Persistence](https://m365internals.com/2021/08/06/dfir-windows-and-active-directory-attacks-and-persistence/)
   - [Playing with case-insensitive file names](https://dfir.ru/2021/07/15/playing-with-case-insensitive-file-names/)
   - [Shadow copies become less visible](https://dfir.ru/2021/06/28/shadow-copies-become-less-visible/)
+  - [OH, BEHAVE! FIGURING OUT USER BEHAVIOR](https://www.trustedsec.com/blog/oh-behave-figuring-out-user-behavior/)
 
 # MS Exchange Web Interface
   - [Attacking MS Exchange Web Interfaces Analysis](https://swarm.ptsecurity.com/attacking-ms-exchange-web-interfaces/)
@@ -82,4 +83,7 @@
 # Memory Forensics 
   - [Memory Forensics for Incident Response](https://www.varonis.com/blog/memory-forensics/)
   - [Advanced Memory Forensics (Windows) - Threat_Hunting and Initial Malware_Analysis](https://github.com/Dump-GUY/Malware-analysis-and-Reverse-engineering/blob/main/Advanced_Memory_Forensics_Threat_Hunting_and_Malware_Analysis/Advanced_Memory_Forensics_Threat_Hunting_and_Malware_Analysis.md)
+
+# Python Malware Analysis 
+  - [Snakes on a Domain: An Analysis of a Python Malware Loader](https://www-huntress-com.cdn.ampproject.org/c/s/www.huntress.com/blog/snakes-on-a-domain-an-analysis-of-a-python-malware-loader?hs_amp=true)
 
