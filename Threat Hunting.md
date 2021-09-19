@@ -40,6 +40,7 @@
 # Windows 
   - [Enterprise Scale Threat Hunting with Process Tree Analysis](https://posts.bluraven.io/detecting-threats-with-process-tree-analysis-without-machine-learning-838d85f78b2c)
   - [Hunting for the Behavior: Scheduled Tasks](https://posts.bluraven.io/hunting-for-the-behavior-scheduled-tasks-9efe0b8ade40)
+  - [Windows Task Scheduler Monitor](https://www.winitor.com/pdf/Monitor-Windows-Task-Scheduler.pdf)
   - [Detection of anomalous process creation chains using word vectorization, normalization, and an autoencoder](https://blog.f-secure.com/process-creation-chains/)
 
 # Powershell Suspicious Detcetion
