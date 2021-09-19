@@ -3,7 +3,6 @@
   - [DFIR - Diva - Part 1](https://freetraining.dfirdiva.com/free-ir-training-plan-part-one)
   - [DFIR - Diva - Part 2](https://freetraining.dfirdiva.com/free-ir-training-plan-part-two)
   - [IR - Sam Bowne](https://samsclass.info/152/152_F21.shtml)
-  - [Advanced Memory Forensics (Windows) - Threat_Hunting and Initial Malware_Analysis](https://github.com/Dump-GUY/Malware-analysis-and-Reverse-engineering/blob/main/Advanced_Memory_Forensics_Threat_Hunting_and_Malware_Analysis/Advanced_Memory_Forensics_Threat_Hunting_and_Malware_Analysis.md)
   - [Velociraptor Tutorial](https://www.youtube.com/playlist?list=PLz4xB83Y3Vbjtqr_ttOkBWZZ_ewEVVPXQ)
   - [Velociraptor DFIR Case Walkthrough](https://www.youtube.com/watch?v=dmmliSh91uQ)
   - [Kape Tutorial](https://aboutdfir.com/toolsandartifacts/windows/kape/)
@@ -79,4 +78,8 @@
 
 # Anatomy of Native IIS Malware 
   - [Anatomy of Native IIS Malware](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Anatomy-Of-Native-Iis-Malware-wp.pdf)
+
+# Memory Forensics 
+  - [Memory Forensics for Incident Response](https://www.varonis.com/blog/memory-forensics/)
+  - [Advanced Memory Forensics (Windows) - Threat_Hunting and Initial Malware_Analysis](https://github.com/Dump-GUY/Malware-analysis-and-Reverse-engineering/blob/main/Advanced_Memory_Forensics_Threat_Hunting_and_Malware_Analysis/Advanced_Memory_Forensics_Threat_Hunting_and_Malware_Analysis.md)
 
