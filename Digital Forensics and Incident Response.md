@@ -87,3 +87,5 @@
 # Python Malware Analysis 
   - [Snakes on a Domain: An Analysis of a Python Malware Loader](https://www-huntress-com.cdn.ampproject.org/c/s/www.huntress.com/blog/snakes-on-a-domain-an-analysis-of-a-python-malware-loader?hs_amp=true)
 
+# LoLbins 
+  - [LOLBins Are No Laughing Matter: How Attackers Operate Quietly](https://www.uptycs.com/blog/lolbins-are-no-laughing-matter)
