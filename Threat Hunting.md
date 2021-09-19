@@ -9,6 +9,7 @@
   - [Cobalt Strike C2 Hunting with Shodan](https://michaelkoczwara.medium.com/cobalt-strike-c2-hunting-with-shodan-c448d501a6e2)
   - [Enterprise Scale Threat Hunting: C2 Beacon Detection with Unsupervised ML and KQL — Part 1](https://posts.bluraven.io/enterprise-scale-threat-hunting-network-beacon-detection-with-unsupervised-machine-learning-and-277c4c30304f)
   - [Enterprise Scale Threat Hunting: C2 Beacon Detection with Unsupervised ML and KQL — Part 2](https://posts.bluraven.io/enterprise-scale-threat-hunting-network-beacon-detection-with-unsupervised-ml-and-kql-part-2-bff46cfc1e7e)
+  - [Sleeping with a Mask On (Cobalt Strike)](https://adamsvoboda.net/sleeping-with-a-mask-on-cobaltstrike/amp/?__twitter_impression=true)
 
 # Web Proxy Threat Hunting 
   - [Threat Hunting and Detection with Web Proxy Logs](https://posts.bluraven.io/threat-hunting-and-detection-with-web-proxy-logs-58094cae3537)
@@ -21,6 +22,8 @@
   - [Threat Hunting and Detection with Email Logs](https://posts.bluraven.io/threat-hunting-and-detection-with-email-logs-4b1e37f5d035)
   - [Threat Hunting for Phishing Attacks](https://posts.bluraven.io/threat-hunting-for-phishing-attacks-baa7c843e0e2)
   - [Hunting Phishing URLs in Emails with Sysmon](https://posts.bluraven.io/hunting-phishing-urls-in-emails-with-sysmon-dd38091553b4)
+  - [Hackers Spotted Using Morse Code in Phishing Attacks to Evade Detection](https://thehackernews.com/2021/08/hackers-spotted-using-morse-code-in.html?m=1)
+  - [Microsoft 365 OAuth Device Code Flow and Phishing](https://www.optiv.com/insights/source-zero/blog/microsoft-365-oauth-device-code-flow-and-phishing)
 
 # Maliious Domain Threat Hunting 
   - [Detecting TA551 domains](https://threatresearch.ext.hp.com/detecting-ta551-domains/)
