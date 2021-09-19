@@ -13,11 +13,17 @@
 # Web Proxy Threat Hunting 
   - [Threat Hunting and Detection with Web Proxy Logs](https://posts.bluraven.io/threat-hunting-and-detection-with-web-proxy-logs-58094cae3537)
 
+# SQL Injection Campaign Hunting 
+  - [Squashing SPIDERS: Threat Intelligence, Threat Hunting and Rapid Response Stops SQL Injection Campaign](https://www.crowdstrike.com/blog/how-crowdstrike-stopped-an-sql-injection-campaign/?utm_content=sprout&utm_medium=soc&utm_source=twitter)
+
 # Phishing 
   - [Hunting for Phishing Links Using Sysmon and KQL](https://posts.bluraven.io/hunting-for-phishing-links-using-sysmon-and-kql-e87d1118ce5e)
   - [Threat Hunting and Detection with Email Logs](https://posts.bluraven.io/threat-hunting-and-detection-with-email-logs-4b1e37f5d035)
   - [Threat Hunting for Phishing Attacks](https://posts.bluraven.io/threat-hunting-for-phishing-attacks-baa7c843e0e2)
   - [Hunting Phishing URLs in Emails with Sysmon](https://posts.bluraven.io/hunting-phishing-urls-in-emails-with-sysmon-dd38091553b4)
+
+# Maliious Domain Threat Hunting 
+  - [Detecting TA551 domains](https://threatresearch.ext.hp.com/detecting-ta551-domains/)
 
 # NOBELIUM 
   - [Breaking down NOBELIUM’s latest early-stage toolset](https://www.microsoft.com/security/blog/2021/05/28/breaking-down-nobeliums-latest-early-stage-toolset/)
@@ -35,6 +41,7 @@
 
 # Powershell Suspicious Detcetion
   - [PowerShell Detections — Threat Research Release, August 2021](https://www.splunk.com/en_us/blog/security/powershell-detections-threat-research-release-august-2021.html?s=08)
+  - [Detecting Malicious PowerShell](https://blog.cyberabilities.ca/2021/01/detecting-malicious-powershell.html?m=1)
 
 # MiTRE Detection Rules 
   - [Detection Ideas & Rules by Vadim Hunter](https://github.com/vadim-hunter/Detection-Ideas-Rules)
