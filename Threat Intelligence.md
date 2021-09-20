@@ -40,7 +40,7 @@
   - [Social Media Dorks](https://github.com/fastfire/deepdarkCTI/blob/main/methods.md)
   - [Other Forums](https://github.com/fastfire/deepdarkCTI/blob/main/others.md)
   - [RaaS Forums](https://github.com/fastfire/deepdarkCTI/blob/main/raas.md)
-  - [Ransomware Gand Forums](https://github.com/fastfire/deepdarkCTI/blob/main/ransomware_gang.md)
+  - [Ransomware Gang Forums](https://github.com/fastfire/deepdarkCTI/blob/main/ransomware_gang.md)
   - [Telegram Forums](https://github.com/fastfire/deepdarkCTI/blob/main/telegram.md)
   - [Twitter Feeds](https://github.com/fastfire/deepdarkCTI/blob/main/twitter.md)
 
