@@ -1,1 +1,8 @@
-
+  - [OSINT tools collection](https://cipher387.github.io/osint_stuff_tool_collection/)
+  - [OSINT Framework](https://osintframework.com/)
+  - [30 best OSINT extensions for Google Chrome](https://www.osintme.com/index.php/2021/06/30/30-best-osint-extensions-for-google-chrome/)
+  - [Technisette.com!](https://www.technisette.com/p/home)
+  - [OSINT Landscape](https://start.me/p/ELXoK8/bellingcat-osint-landscape)
+  - [Quick hashtags and keywords search](https://cipher387.github.io/hashtags_and_keywords_social_media_quick_search/)
+  - [Dorks Collection List](https://github.com/cipher387/Dorks-collections-list/)
+  - [OSINT - Start.me](https://start.me/p/rxRbpo/ti)
