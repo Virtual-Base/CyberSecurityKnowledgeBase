@@ -28,5 +28,8 @@
   - [Kerberos (II): How to attack Kerberos?](https://www.tarlogic.com/es/blog/como-atacar-kerberos/)
   - [Kerberos (III): How does delegation work?](https://www.tarlogic.com/es/blog/kerberos-iii-como-funciona-la-delegacion/)
 
+### Exchange Server
+  - [Pentesting MS Exchange Server on the Perimeter MindMap](https://github.com/Orange-Cyberdefense/arsenal/blob/master/mindmap/Pentesting_MS_Exchange_Server_on_the_Perimeter.png)
 
+### 
 
