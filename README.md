@@ -8,7 +8,7 @@
   5. [Threat Hunting](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Threat%20Hunting.md) 
   6. [Threat Intelligence](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Threat%20Intelligence.md) 
   7. [Purple Teaming](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Purple%20Teaming.md) 
-  8. Open Source Intelligence
+  8. [Open Source Intelligence](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Open%20Source%20Intelligence.md)
   9. Detections 
   10. Privacy Tools 
   11. Windows Internals 
