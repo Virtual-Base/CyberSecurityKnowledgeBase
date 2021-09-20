@@ -9,7 +9,7 @@
   6. [Threat Intelligence](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Threat%20Intelligence.md) 
   7. Purple Teaming 
   8. Open Source Intelligence 
-  9. C2 Matric and Internals
+  9. C2 Matrix and Internals
   10. ViruTotal Queries and Hunting Rules
   11. Malware Samples 
   12. Yara Rules
