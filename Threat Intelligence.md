@@ -1,4 +1,4 @@
-# Theroy 
+# Theory
   - [There is no single Cyber Threat Intelligence Vendor that does everything.](http://correlatedsecurity.com/there-is-no-single-cti-vendor-that-does-everything/)
   - [STIX & TAXII](https://oasis-open.github.io/cti-documentation/)
   - [Report Compilation](https://github.com/mxm0z/awesome-intelligence-writing)
