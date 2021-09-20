@@ -12,7 +12,7 @@
   9. Detections 
   10. Privacy Tools 
   11. Windows Internals 
-  12. Active Directory 
+  12. [Windows Offensive Security](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Windows%20Offensive%20Security.md) 
   13. [Security Datasets](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Security%20Datasets.md) 
   14. M365 Defending Investigations 
   15. Cryptography 
