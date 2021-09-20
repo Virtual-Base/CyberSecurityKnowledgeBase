@@ -50,3 +50,11 @@
 # MiTRE Detection Rules 
   - [Detection Ideas & Rules by Vadim Hunter](https://github.com/vadim-hunter/Detection-Ideas-Rules)
   - [Threat Hunting and Detection by CyberMonk](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection)
+
+# C2 
+  - [Matrix](https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit#gid=0)
+  - [Ares - Understanding & Detecting C2 Frameworks](https://nasbench.medium.com/understanding-detecting-c2-frameworks-ares-8c96aa47e50d)
+  - [TrevorC2 - Understanding & Detecting C2 Frameworks](https://nasbench.medium.com/understanding-detecting-c2-frameworks-trevorc2-2a9ce6f1f425)
+  - [HARS - Understanding & Detecting C2 Frameworks](https://nasbench.medium.com/understanding-detecting-c2-frameworks-hars-682b30f0505c)
+  - [BabyShark](https://nasbench.medium.com/understanding-detecting-c2-frameworks-babyshark-641be4595845)
+  - [DarkFinger-C2 - Understanding & Detecting C2 Frameworks](https://nasbench.medium.com/understanding-detecting-c2-frameworks-darkfinger-c2-539c79282a1c)
