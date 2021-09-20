@@ -6,7 +6,7 @@
   3. [Computer Emergency Response Team](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Computer%20Emergency%20Response%20Team.md) 
   4. [Malware Analysis & Reverse Engineering](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Malware%20Analysis%20&%20Reverse%20Engineering.md) 
   5. [Threat Hunting](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Threat%20Hunting.md) 
-  6. Threat Intelligence 
+  6. [Threat Intelligence](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Threat%20Intelligence.md) 
   7. Purple Teaming 
   8. Open Source Intelligence 
   9. C2 Matric and Internals
