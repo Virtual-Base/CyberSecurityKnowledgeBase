@@ -7,7 +7,7 @@
   4. [Malware Analysis & Reverse Engineering](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Malware%20Analysis%20&%20Reverse%20Engineering.md) 
   5. [Threat Hunting](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Threat%20Hunting.md) 
   6. [Threat Intelligence](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Threat%20Intelligence.md) 
-  7. Purple Teaming 
+  7. [Purple Teaming](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Purple%20Teaming.md) 
   8. Open Source Intelligence 
   9. C2 Matrix and Internals
   10. ViruTotal Queries and Hunting Rules
