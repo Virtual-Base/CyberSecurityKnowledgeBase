@@ -60,12 +60,12 @@
   - [DarkFinger-C2 - Understanding & Detecting C2 Frameworks](https://nasbench.medium.com/understanding-detecting-c2-frameworks-darkfinger-c2-539c79282a1c)
 
 # Virus Total 
-## Training 
+### Training 
   - [Beginners DFIR/Threat Hunting Tutorials](https://www.youtube.com/playlist?list=PLKwUZp9HwWoDjMP648n4yB-AeaqY1Ia40)
   - [Connecting the dots with Virus Total](https://www.curatedintel.org/2021/03/connecting-dots-with-virus-total.html)
-## Tools
+### Tools
   - [Online Hash Checker for Virustotal and Other Services](https://github.com/Neo23x0/munin)
-## Reference
+### Reference
   - [VT Hunting](https://support.virustotal.com/hc/en-us/sections/360000340637-VT-Hunting)
 
 # Yara 
