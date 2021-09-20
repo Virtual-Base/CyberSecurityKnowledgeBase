@@ -50,3 +50,16 @@
   - [Conti Training Leaked Materials](https://darkfeed.io/2021/08/07/conti-affiliate/)
   - [Conti - Fortinet Affiliate Cookbook](https://www.fortinet.com/blog/threat-research/affiliates-cookbook-firsthand-peek-into-operations-and-tradecraft-of-conti)
   - [Conti-Pentester-Guide-Leak](https://github.com/ForbiddenProgrammer/conti-pentester-guide-leak)
+
+# Virus Total 
+## Queries and Graphs
+  - [VT Dorks - Florian Roth](https://github.com/Neo23x0/vti-dorks)
+  - [Malicious Website VT Query](https://github.com/Neo23x0/vti-dorks/pull/8/commits/2d653230a2bf3a14f0cd649eed7a9ca76e857e91)
+  - [Public VT Graphs](https://github.com/BushidoUK/Exploring-APT-campaigns)
+## References
+  - [General Search Modifiers](https://support.virustotal.com/hc/en-us/sections/360000340597-VT-Enterprise)
+  - [IP Address Search Modifiers](https://support.virustotal.com/hc/en-us/articles/360005866297-IP-address-search-modifiers)
+  - [Domain Search Modifiers](https://support.virustotal.com/hc/en-us/articles/360005830378-Domain-search-modifiers)
+  - [URL Search Modifier](https://support.virustotal.com/hc/en-us/articles/360002832977-URL-search-modifiers)
+  - [File Search Modifier](https://support.virustotal.com/hc/en-us/articles/360001385897-File-search-modifiers)
+  - [VT Graph](https://support.virustotal.com/hc/en-us/sections/360000337698-VT-Graph)
