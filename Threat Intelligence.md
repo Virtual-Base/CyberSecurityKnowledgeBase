@@ -44,7 +44,7 @@
   - [Telegram Forums](https://github.com/fastfire/deepdarkCTI/blob/main/telegram.md)
   - [Twitter Feeds](https://github.com/fastfire/deepdarkCTI/blob/main/twitter.md)
 
-# Ransomware List 
+# Ransomware
 ## Conti Ransomware
   - [Intelx.io - CobaltStrike MANUAL_V2 .docx](https://intelx.io/?did=77252046-5045-4a3d-ba6a-a1d8aee4c4e8)
   - [Conti Training Leaked Materials](https://darkfeed.io/2021/08/07/conti-affiliate/)
