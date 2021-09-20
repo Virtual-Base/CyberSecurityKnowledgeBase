@@ -9,14 +9,13 @@
   6. [Threat Intelligence](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Threat%20Intelligence.md) 
   7. [Purple Teaming](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Purple%20Teaming.md) 
   8. Open Source Intelligence 
-  9. ViruTotal Queries and Hunting Rules
-  10. Yara Rules
-  11. Detections 
-  12. Privacy Tools 
-  13. Windows Internals 
-  14. Active Directory 
-  15. [Security Datasets](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Security%20Datasets.md) 
-  16. M365 Defending Investigations 
-  17. Cryptography 
-  18. Programming 
-  29. Linux Security 
+  9. Yara Rules
+  10. Detections 
+  11. Privacy Tools 
+  12. Windows Internals 
+  13. Active Directory 
+  14. [Security Datasets](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Security%20Datasets.md) 
+  15. M365 Defending Investigations 
+  16. Cryptography 
+  17. Programming 
+  18. Linux Security
