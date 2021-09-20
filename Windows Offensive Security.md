@@ -22,6 +22,7 @@
   - [0 to 0.9](https://zer1t0.gitlab.io/posts/attacking_ad/)
   - [Windows & Active Directory Exploitation Cheat Sheet and Command Reference](https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/)
   - [AD Pentesting MindMap](https://github.com/Orange-Cyberdefense/arsenal/blob/master/mindmap/pentest_ad.png)
+  - [Active Directory Attacks](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md#tools)
 
 ### Kerberos
   - [Kerberos (I): How does Kerberos work? – Theory](https://www.tarlogic.com/es/blog/como-funciona-kerberos/)
@@ -31,5 +32,13 @@
 ### Exchange Server
   - [Pentesting MS Exchange Server on the Perimeter MindMap](https://github.com/Orange-Cyberdefense/arsenal/blob/master/mindmap/Pentesting_MS_Exchange_Server_on_the_Perimeter.png)
 
-### 
+### Red Teaming 
+  - [Infrastructure](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques/tree/master/offensive-security/red-team-infrastructure)
+  - [MiTRE TTPs Explanation](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques/tree/master/offensive-security)
+
+# Endpoint Detection and Response(EDR) 
+  - [Blinding EDR On Windows](https://synzack.github.io/Blinding-EDR-On-Windows/)
+  - [Detecting EDR Bypass: Malicious Drivers(Kernel Callbacks)](https://posts.bluraven.io/detecting-edr-bypass-malicious-drivers-kernel-callbacks-f5e6bf8f7481)
+  - [A tale of EDR bypass methods](https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods/)
+  - [Evading EDR in 15 Minutes with ScareCrow](https://adamsvoboda.net/evading-edr-with-scarecrow/)
 
