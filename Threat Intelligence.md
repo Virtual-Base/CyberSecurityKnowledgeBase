@@ -38,4 +38,4 @@
   - [RaaS Forums](https://github.com/fastfire/deepdarkCTI/blob/main/raas.md)
   - [Ransomware Gand Forums](https://github.com/fastfire/deepdarkCTI/blob/main/ransomware_gang.md)
   - [Telegram Forums](https://github.com/fastfire/deepdarkCTI/blob/main/telegram.md)
-  - [Twitter Forums](https://github.com/fastfire/deepdarkCTI/blob/main/twitter.md)
+  - [Twitter Feeds](https://github.com/fastfire/deepdarkCTI/blob/main/twitter.md)
