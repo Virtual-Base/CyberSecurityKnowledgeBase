@@ -13,13 +13,13 @@
   5. [Ransomware Wiki](https://darkfeed.io/ransomwiki/)
   6. [Ransomware Monitor](https://darkfeed.io/indexransomware/)
   7. [Ransom Watch](https://www.ransomwatch.org/)
-  8. [AN ENCOUNTER WITH RANSOMWARE-AS-A-SERVICE: MEGASYNC ANALYSIS](https://blog.reconinfosec.com/megasync-analysis/)
     
    ## **Analysis Blogs**
    - [Chuong Dong](https://chuongdong.com/blog/)
    - [Ransomware The Digest "Crypto-Ransomware"](https://id-ransomware.blogspot.com/)
    - [Ransomware: Creation, Detection, and Response](https://www.youtube.com/watch?v=pLmOWeCAT8M)
    - [Ransomware Double Extortion and Beyond: REvil, Clop, and Conti](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/ransomware-double-extortion-and-beyond-revil-clop-and-conti?utm_source=trendmicroresearch&utm_medium=smk&utm_campaign=0621_dext0rtion)
+   - [AN ENCOUNTER WITH RANSOMWARE-AS-A-SERVICE: MEGASYNC ANALYSIS](https://blog.reconinfosec.com/megasync-analysis/)
 
    ## **Compilation**
    - [SANS - Ransomware](https://www.sans.org/blog/recommended-sources-for-ransomware-information/)
