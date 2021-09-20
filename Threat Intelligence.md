@@ -29,6 +29,10 @@
 # Compilation 
   - [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
 
+# Blogs 
+  - [Conti affiliates use ProxyShell Exchange exploit in ransomware attacks](https://twitter.com/SophosLabs/status/1433769658256089089)
+  - [Analysis of a Dark Web site](https://www.neteye-blog.com/2021/07/analysis-of-a-dark-web-site/)
+
 # DeepDark
   - [Exploits Forums](https://github.com/fastfire/deepdarkCTI/blob/main/exploits.md)
   - [Hacking Forums](https://github.com/fastfire/deepdarkCTI/blob/main/forum.md)
@@ -39,3 +43,10 @@
   - [Ransomware Gand Forums](https://github.com/fastfire/deepdarkCTI/blob/main/ransomware_gang.md)
   - [Telegram Forums](https://github.com/fastfire/deepdarkCTI/blob/main/telegram.md)
   - [Twitter Feeds](https://github.com/fastfire/deepdarkCTI/blob/main/twitter.md)
+
+# Ransomware List 
+## Conti Ransomware
+  - [Intelx.io - CobaltStrike MANUAL_V2 .docx](https://intelx.io/?did=77252046-5045-4a3d-ba6a-a1d8aee4c4e8)
+  - [Conti Training Leaked Materials](https://darkfeed.io/2021/08/07/conti-affiliate/)
+  - [Conti - Fortinet Affiliate Cookbook](https://www.fortinet.com/blog/threat-research/affiliates-cookbook-firsthand-peek-into-operations-and-tradecraft-of-conti)
+  - [Conti-Pentester-Guide-Leak](https://github.com/ForbiddenProgrammer/conti-pentester-guide-leak)
