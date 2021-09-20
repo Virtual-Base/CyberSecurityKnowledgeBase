@@ -11,14 +11,13 @@
   8. Open Source Intelligence 
   9. C2 Matrix and Internals
   10. ViruTotal Queries and Hunting Rules
-  11. Malware Samples 
-  12. Yara Rules
-  13. Detections 
-  14. Privacy Tools 
-  15. Windows Internals 
-  16. Active Directory 
-  17. Datasets 
-  18. M365 Defending Investigations 
-  19. Cryptography 
-  20. Programming 
-  21. Linux Security 
+  11. Yara Rules
+  12. Detections 
+  13. Privacy Tools 
+  14. Windows Internals 
+  15. Active Directory 
+  16. Datasets 
+  17. M365 Defending Investigations 
+  18. Cryptography 
+  19. Programming 
+  20. Linux Security 
