@@ -6,12 +6,6 @@
   - [The Ultimate Guide to Phishing](https://sidb.in/2021/08/03/Phishing-0-to-100.html)
   - [6 ways to detect phishing sites using high-entropy strings](https://bradleyjkemp.dev/post/6-ways-to-detect-phishing-sites-using-high-entropy-strings/)
   - [Hunting Phish](https://emptydc.com/2021/07/16/hunting-phish/amp/?__twitter_impression=true)
-
-# IOC Feeds
-  - [Phishing DataBase](https://github.com/mitchellkrogza/Phishing.Database)
-  - [Twitter Feeds](https://github.com/0xDanielLopez/TweetFeed)
-  - [Daily IOCs](https://github.com/StrangerealIntel/DailyIOC)
-  - [Filescan Feeds](https://www.filescan.io/feed)
 #
 > :heavy_check_mark: Possible :x: Not Possible
 
