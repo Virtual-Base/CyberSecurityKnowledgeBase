@@ -43,7 +43,8 @@
   - [A tale of EDR bypass methods](https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods/)
   - [Evading EDR in 15 Minutes with ScareCrow](https://adamsvoboda.net/evading-edr-with-scarecrow/)
 
-# Windows Management Instrumentation Series(WMI)
+# Windows Management Instrumentation (WMI)
+  - [Understanding WMI Attacks](https://www.varonis.com/blog/wmi-windows-management-instrumentation/)
   - [The Basics (Part 1)](https://0xinfection.github.io/posts/wmi-basics-part-1/)
   - [Exploring Namespaces, Classes & Methods (Part 2)](https://0xinfection.github.io/posts/wmi-classes-methods-part-2/)
   - [Interacting with Windows Registry (Part 3)](https://0xinfection.github.io/posts/wmi-registry-part-3/)
