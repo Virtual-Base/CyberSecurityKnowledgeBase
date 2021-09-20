@@ -56,5 +56,5 @@
   - [Ares - Understanding & Detecting C2 Frameworks](https://nasbench.medium.com/understanding-detecting-c2-frameworks-ares-8c96aa47e50d)
   - [TrevorC2 - Understanding & Detecting C2 Frameworks](https://nasbench.medium.com/understanding-detecting-c2-frameworks-trevorc2-2a9ce6f1f425)
   - [HARS - Understanding & Detecting C2 Frameworks](https://nasbench.medium.com/understanding-detecting-c2-frameworks-hars-682b30f0505c)
-  - [BabyShark](https://nasbench.medium.com/understanding-detecting-c2-frameworks-babyshark-641be4595845)
+  - [BabyShark - Understanding & Detecting C2 Frameworks](https://nasbench.medium.com/understanding-detecting-c2-frameworks-babyshark-641be4595845)
   - [DarkFinger-C2 - Understanding & Detecting C2 Frameworks](https://nasbench.medium.com/understanding-detecting-c2-frameworks-darkfinger-c2-539c79282a1c)
