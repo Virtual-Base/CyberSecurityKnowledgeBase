@@ -58,3 +58,26 @@
   - [HARS - Understanding & Detecting C2 Frameworks](https://nasbench.medium.com/understanding-detecting-c2-frameworks-hars-682b30f0505c)
   - [BabyShark - Understanding & Detecting C2 Frameworks](https://nasbench.medium.com/understanding-detecting-c2-frameworks-babyshark-641be4595845)
   - [DarkFinger-C2 - Understanding & Detecting C2 Frameworks](https://nasbench.medium.com/understanding-detecting-c2-frameworks-darkfinger-c2-539c79282a1c)
+
+# Virus Total 
+## Training 
+  - [Beginners DFIR/Threat Hunting Tutorials](https://www.youtube.com/playlist?list=PLKwUZp9HwWoDjMP648n4yB-AeaqY1Ia40)
+  - [Connecting the dots with Virus Total](https://www.curatedintel.org/2021/03/connecting-dots-with-virus-total.html)
+## Tools
+  - [Online Hash Checker for Virustotal and Other Services](https://github.com/Neo23x0/munin)
+## Reference
+  - [VT Hunting](https://support.virustotal.com/hc/en-us/sections/360000340637-VT-Hunting)
+
+# Yara 
+## Tutorials 
+  - [Neil Fox - Varonis Yara Guide](https://www.varonis.com/blog/yara-rules/)
+  - [Ali Hadi - IOCs and Yara - Part #1](https://www.youtube.com/watch?v=gpEznsKdMmI&list=PLCS2zI95IiNwQ7GfjQB7IpnvbDkhkNsSF&index=5)
+  - [Ali Hadi  - Writing Yara Rules - Part #2](https://www.youtube.com/watch?v=KlcGHo4-e9M&list=PLCS2zI95IiNwQ7GfjQB7IpnvbDkhkNsSF&index=6)
+  - [Ali Hadi  - More Yara Rules - Part #3](https://www.youtube.com/watch?v=jVfI08sDiRM&list=PLCS2zI95IiNwQ7GfjQB7IpnvbDkhkNsSF&index=7)
+  - [YARA Rule Processing Sessions](https://www.youtube.com/playlist?list=PL8OlALxRcWsSEPtN6AujulTHVc9HZMwso)
+  - [Applied YARA training](https://www.brighttalk.com/webcast/18282/504513/applied-yara-training)
+## Detection Rules
+| Repo | Comments |
+| --- | --- |
+| [Yara Rules](https://github.com/advanced-threat-research/Yara-Rules) | APT, Malware, Miner, Stealer, Ransomware, Mobile, RAT |
+| [Florian Roth](https://github.com/Neo23x0/signature-base/tree/master/yara) | ALL |
