@@ -70,6 +70,11 @@
   - [Playing with case-insensitive file names](https://dfir.ru/2021/07/15/playing-with-case-insensitive-file-names/)
   - [Shadow copies become less visible](https://dfir.ru/2021/06/28/shadow-copies-become-less-visible/)
   - [OH, BEHAVE! FIGURING OUT USER BEHAVIOR](https://www.trustedsec.com/blog/oh-behave-figuring-out-user-behavior/)
+  - [Active Directory Security Assessment - ADSA](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Active%20Directory%20Security%20Assessment%2C%20By%20-%20Huy%20Kha.pdf)
+  - [Active Directory Advanced Auditing](https://github.com/mdecrevoisier/Windows-auditing-mindmap/blob/main/active-directory-map/active-directory-map.png)
+  - [Windows Server Advanced Auditing](https://github.com/mdecrevoisier/Windows-auditing-mindmap/blob/main/windows-server-roles-map/windows-server-roles-map.png)
+  - [Post Compromise Checklist](https://www.pwndefend.com/2021/09/15/post-compromise-active-directory-checklist/)
+  - [Windows Auditing Baseline](https://github.com/mdecrevoisier/Windows-auditing-mindmap/blob/main/windows-auditing-baseline-map/windows-auditing-baseline-map.png)
 ### Forensics Analysis - Windows
   - [Windows Forensics Analysis — Tools And Resources](https://nasbench.medium.com/windows-forensics-analysis-tools-and-resources-b819c8b4b6b0)
   - [Windows Forensics Analysis — Windows Artifacts (Part I)](https://nasbench.medium.com/windows-forensics-analysis-windows-artifacts-part-i-c7ad81ada16c)
