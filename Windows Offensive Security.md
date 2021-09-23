@@ -7,12 +7,6 @@
   - [Active Directory Major Vulnerabilities Part 3](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Article%20-%20Active%20Directory%20Vulnerabilities%2C%20Part%203%20of%20the%20_%20XSS.is%20(ex%20DaMaGeLaB).pdf)
   - [Active Directory Major Vulnerabilities Part 4](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Article%20-%20Active%20Directory%20Vulnerabilities%2C%20Part%204%20of%20the%20_%20XSS.is%20(ex%20DaMaGeLaB).pdf)
 
-### Active Diretory Assessments 
-  - [Active Directory Security Assessment - ADSA](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Active%20Directory%20Security%20Assessment%2C%20By%20-%20Huy%20Kha.pdf)
-  - [Active Directory Advanced Auditing](https://github.com/mdecrevoisier/Windows-auditing-mindmap/blob/main/active-directory-map/active-directory-map.png)
-  - [Windows Server Advanced Auditing](https://github.com/mdecrevoisier/Windows-auditing-mindmap/blob/main/windows-server-roles-map/windows-server-roles-map.png)
-  - [Post Compromise Checklist](https://www.pwndefend.com/2021/09/15/post-compromise-active-directory-checklist/)
-
 ### Active Directory Penetration Dojo Series
   - [Setup Of AD Penetration Lab (Part 1)](https://lmntrix.com/lab/active-directory-penetration-dojo-setup-of-ad-penetration-lab-part-1/)
   - [Setup Of AD Penetration Lab (Part 2)](https://lmntrix.com/lab/active-directory-penetration-dojo-setup-of-ad-penetration-lab-part-2/)
