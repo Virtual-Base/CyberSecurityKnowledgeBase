@@ -101,6 +101,7 @@
   - [LOLBins Are No Laughing Matter: How Attackers Operate Quietly](https://www.uptycs.com/blog/lolbins-are-no-laughing-matter)
 
 # EndPoint Detection and Response 
+  - [Empirical Assessment of Endpoint Detection and Response Systems against Advanced Persistent Threats Attack Vectors](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Empirical%20Assessment%20of%20Endpoint%20Detection%20and%20Response.pdf)
 ### Symantec
   - [Threat Hunting with Symantec EDR and ATT&CK](https://nasbench.medium.com/threat-hunting-with-symantec-edr-and-att-ck-97272ed2d730)
   - [Forensic Artifacts — Symantec EDR “localdatastore” Folder](https://nasbench.medium.com/forensics-artifacts-symantec-edr-localdatastore-folder-9bff91d2876d)
