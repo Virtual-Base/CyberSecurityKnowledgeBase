@@ -10,7 +10,6 @@
   - [Enterprise Scale Threat Hunting: C2 Beacon Detection with Unsupervised ML and KQL — Part 1](https://posts.bluraven.io/enterprise-scale-threat-hunting-network-beacon-detection-with-unsupervised-machine-learning-and-277c4c30304f)
   - [Enterprise Scale Threat Hunting: C2 Beacon Detection with Unsupervised ML and KQL — Part 2](https://posts.bluraven.io/enterprise-scale-threat-hunting-network-beacon-detection-with-unsupervised-ml-and-kql-part-2-bff46cfc1e7e)
   - [Sleeping with a Mask On (Cobalt Strike)](https://adamsvoboda.net/sleeping-with-a-mask-on-cobaltstrike/amp/?__twitter_impression=true)
-  - [Detecting Command & Control beaconing with Sysmon and Splunk](https://blog.cyberabilities.ca/2021/08/detecting-command-control-beaconing.html?m=1)
 
 # Web Proxy Threat Hunting 
   - [Threat Hunting and Detection with Web Proxy Logs](https://posts.bluraven.io/threat-hunting-and-detection-with-web-proxy-logs-58094cae3537)
@@ -82,3 +81,39 @@
 | --- | --- |
 | [Yara Rules](https://github.com/advanced-threat-research/Yara-Rules) | APT, Malware, Miner, Stealer, Ransomware, Mobile, RAT |
 | [Florian Roth](https://github.com/Neo23x0/signature-base/tree/master/yara) | ALL |
+
+# Splunk 
+## Theory 
+  - [Splunk Architecture: Forwarder, Indexer, And Search Head](https://www.socinvestigation.com/splunk-architecture-forwarder-indexer-and-search-head/)
+  - [Splunk Features – Quick Guide on Key Elements](https://www.socinvestigation.com/splunk-features-quick-guide-on-key-elements/)
+  - [Splunk Enterprise Security Administrator Study Notes](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Splunk%20Enterprise%20Security%20Administrator%20Study%20Notes.pdf)
+  - [Splunk Fundamentals](https://www.youtube.com/c/SiddharthaChakraborty/playlists)
+## Analysis Blog 
+  - [Splunk and using to set up a detection lab](https://medium.com/nerd-for-tech/splunk-and-using-to-set-up-a-detection-lab-d483636d08d8)
+  - [Splunk Security Blogs](https://www.splunk.com/en_us/blog/security.html)
+  - [A Blue Team guide to Azure & Office 365 monitoring](https://0x00sec.org/t/a-blue-team-guide-to-azure-office-365-monitoring/14411)
+## Rules 
+  - [Splunk Seurity Content](https://github.com/splunk/security_content)
+  - [Splunk PSTree Command](https://github.com/murchisd/splunk_pstree_app)
+
+# Sysmon
+## Theory 
+  - [Sysmon Usage](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon#usage)
+  - [Sysmon Threat Analysis Guide](https://www.varonis.com/blog/sysmon-threat-detection-guide/)
+  - [Trustedsec Sysmon Community Guide](https://github.com/trustedsec/SysmonCommunityGuide)
+  - [Sysmon Events to API Mapping](https://raw.githubusercontent.com/OTRF/API-To-Event/master/images/API-to-Sysmon.svg)
+  - [Introducing Sysmon Config Pusher](https://www.lares.com/blog/introducing-sysmon-config-pusher/)
+## Configuration
+  - [SwiftonSecurity](https://github.com/SwiftOnSecurity/sysmon-config)
+  - [Florian Roth Sysmon Config](https://github.com/Neo23x0/sysmon-config)
+## Compilation
+  - [Splunk DFIR](https://github.com/MHaggis/sysmon-dfir)
+## Tools
+  - [SysmonConfigPusher](https://github.com/LaresLLC/SysmonConfigPusher)
+  - [Utilities for Sysmon](https://github.com/nshalabi/SysmonTools)
+  - [Sysmon Visualizaton and Tools](https://github.com/agreenjay/sysmon)
+
+# Sigma
+  - [How to Write Sigma Rules](https://www.nextron-systems.com/2018/02/10/write-sigma-rules/)
+## Rules
+  - [Sigma Rules Repo](https://github.com/SigmaHQ/sigma/tree/master/rules)
