@@ -70,6 +70,10 @@
   - [Playing with case-insensitive file names](https://dfir.ru/2021/07/15/playing-with-case-insensitive-file-names/)
   - [Shadow copies become less visible](https://dfir.ru/2021/06/28/shadow-copies-become-less-visible/)
   - [OH, BEHAVE! FIGURING OUT USER BEHAVIOR](https://www.trustedsec.com/blog/oh-behave-figuring-out-user-behavior/)
+### Forensics Analysis - Windows
+  - [Windows Forensics Analysis — Tools And Resources](https://nasbench.medium.com/windows-forensics-analysis-tools-and-resources-b819c8b4b6b0)
+  - [Windows Forensics Analysis — Windows Artifacts (Part I)](https://nasbench.medium.com/windows-forensics-analysis-windows-artifacts-part-i-c7ad81ada16c)
+  - [Windows Forensics Analysis — Windows Artifacts (Part II)](https://nasbench.medium.com/windows-forensics-analysis-windows-artifacts-part-ii-71b8fa68d8a1)
 
 # MS Exchange Web Interface
   - [Attacking MS Exchange Web Interfaces Analysis](https://swarm.ptsecurity.com/attacking-ms-exchange-web-interfaces/)
@@ -92,5 +96,6 @@
 
 # EndPoint Detection and Response 
 ### Symantec
+  - [Threat Hunting with Symantec EDR and ATT&CK](https://nasbench.medium.com/threat-hunting-with-symantec-edr-and-att-ck-97272ed2d730)
   - [Forensic Artifacts — Symantec EDR “localdatastore” Folder](https://nasbench.medium.com/forensics-artifacts-symantec-edr-localdatastore-folder-9bff91d2876d)
   - [Forensic Artifacts — Parsing Symantec EDR “localdatastore” LevelDB Files](https://nasbench.medium.com/forensics-artifacts-parsing-symantec-edr-localdatastore-leveldb-files-86f5c75736d5)
