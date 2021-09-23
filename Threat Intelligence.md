@@ -50,6 +50,8 @@
   - [Conti Training Leaked Materials](https://darkfeed.io/2021/08/07/conti-affiliate/)
   - [Conti - Fortinet Affiliate Cookbook](https://www.fortinet.com/blog/threat-research/affiliates-cookbook-firsthand-peek-into-operations-and-tradecraft-of-conti)
   - [Conti-Pentester-Guide-Leak](https://github.com/ForbiddenProgrammer/conti-pentester-guide-leak)
+### LockBit Ransomware
+  - [Interview Translation Script](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/AdvIntel-LockBit-Interview_Translation-%26-Transcript.pdf)
 
 # Virus Total 
 ### Queries and Graphs
