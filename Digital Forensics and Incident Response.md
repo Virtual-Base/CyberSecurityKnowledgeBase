@@ -89,3 +89,8 @@
 
 # LoLbins 
   - [LOLBins Are No Laughing Matter: How Attackers Operate Quietly](https://www.uptycs.com/blog/lolbins-are-no-laughing-matter)
+
+# EndPoint Detection and Response 
+### Symantec
+  - [Forensic Artifacts — Symantec EDR “localdatastore” Folder](https://nasbench.medium.com/forensics-artifacts-symantec-edr-localdatastore-folder-9bff91d2876d)
+  - [Forensic Artifacts — Parsing Symantec EDR “localdatastore” LevelDB Files](https://nasbench.medium.com/forensics-artifacts-parsing-symantec-edr-localdatastore-leveldb-files-86f5c75736d5)
