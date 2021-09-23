@@ -69,51 +69,51 @@
   - [VT Hunting](https://support.virustotal.com/hc/en-us/sections/360000340637-VT-Hunting)
 
 # Yara 
-## Tutorials 
+### Tutorials 
   - [Neil Fox - Varonis Yara Guide](https://www.varonis.com/blog/yara-rules/)
   - [Ali Hadi - IOCs and Yara - Part #1](https://www.youtube.com/watch?v=gpEznsKdMmI&list=PLCS2zI95IiNwQ7GfjQB7IpnvbDkhkNsSF&index=5)
   - [Ali Hadi  - Writing Yara Rules - Part #2](https://www.youtube.com/watch?v=KlcGHo4-e9M&list=PLCS2zI95IiNwQ7GfjQB7IpnvbDkhkNsSF&index=6)
   - [Ali Hadi  - More Yara Rules - Part #3](https://www.youtube.com/watch?v=jVfI08sDiRM&list=PLCS2zI95IiNwQ7GfjQB7IpnvbDkhkNsSF&index=7)
   - [YARA Rule Processing Sessions](https://www.youtube.com/playlist?list=PL8OlALxRcWsSEPtN6AujulTHVc9HZMwso)
   - [Applied YARA training](https://www.brighttalk.com/webcast/18282/504513/applied-yara-training)
-## Detection Rules
+### Detection Rules
 | Repo | Comments |
 | --- | --- |
 | [Yara Rules](https://github.com/advanced-threat-research/Yara-Rules) | APT, Malware, Miner, Stealer, Ransomware, Mobile, RAT |
 | [Florian Roth](https://github.com/Neo23x0/signature-base/tree/master/yara) | ALL |
 
 # Splunk 
-## Theory 
+### Theory 
   - [Splunk Architecture: Forwarder, Indexer, And Search Head](https://www.socinvestigation.com/splunk-architecture-forwarder-indexer-and-search-head/)
   - [Splunk Features – Quick Guide on Key Elements](https://www.socinvestigation.com/splunk-features-quick-guide-on-key-elements/)
   - [Splunk Enterprise Security Administrator Study Notes](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Splunk%20Enterprise%20Security%20Administrator%20Study%20Notes.pdf)
   - [Splunk Fundamentals](https://www.youtube.com/c/SiddharthaChakraborty/playlists)
-## Analysis Blog 
+### Analysis Blog 
   - [Splunk and using to set up a detection lab](https://medium.com/nerd-for-tech/splunk-and-using-to-set-up-a-detection-lab-d483636d08d8)
   - [Splunk Security Blogs](https://www.splunk.com/en_us/blog/security.html)
   - [A Blue Team guide to Azure & Office 365 monitoring](https://0x00sec.org/t/a-blue-team-guide-to-azure-office-365-monitoring/14411)
-## Rules 
+### Rules 
   - [Splunk Seurity Content](https://github.com/splunk/security_content)
   - [Splunk PSTree Command](https://github.com/murchisd/splunk_pstree_app)
 
 # Sysmon
-## Theory 
+### Theory 
   - [Sysmon Usage](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon#usage)
   - [Sysmon Threat Analysis Guide](https://www.varonis.com/blog/sysmon-threat-detection-guide/)
   - [Trustedsec Sysmon Community Guide](https://github.com/trustedsec/SysmonCommunityGuide)
   - [Sysmon Events to API Mapping](https://raw.githubusercontent.com/OTRF/API-To-Event/master/images/API-to-Sysmon.svg)
   - [Introducing Sysmon Config Pusher](https://www.lares.com/blog/introducing-sysmon-config-pusher/)
-## Configuration
+### Configuration
   - [SwiftonSecurity](https://github.com/SwiftOnSecurity/sysmon-config)
   - [Florian Roth Sysmon Config](https://github.com/Neo23x0/sysmon-config)
-## Compilation
+### Compilation
   - [Splunk DFIR](https://github.com/MHaggis/sysmon-dfir)
-## Tools
+### Tools
   - [SysmonConfigPusher](https://github.com/LaresLLC/SysmonConfigPusher)
   - [Utilities for Sysmon](https://github.com/nshalabi/SysmonTools)
   - [Sysmon Visualizaton and Tools](https://github.com/agreenjay/sysmon)
 
 # Sigma
   - [How to Write Sigma Rules](https://www.nextron-systems.com/2018/02/10/write-sigma-rules/)
-## Rules
+### Rules
   - [Sigma Rules Repo](https://github.com/SigmaHQ/sigma/tree/master/rules)
