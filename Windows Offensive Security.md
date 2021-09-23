@@ -44,6 +44,10 @@
   - [Detecting EDR Bypass: Malicious Drivers(Kernel Callbacks)](https://posts.bluraven.io/detecting-edr-bypass-malicious-drivers-kernel-callbacks-f5e6bf8f7481)
   - [A tale of EDR bypass methods](https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods/)
   - [Evading EDR in 15 Minutes with ScareCrow](https://adamsvoboda.net/evading-edr-with-scarecrow/)
+### Symantec
+  - [Symantec EDR Internals — Criterion](https://nasbench.medium.com/symantec-edr-internals-criterion-fa49be4e21af)
+  - [Symantec EDR Internals — Event Enrichment Rules [Part I]](https://nasbench.medium.com/symantec-edr-internals-event-enrichment-rules-part-i-b5e4340041a7)
+  - [Symantec Endpoint Protection Meets COM — Using “Symantec.SSHelper” As A LOLBIN](https://nasbench.medium.com/symantec-endpoint-protection-meets-com-using-symantec-sshelper-as-a-lolbin-40d515a121ce)
 
 # Windows Management Instrumentation (WMI)
   - [Understanding WMI Attacks](https://www.varonis.com/blog/wmi-windows-management-instrumentation/)
