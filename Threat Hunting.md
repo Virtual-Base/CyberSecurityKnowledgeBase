@@ -1,15 +1,19 @@
 # Theory 
   - [Threat Hunting Architecture](https://www.linkedin.com/pulse/threat-hunting-architecture-saeed-hosseini)
+  - [Hunting APT in Network Logs](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Hunting%20for%20APT%20in%20Network%20Logs.pdf)
 
 # Active Directory Threat Hunting 
   - [Threat Hunting in Active Directory Environment](https://www.youtube.com/watch?v=lBIaLmvVpBE)
   - [Active Directory object ACL manipulation](https://github.com/vadim-hunter/Detection-Ideas-Rules/blob/main/TTPs/Persistence/TXXXX%20-%20Active%20Directory%20object%20ACL%20manipulation/TXXXX.001%20-%20AdminSDHolder/Procedures.yaml)
 
 # Cobalt Strike 
+  - [Cobalt Strike Theory for Begineers](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Article%20-%20A%20guide%20to%20Cobalt%20Strike%20for%20the%20little%20ones.%20Part%201%20_%20XSS.is%20(ex%20DaMaGeLaB).pdf)
   - [Cobalt Strike C2 Hunting with Shodan](https://michaelkoczwara.medium.com/cobalt-strike-c2-hunting-with-shodan-c448d501a6e2)
   - [Enterprise Scale Threat Hunting: C2 Beacon Detection with Unsupervised ML and KQL — Part 1](https://posts.bluraven.io/enterprise-scale-threat-hunting-network-beacon-detection-with-unsupervised-machine-learning-and-277c4c30304f)
   - [Enterprise Scale Threat Hunting: C2 Beacon Detection with Unsupervised ML and KQL — Part 2](https://posts.bluraven.io/enterprise-scale-threat-hunting-network-beacon-detection-with-unsupervised-ml-and-kql-part-2-bff46cfc1e7e)
   - [Sleeping with a Mask On (Cobalt Strike)](https://adamsvoboda.net/sleeping-with-a-mask-on-cobaltstrike/amp/?__twitter_impression=true)
+  - [Cobalt Strike Detection RF Spectrum](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Cobalt_Strike_RF_Inskit_Group_Detection_Guide.pdf)
+  - [Cobalt Strike Conti AD Leak](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Cobalt%20strike_manualv2_AD.pdf)
 
 # Web Proxy Threat Hunting 
   - [Threat Hunting and Detection with Web Proxy Logs](https://posts.bluraven.io/threat-hunting-and-detection-with-web-proxy-logs-58094cae3537)
@@ -42,10 +46,12 @@
   - [Hunting for the Behavior: Scheduled Tasks](https://posts.bluraven.io/hunting-for-the-behavior-scheduled-tasks-9efe0b8ade40)
   - [Windows Task Scheduler Monitor](https://www.winitor.com/pdf/Monitor-Windows-Task-Scheduler.pdf)
   - [Detection of anomalous process creation chains using word vectorization, normalization, and an autoencoder](https://blog.f-secure.com/process-creation-chains/)
+  - [Windows_system_process_hunting](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Windows_system_process_hunting.pdf)
 
 # Powershell Suspicious Detcetion
   - [PowerShell Detections — Threat Research Release, August 2021](https://www.splunk.com/en_us/blog/security/powershell-detections-threat-research-release-august-2021.html?s=08)
   - [Detecting Malicious PowerShell](https://blog.cyberabilities.ca/2021/01/detecting-malicious-powershell.html?m=1)
+  - [SANS Powershell Hunting and Gathering](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/SANS-Threat%20Hunting%20and%20Gathering%20with%20PowerShell.pdf)
 
 # MiTRE Detection Rules 
   - [Detection Ideas & Rules by Vadim Hunter](https://github.com/vadim-hunter/Detection-Ideas-Rules)
@@ -63,6 +69,7 @@
 ### Training 
   - [Beginners DFIR/Threat Hunting Tutorials](https://www.youtube.com/playlist?list=PLKwUZp9HwWoDjMP648n4yB-AeaqY1Ia40)
   - [Connecting the dots with Virus Total](https://www.curatedintel.org/2021/03/connecting-dots-with-virus-total.html)
+  - [VirusTotal for Investigators](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/VirusTotal%20for%20Investigators.pdf)
 ### Tools
   - [Online Hash Checker for Virustotal and Other Services](https://github.com/Neo23x0/munin)
 ### Reference
