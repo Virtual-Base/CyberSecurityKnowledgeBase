@@ -1,1 +1,51 @@
+# Theory 
+  - [Windows Internals Part 1](https://www.amazon.in/Windows-Internals-Part-architecture-management-ebook/dp/B0711FDMRR)
+  - [Windows Internals Part 2](https://www.microsoftpressstore.com/store/windows-internals-part-2-9780135462331)
+  - [Windows System Programming Part 1]()
+  - [Windows System Programming Part 2]()
+  - [Parent Process vs. Creator Process](https://scorpiosoftware.net/2021/01/10/parent-process-vs-creator-process/)
+  - [Dynamic Symbolic Links](https://scorpiosoftware.net/2021/04/30/dynamic-symbolic-links/)
+  - [Processes, Threads, and Windows](https://scorpiosoftware.net/2021/07/03/processes-threads-and-windows/amp/?__twitter_impression=true)
+  - [Windows Alternate Data Streams (ADS)](https://www.winitor.com/pdf/NtfsAlternateDataStreams.pdf)
+  - [Windows Dynamic-Link Libraries](https://www.winitor.com/pdf/DynamicLinkLibraries.pdf)
+  - [Windows Security Components](https://www.winitor.com/pdf/WindowsSecurityComponents.pdf)
+  - [Windows Security Environment](https://www.winitor.com/pdf/WindowsSecurityEnvironment.pdf)
+  - [Windows Windows User Mode Components – Key User Mode Components](https://www.winitor.com/pdf/WindowsUserModeComponents.pdf)
+  - [OPS108: Windows authentication internals in a hybrid world](https://www.youtube.com/watch?v=IlIP13iqJOg)
+  - [Windows Local Security Authoruty named as lsass.exe](https://twitter.com/SteveSyfuhs/status/1423387173164707840)
+  - [PerfView Hard Core CPU Investigations (Using CPU Counters) on Windows 10](https://docs.microsoft.com/en-us/archive/blogs/vancem/perfview-hard-core-cpu-investigations-using-cpu-counters-on-windows-10)
+  - [Understanding Network Access in Windows AppContainers](https://googleprojectzero.blogspot.com/2021/08/understanding-network-access-windows-app.html?m=1)
+  - [Restrict installation of (USB) devices using Group Policy](https://4sysops.com/archives/restrict-installation-of-usb-devices-using-group-policy/)
+
+# Tutorials 
+  - [OS Internals Concepts - For Reverse Engineering & Malware Research Interview](https://www.youtube.com/playlist?list=PLKwUZp9HwWoCZ7wjx-wQBlvudxauhcxpn)
+  - [Dancing with COM - Deep dive into understanding Component Object Model](https://www.youtube.com/watch?v=8tjrFm2K30Q)
+  - [WINDBG Kernel&User mode debugging: Walking through System structures EPROCESS, KPROCESS, ETHREAD, KTHREAD, TEB, PEB and their using](https://github.com/Dump-GUY/Malware-analysis-and-Reverse-engineering/blob/main/WINDBG%20Kernel%26User%20Mode%20Debugging/WINDBG%20Kernel%26User%20Mode%20Debugging.md)
+  - [Introduction to Windbg and debugging windows](https://www.youtube.com/playlist?list=PLhx7-txsG6t6n_E2LgDGqgvJtCHPL7UFu)
+  - [Windows Internal Part 1 - Processes](https://www.youtube.com/playlist?list=PLhx7-txsG6t5i-kIZ_hwJSgZrnka4GXvn)
+  - [Tracing Windows APIs using Tiny_Tracer](https://www.youtube.com/watch?v=bPcCY-71XQQ)
+  - [Tracing C function "fopen" [Part1] - IDA Free User-Mode Walk-Through tracing to NTApi](https://www.youtube.com/watch?v=1HZCg1gVPpw&list=PLf5wwHGjuyZ3DL3A2fB3doTtdp7uSwrg-&index=8)
+  - [Tracing C function fopen [Part2] - Windbg Kernel Debugging - Walk-Through User-Mode to Kernel ES](https://www.youtube.com/watch?v=8oaEAPC84gc&list=PLf5wwHGjuyZ3DL3A2fB3doTtdp7uSwrg-&index=9)
+  - [PerfView - Isolate CPU and Memory-related Performance Issues](https://channel9.msdn.com/Series/PerfView-Tutorial)
+ 
+ # Tool
+  - [PerfView - Isolate CPU and Memory-related Performance Issues](https://github.com/microsoft/perfview)
+ 
+ # Event Tracing for Windows
+  - [ETW Compiled Resource](https://github.com/nasbench/ETW-Resources)
+  - [Finding Detection and Forensic Goodness In ETW Providers](https://github.com/nasbench/MindMaps/tree/main/Finding%20Detection%20and%20Forensic%20Goodness%20In%20ETW%20Providers)
+  - [Windows 10 ETW Events](https://github.com/jdu2600/Windows10EtwEvents)
+  - [A Primer On Event Tracing For Windows (ETW)](https://nasbench.medium.com/a-primer-on-event-tracing-for-windows-etw-997725c082bf)
+  - [Finding Detection and Forensic Goodness In ETW Providers](https://nasbench.medium.com/finding-detection-and-forensic-goodness-in-etw-providers-7c7a2b5b5f4f)
+  - [Event Tracing For Windows - Velociraptor](https://velociraptor.velocidex.com/event-tracing-for-windows-41eb031abd69)
+  - [ETW Part 2: Process Parent Spoofing](https://velociraptor.velocidex.com/etw-part-2-process-parent-spoofing-99df7e3db94d)
+
+# System Process
+  - [Windows Systen Process MindMap](https://github.com/nasbench/MindMaps/blob/main/Windows%20System%20Processes/Windows%20Services%20(Creation).xmind)
+  - [Demystifying the “SVCHOST.EXE” Process and Its Command Line Options](https://nasbench.medium.com/demystifying-the-svchost-exe-process-and-its-command-line-options-508e9114e747)
+  - [A Deep Dive Into RUNDLL32.EXE](https://nasbench.medium.com/a-deep-dive-into-rundll32-exe-642344b41e90)
+  - [What is the “DLLHOST.EXE” Process Actually Running](https://nasbench.medium.com/what-is-the-dllhost-exe-process-actually-running-ef9fe4c19c08)
+  - [A Deep Dive Into Windows Scheduled Tasks and The Processes Running Them](https://nasbench.medium.com/a-deep-dive-into-windows-scheduled-tasks-and-the-processes-running-them-218d1eed4cce)
+  - [Windows System Processes — An Overview For Blue Teams](https://nasbench.medium.com/windows-system-processes-an-overview-for-blue-teams-42fa7a617920)
+
 
