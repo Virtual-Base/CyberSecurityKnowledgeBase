@@ -30,6 +30,8 @@
  
  # Tool
   - [PerfView - Isolate CPU and Memory-related Performance Issues](https://github.com/microsoft/perfview)
+  - [HardeningKitty and Windows 10 Hardening](https://github.com/0x6d69636b/windows_hardening)
+  - [Fibratus - Tracing of the Windows kernel](https://github.com/rabbitstack/fibratus)
  
  # Event Tracing for Windows
   - [ETW Compiled Resource](https://github.com/nasbench/ETW-Resources)
