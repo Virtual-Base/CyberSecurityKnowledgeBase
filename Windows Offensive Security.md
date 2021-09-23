@@ -34,6 +34,7 @@
   - [MiTRE TTPs Explanation](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques/tree/master/offensive-security)
 
 # Endpoint Detection and Response(EDR) 
+  - [EDRs Against APT 2021](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/EDR_Against_APT_2021.pdf)
   - [Blinding EDR On Windows](https://synzack.github.io/Blinding-EDR-On-Windows/)
   - [Detecting EDR Bypass: Malicious Drivers(Kernel Callbacks)](https://posts.bluraven.io/detecting-edr-bypass-malicious-drivers-kernel-callbacks-f5e6bf8f7481)
   - [A tale of EDR bypass methods](https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods/)
@@ -48,3 +49,9 @@
   - [The Basics (Part 1)](https://0xinfection.github.io/posts/wmi-basics-part-1/)
   - [Exploring Namespaces, Classes & Methods (Part 2)](https://0xinfection.github.io/posts/wmi-classes-methods-part-2/)
   - [Interacting with Windows Registry (Part 3)](https://0xinfection.github.io/posts/wmi-registry-part-3/)
+
+# Post Exploitation 
+  - [Pivoting Squeezing](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/The_article_is_Pivoting_Squeezing_the_most_out_of_post-exploitation.pdf)
+  - [ByPass Antivirus](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/The%20article_is_F%23ck_da_Antivirus_How_to_bypass_antivirus_when_pentest.pdf)
+  - [Lateral Remote Code Execution](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Article_Guide_to_Lateral_We_study_remote_code_execution_in_Windows_from_all_sides.pdf)
+  - [Reverse Proxies to Nmap Scan](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Article%20-%20How_APTs_Use_Reverse_Proxies_to_Nmap_Scan_Internal_Networks.pdf)
