@@ -14,6 +14,7 @@
   - [MISP - OSTIP & OSTIS](https://www.misp-project.org/)
   - [OpenCTI](https://github.com/OpenCTI-Platform/opencti)
   - [Twitter - Hoaxy](https://hoaxy.osome.iu.edu/)
+  - [Threat Security Search Engine](https://cse.google.com/cse?cx=003248445720253387346:turlh5vi4xc)
 
 # IOC Feeds
 | Feeds Name | IP Address | Domain | URL | Hash | 
