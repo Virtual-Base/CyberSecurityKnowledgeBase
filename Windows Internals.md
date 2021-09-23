@@ -49,5 +49,6 @@
   - [What is the “DLLHOST.EXE” Process Actually Running](https://nasbench.medium.com/what-is-the-dllhost-exe-process-actually-running-ef9fe4c19c08)
   - [A Deep Dive Into Windows Scheduled Tasks and The Processes Running Them](https://nasbench.medium.com/a-deep-dive-into-windows-scheduled-tasks-and-the-processes-running-them-218d1eed4cce)
   - [Windows System Processes — An Overview For Blue Teams](https://nasbench.medium.com/windows-system-processes-an-overview-for-blue-teams-42fa7a617920)
+  - [Windows Hosted Services](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Windows%20Hosted%20Services%20(svchost)%20-%20Child%20Baseline%20v.1.pdf)
 
 
