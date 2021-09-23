@@ -1,8 +1,8 @@
 # Theory 
   - [Windows Internals Part 1](https://www.amazon.in/Windows-Internals-Part-architecture-management-ebook/dp/B0711FDMRR)
-  - [Windows Internals Part 2](https://www.microsoftpressstore.com/store/windows-internals-part-2-9780135462331)
-  - [Windows System Programming Part 1]()
-  - [Windows System Programming Part 2]()
+  - [Windows Internals Part 2](https://www.amazon.in/Windows-Internals-Mark-Russinovich/dp/0135462401)
+  - [Windows System Programming Part 1](https://leanpub.com/windows10systemprogramming)
+  - [Windows System Programming Part 2](https://leanpub.com/windows10systemprogrammingpart2)
   - [Parent Process vs. Creator Process](https://scorpiosoftware.net/2021/01/10/parent-process-vs-creator-process/)
   - [Dynamic Symbolic Links](https://scorpiosoftware.net/2021/04/30/dynamic-symbolic-links/)
   - [Processes, Threads, and Windows](https://scorpiosoftware.net/2021/07/03/processes-threads-and-windows/amp/?__twitter_impression=true)
