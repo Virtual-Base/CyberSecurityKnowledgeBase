@@ -75,6 +75,7 @@
   - [Windows Server Advanced Auditing](https://github.com/mdecrevoisier/Windows-auditing-mindmap/blob/main/windows-server-roles-map/windows-server-roles-map.png)
   - [Post Compromise Checklist](https://www.pwndefend.com/2021/09/15/post-compromise-active-directory-checklist/)
   - [Windows Auditing Baseline](https://github.com/mdecrevoisier/Windows-auditing-mindmap/blob/main/windows-auditing-baseline-map/windows-auditing-baseline-map.png)
+  - [BREAKING TYPICAL WINDOWS HARDENING IMPLEMENTATIONS](https://www.trustedsec.com/blog/breaking-typical-windows-hardening-implementations/)
 ### Forensics Analysis - Windows
   - [Windows Forensics Analysis — Tools And Resources](https://nasbench.medium.com/windows-forensics-analysis-tools-and-resources-b819c8b4b6b0)
   - [Windows Forensics Analysis — Windows Artifacts (Part I)](https://nasbench.medium.com/windows-forensics-analysis-windows-artifacts-part-i-c7ad81ada16c)
