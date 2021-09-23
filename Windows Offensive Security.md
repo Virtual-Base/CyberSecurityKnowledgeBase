@@ -29,7 +29,7 @@
 ### Exchange Server
   - [Pentesting MS Exchange Server on the Perimeter MindMap](https://github.com/Orange-Cyberdefense/arsenal/blob/master/mindmap/Pentesting_MS_Exchange_Server_on_the_Perimeter.png)
 
-### Red Teaming 
+# Red Teaming 
   - [Infrastructure](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques/tree/master/offensive-security/red-team-infrastructure)
   - [MiTRE TTPs Explanation](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques/tree/master/offensive-security)
 
@@ -50,8 +50,12 @@
   - [Exploring Namespaces, Classes & Methods (Part 2)](https://0xinfection.github.io/posts/wmi-classes-methods-part-2/)
   - [Interacting with Windows Registry (Part 3)](https://0xinfection.github.io/posts/wmi-registry-part-3/)
 
+# Lateral Movement
+  - [Lateral Movement Using DCOM Objects and C#](https://github.com/klezVirus/klezVirus.github.io/tree/master/RedTeaming/LateralMovement/LateralMovementDCOM)
+  - [Lateral Movement Using PSRemoting via C#](https://github.com/klezVirus/klezVirus.github.io/tree/master/RedTeaming/LateralMovement/LateralMovementPSRemoting)
+
 # Post Exploitation 
   - [Pivoting Squeezing](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/The_article_is_Pivoting_Squeezing_the_most_out_of_post-exploitation.pdf)
   - [ByPass Antivirus](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/The%20article_is_F%23ck_da_Antivirus_How_to_bypass_antivirus_when_pentest.pdf)
-  - [Lateral Remote Code Execution](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Article_Guide_to_Lateral_We_study_remote_code_execution_in_Windows_from_all_sides.pdf)
+  - [Remote Code Execution](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Article_Guide_to_Lateral_We_study_remote_code_execution_in_Windows_from_all_sides.pdf)
   - [Reverse Proxies to Nmap Scan](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Article%20-%20How_APTs_Use_Reverse_Proxies_to_Nmap_Scan_Internal_Networks.pdf)
