@@ -59,3 +59,14 @@
   - [ByPass Antivirus](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/The%20article_is_F%23ck_da_Antivirus_How_to_bypass_antivirus_when_pentest.pdf)
   - [Remote Code Execution](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Article_Guide_to_Lateral_We_study_remote_code_execution_in_Windows_from_all_sides.pdf)
   - [Reverse Proxies to Nmap Scan](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Article%20-%20How_APTs_Use_Reverse_Proxies_to_Nmap_Scan_Internal_Networks.pdf)
+
+# Windows Malware Development 
+  - [Malware development part 1 - basics](https://0xpat.github.io/Malware_development_part_1/)
+  - [Malware development part 2 - anti dynamic analysis & sandboxes](https://0xpat.github.io/Malware_development_part_2/)
+  - [Malware development part 3 - anti-debugging](https://0xpat.github.io/Malware_development_part_3/)
+  - [Malware development part 4 - anti static analysis tricks](https://0xpat.github.io/Malware_development_part_4/)
+  - [Malware development part 5 - tips & tricks](https://0xpat.github.io/Malware_development_part_5/)
+  - [Malware development part 6 - advanced obfuscation with LLVM and template metaprogramming](https://0xpat.github.io/Malware_development_part_6/)
+  - [Malware development part 7 - Secure Desktop keylogger](https://0xpat.github.io/Malware_development_part_7/)
+  - [Malware development part 8 - COFF injection and in-memory execution](https://0xpat.github.io/Malware_development_part_8/)
+  - [Malware development part 9 - hosting CLR and managed code injection](https://0xpat.github.io/Malware_development_part_9/)
