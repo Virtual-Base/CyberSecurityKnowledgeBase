@@ -1,5 +1,3 @@
-# Research Paper
-  - [vxunderground - Study Research Paper](https://vx-underground.org/papers.html)
 # Active Directory 
 ### Lab Setup 
   - [Active Directory Security - 101](https://github.com/cfalta/adsec)
@@ -62,7 +60,10 @@
   - [Remote Code Execution](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Article_Guide_to_Lateral_We_study_remote_code_execution_in_Windows_from_all_sides.pdf)
   - [Reverse Proxies to Nmap Scan](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Article%20-%20How_APTs_Use_Reverse_Proxies_to_Nmap_Scan_Internal_Networks.pdf)
 
-# Windows Malware Development 
+# Malware Development
+  - [The Art of Malware Development](https://hackersarcade.medium.com/the-art-of-malware-development-d9843ad10a10)
+  - [vxunderground - Study Research Paper](https://vx-underground.org/papers.html)
+## Windows Malware Development 
   - [Malware development part 1 - basics](https://0xpat.github.io/Malware_development_part_1/)
   - [Malware development part 2 - anti dynamic analysis & sandboxes](https://0xpat.github.io/Malware_development_part_2/)
   - [Malware development part 3 - anti-debugging](https://0xpat.github.io/Malware_development_part_3/)
@@ -73,7 +74,7 @@
   - [Malware development part 8 - COFF injection and in-memory execution](https://0xpat.github.io/Malware_development_part_8/)
   - [Malware development part 9 - hosting CLR and managed code injection](https://0xpat.github.io/Malware_development_part_9/)
 
-# Linux Malware Development
+## Linux Malware Development
   - [Linux Rootkits Part 1: Introduction and Workflow](https://xcellerator.github.io/posts/linux_rootkits_01/)
   - [Linux Rootkits Part 2: Ftrace and Function Hooking](https://xcellerator.github.io/posts/linux_rootkits_02/)
   - [Linux Rootkits Part 3: A Backdoor to Root](https://xcellerator.github.io/posts/linux_rootkits_03/)
