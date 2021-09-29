@@ -14,7 +14,7 @@
   11. [Windows Internals](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Windows%20Internals.md) 
   12. [Windows Offensive Security](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Windows%20Offensive%20Security.md) 
   13. [Security Datasets](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Security%20Datasets.md) 
-  14. M365 Defending Investigations 
+  14. [M365 Defending Investigations](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/M365%20Defending%20Investigation.md)
   15. Cryptography 
   16. Programming 
   17. Linux Security
