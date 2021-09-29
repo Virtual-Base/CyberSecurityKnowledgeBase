@@ -20,6 +20,8 @@
    - [Ransomware: Creation, Detection, and Response](https://www.youtube.com/watch?v=pLmOWeCAT8M)
    - [Ransomware Double Extortion and Beyond: REvil, Clop, and Conti](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/ransomware-double-extortion-and-beyond-revil-clop-and-conti?utm_source=trendmicroresearch&utm_medium=smk&utm_campaign=0621_dext0rtion)
    - [AN ENCOUNTER WITH RANSOMWARE-AS-A-SERVICE: MEGASYNC ANALYSIS](https://blog.reconinfosec.com/megasync-analysis/)
+   - [A guide to combatting human-operated ransomware: Part 1](https://www.microsoft.com/security/blog/2021/09/20/a-guide-to-combatting-human-operated-ransomware-part-1/)
+   - [A guide to combatting human-operated ransomware: Part 2](https://www.microsoft.com/security/blog/2021/09/27/a-guide-to-combatting-human-operated-ransomware-part-2/)
 
    ## **Compilation**
    - [SANS - Ransomware](https://www.sans.org/blog/recommended-sources-for-ransomware-information/)
