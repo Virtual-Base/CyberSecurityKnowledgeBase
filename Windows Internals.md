@@ -27,8 +27,10 @@
   - [Tracing C function "fopen" [Part1] - IDA Free User-Mode Walk-Through tracing to NTApi](https://www.youtube.com/watch?v=1HZCg1gVPpw&list=PLf5wwHGjuyZ3DL3A2fB3doTtdp7uSwrg-&index=8)
   - [Tracing C function fopen [Part2] - Windbg Kernel Debugging - Walk-Through User-Mode to Kernel ES](https://www.youtube.com/watch?v=8oaEAPC84gc&list=PLf5wwHGjuyZ3DL3A2fB3doTtdp7uSwrg-&index=9)
   - [PerfView - Isolate CPU and Memory-related Performance Issues](https://channel9.msdn.com/Series/PerfView-Tutorial)
+  - [Native Applications: What, Why, and How?](https://www.youtube.com/watch?v=EKBvLTuI2Mo)
+  - [Pavel Yosifovich — Windows 10 internals for .NET developers](https://www.youtube.com/watch?v=h6BXMcRqYhA)
  
- # Tool
+ # Tools
   - [PerfView - Isolate CPU and Memory-related Performance Issues](https://github.com/microsoft/perfview)
   - [HardeningKitty and Windows 10 Hardening](https://github.com/0x6d69636b/windows_hardening)
   - [Fibratus - Tracing of the Windows kernel](https://github.com/rabbitstack/fibratus)
