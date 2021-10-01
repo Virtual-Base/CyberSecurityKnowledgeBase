@@ -93,6 +93,7 @@
 ### Theory 
   - [Splunk Architecture: Forwarder, Indexer, And Search Head](https://www.socinvestigation.com/splunk-architecture-forwarder-indexer-and-search-head/)
   - [Splunk Features – Quick Guide on Key Elements](https://www.socinvestigation.com/splunk-features-quick-guide-on-key-elements/)
+  - [Types of SPLUNK Deployments and Configuration](https://www.socinvestigation.com/types-of-splunk-deployments-and-configuration/)
   - [Splunk Enterprise Security Administrator Study Notes](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Splunk%20Enterprise%20Security%20Administrator%20Study%20Notes.pdf)
   - [Splunk Fundamentals](https://www.youtube.com/c/SiddharthaChakraborty/playlists)
 ### Analysis Blog 
