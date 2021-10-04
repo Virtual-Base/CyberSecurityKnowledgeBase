@@ -30,6 +30,9 @@
   - [Pentesting MS Exchange Server on the Perimeter MindMap](https://github.com/Orange-Cyberdefense/arsenal/blob/master/mindmap/Pentesting_MS_Exchange_Server_on_the_Perimeter.png)
 
 # Red Teaming 
+### Infrastructure 
+  - [Design and setup of C2 traffic redirectors](https://ditrizna.medium.com/design-and-setup-of-c2-traffic-redirectors-ec3c11bd227d)
+  - [Taking the pain out of C2 Infrastructure (Part 1)](https://byt3bl33d3r.substack.com/p/taking-the-pain-out-of-c2-infrastructure)
   - [Infrastructure](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques/tree/master/offensive-security/red-team-infrastructure)
   - [MiTRE TTPs Explanation](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques/tree/master/offensive-security)
 
