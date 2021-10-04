@@ -31,7 +31,7 @@
 | [Malware-IOCs](https://github.com/executemalware/Malware-IOCs) | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> |
 | [notrack-blocklists](https://gitlab.com/quidsup/notrack-blocklists) | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> |  <center><p align = "center"> :x: </p> </center> |  <center><p align = "center"> :x: </p> </center> | Online Activity Tracking List |
 | [IronNet Threat Research](https://github.com/IronNetCybersecurity/IronNetTR) | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> |  <center><p align = "center"> :x: </p> </center> |  <center><p align = "center"> :x: </p> </center> | Cobalt Strike Servers and Phishing Domains |
-| [C2-Servers](https://github.com/brett-fitz/C2-Servers) | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :x: </p> </center |  <center><p align = "center"> :x: </p> </center> |  <center><p align = "center"> :x: </p> </center> | This repository tracks C2 servers of common C2 frameworks |
+| [C2-Servers](https://github.com/brett-fitz/C2-Servers) | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :x: </p> </center> |  <center><p align = "center"> :x: </p> </center> |  <center><p align = "center"> :x: </p> </center> | This repository tracks C2 servers of common C2 frameworks |
 
 
 # Compilation 
