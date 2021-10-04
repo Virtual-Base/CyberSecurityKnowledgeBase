@@ -3,6 +3,9 @@
   - [STIX & TAXII](https://oasis-open.github.io/cti-documentation/)
   - [Report Compilation](https://github.com/mxm0z/awesome-intelligence-writing)
   - [Playbook](https://kostas-ts.medium.com/high-level-threat-intelligence-playbooks-intrusion-analysis-playbook-95e1b8d3a1be)
+  - [The 80/20 of Cyber Threat Intelligence Domain Knowledge](http://correlatedsecurity.com/cyber-threat-intelligence-summary/)
+  - [So you're thinking about starting a cyber threat intelligence team...](https://redcanary.com/blog/intel-team/)
+  - [CTI- Self-Study - Part 1](https://github.com/mattreduce/cti-self-study)
 
 # News 
   - [Daily Cyber Security](https://www.threatintel.de/)
@@ -17,8 +20,8 @@
   - [Threat Security Search Engine](https://cse.google.com/cse?cx=003248445720253387346:turlh5vi4xc)
 
 # IOC Feeds
-| Feeds Name | IP Address | Domain | URL | Hash | 
-| --- | --- | --- | --- | --- |
+| Feeds Name | IP Address | Domain | URL | Hash | Comments
+| --- | --- | --- | --- | --- | --- |
 | [Phishing DataBase](https://github.com/mitchellkrogza/Phishing.Database) | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :x: </p> </center> |
 | [Twitter Feeds](https://github.com/0xDanielLopez/TweetFeed) | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> |
 | [Daily IOCs](https://github.com/StrangerealIntel/DailyIOC) | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> |
@@ -26,6 +29,10 @@
 | [Phishing List](https://securereload.tech/Phishing/Lists/) | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :x: </p> </center> |
 | [Maldatabse](https://maldatabase.com/) | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> |
 | [Malware-IOCs](https://github.com/executemalware/Malware-IOCs) | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> |
+| [notrack-blocklists](https://gitlab.com/quidsup/notrack-blocklists) | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> |  <center><p align = "center"> :x: </p> </center> |  <center><p align = "center"> :x: </p> </center> | Online Activity Tracking List |
+| [IronNet Threat Research](https://github.com/IronNetCybersecurity/IronNetTR) | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> |  <center><p align = "center"> :x: </p> </center> |  <center><p align = "center"> :x: </p> </center> | Cobalt Strike Servers and Phishing Domains |
+| [C2-Servers](https://github.com/brett-fitz/C2-Servers) | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :x: </p> </center |  <center><p align = "center"> :x: </p> </center> |  <center><p align = "center"> :x: </p> </center> | This repository tracks C2 servers of common C2 frameworks |
+
 
 # Compilation 
   - [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
