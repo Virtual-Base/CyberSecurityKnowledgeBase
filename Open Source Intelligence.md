@@ -6,3 +6,5 @@
   - [Quick hashtags and keywords search](https://cipher387.github.io/hashtags_and_keywords_social_media_quick_search/)
   - [Dorks Collection List](https://github.com/cipher387/Dorks-collections-list/)
   - [OSINT - Start.me](https://start.me/p/rxRbpo/ti)
+  - [FoxyRecon - Firefox Addon](https://github.com/vincenzocaputo/FoxyRecon)
+  - [Ph055a's OSINT Collection](https://github.com/Ph055a/OSINT_Collection#ph055as-osint-collection)
