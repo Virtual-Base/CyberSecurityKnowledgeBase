@@ -6,6 +6,7 @@
   - [The Ultimate Guide to Phishing](https://sidb.in/2021/08/03/Phishing-0-to-100.html)
   - [6 ways to detect phishing sites using high-entropy strings](https://bradleyjkemp.dev/post/6-ways-to-detect-phishing-sites-using-high-entropy-strings/)
   - [Hunting Phish](https://emptydc.com/2021/07/16/hunting-phish/amp/?__twitter_impression=true)
+  - [Catching the big fish: Analyzing a large-scale phishing-as-a-service operation](https://www.microsoft.com/security/blog/2021/09/21/catching-the-big-fish-analyzing-a-large-scale-phishing-as-a-service-operation/)
 #
 > :heavy_check_mark: Possible :x: Not Possible
 
