@@ -16,6 +16,7 @@
   - [Cobalt Strike Conti AD Leak](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Cobalt%20strike_manualv2_AD.pdf)
   - [Monitoring Threat Actors Cobalt Strike C2 Infrastructure with Shodan](https://michaelkoczwara.medium.com/monitoring-threat-actors-c2-infrastructure-with-shodan-9be6f7aa1d41)
   - [Cobalt Strike Hunting Mind Map](https://github.com/invictus-ir/cobaltstrike)
+  - [Pointer Tool: Hunting Cobalt Strike globally](https://medium.com/@shabarkin/pointer-hunting-cobalt-strike-globally-a334ac50619a)
 
 # Web Proxy Threat Hunting 
   - [Threat Hunting and Detection with Web Proxy Logs](https://posts.bluraven.io/threat-hunting-and-detection-with-web-proxy-logs-58094cae3537)
@@ -115,6 +116,7 @@
   - [Trustedsec Sysmon Community Guide](https://github.com/trustedsec/SysmonCommunityGuide)
   - [Sysmon Events to API Mapping](https://raw.githubusercontent.com/OTRF/API-To-Event/master/images/API-to-Sysmon.svg)
   - [Introducing Sysmon Config Pusher](https://www.lares.com/blog/introducing-sysmon-config-pusher/)
+  - [SHELL IS ONLY THE BEGINNING](https://www.darkoperator.com/blog/2018/10/5/operating-offensively-against-sysmon)
 ### Configuration
   - [SwiftonSecurity](https://github.com/SwiftOnSecurity/sysmon-config)
   - [Florian Roth Sysmon Config](https://github.com/Neo23x0/sysmon-config)
