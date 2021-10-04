@@ -14,9 +14,12 @@
   - [Sleeping with a Mask On (Cobalt Strike)](https://adamsvoboda.net/sleeping-with-a-mask-on-cobaltstrike/amp/?__twitter_impression=true)
   - [Cobalt Strike Detection RF Spectrum](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Cobalt_Strike_RF_Inskit_Group_Detection_Guide.pdf)
   - [Cobalt Strike Conti AD Leak](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Cobalt%20strike_manualv2_AD.pdf)
+  - [Monitoring Threat Actors Cobalt Strike C2 Infrastructure with Shodan](https://michaelkoczwara.medium.com/monitoring-threat-actors-c2-infrastructure-with-shodan-9be6f7aa1d41)
+  - [Cobalt Strike Hunting Mind Map](https://github.com/invictus-ir/cobaltstrike)
 
 # Web Proxy Threat Hunting 
   - [Threat Hunting and Detection with Web Proxy Logs](https://posts.bluraven.io/threat-hunting-and-detection-with-web-proxy-logs-58094cae3537)
+  - [Hunting ngrok Activity](https://c99.sh/hunting-ngrok-activity/)
 
 # SQL Injection Campaign Hunting 
   - [Squashing SPIDERS: Threat Intelligence, Threat Hunting and Rapid Response Stops SQL Injection Campaign](https://www.crowdstrike.com/blog/how-crowdstrike-stopped-an-sql-injection-campaign/?utm_content=sprout&utm_medium=soc&utm_source=twitter)
@@ -58,6 +61,7 @@
   - [Threat Hunting and Detection by CyberMonk](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection)
 
 # C2 
+  - [Hunting “Legit” Red Teams C2 Infrastructure](https://michaelkoczwara.medium.com/hunting-legit-red-teams-c2-infrastructure-7b79abbd171b)
   - [Matrix](https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit#gid=0)
   - [Ares - Understanding & Detecting C2 Frameworks](https://nasbench.medium.com/understanding-detecting-c2-frameworks-ares-8c96aa47e50d)
   - [TrevorC2 - Understanding & Detecting C2 Frameworks](https://nasbench.medium.com/understanding-detecting-c2-frameworks-trevorc2-2a9ce6f1f425)
