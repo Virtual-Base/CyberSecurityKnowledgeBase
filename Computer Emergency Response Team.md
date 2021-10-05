@@ -13,6 +13,8 @@
   5. [Ransomware Wiki](https://darkfeed.io/ransomwiki/)
   6. [Ransomware Monitor](https://darkfeed.io/indexransomware/)
   7. [Ransom Watch](https://www.ransomwatch.org/)
+  8. [RANSOMWARE SERIES - LEARNINGS FROM THE FRONTLINES](https://www.fireeye.com/company/events/mandiant-ransomware-series.html)
+  9. [Ransomware playbook and references](https://github.com/rootsecdev/Microsoft-Blue-Forest/blob/master/Ransomware/Playbook.md)
     
    ## **Analysis Blogs**
    - [Chuong Dong](https://chuongdong.com/blog/)
@@ -22,8 +24,9 @@
    - [AN ENCOUNTER WITH RANSOMWARE-AS-A-SERVICE: MEGASYNC ANALYSIS](https://blog.reconinfosec.com/megasync-analysis/)
    - [A guide to combatting human-operated ransomware: Part 1](https://www.microsoft.com/security/blog/2021/09/20/a-guide-to-combatting-human-operated-ransomware-part-1/)
    - [A guide to combatting human-operated ransomware: Part 2](https://www.microsoft.com/security/blog/2021/09/27/a-guide-to-combatting-human-operated-ransomware-part-2/)
+   - [Marco_Ramilli](https://marcoramilli.com/) 
 
-### Lockbit 2.0
+  ### Lockbit 2.0
    - [Hunting the Lockbit Gangs Exfiltration Infrastructures](https://yoroi.company/research/hunting-the-lockbit-gangs-exfiltration-infrastructures/)
   ### SQUIRRELWAFFLE
    - [SQUIRRELWAFFLE – Analysing The Custom Packer](https://www.0ffset.net/reverse-engineering/malware-analysis/squirrelwaffle-custom-packer/)
@@ -35,3 +38,4 @@
    ## **Configs, Decryptor and Decryption Key**
    - [Config - Darkside and BlackMatter](https://github.com/advanced-threat-research/DarkSide-Config-Extract?s=08)
    - [Decryptor - Prometheus](https://github.com/cycraft-corp/Prometheus-Decryptor)
+   - [Stealbit-Configuration-Decryptor](https://github.com/CERT-Yoroi-Malware-ZLab/Stealbit-Configuration-Decryptor)
