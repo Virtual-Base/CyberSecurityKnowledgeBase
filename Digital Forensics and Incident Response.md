@@ -32,6 +32,8 @@
   - [DFIR EZParser](https://github.com/rathbuna/DFIRMindMaps/tree/main/Tools/KAPE/!EZParser)
   - [DFIR Kape Triage](https://github.com/rathbuna/DFIRMindMaps/tree/main/Tools/KAPE/KapeTriage)
   - [DFIR Tcpdump](https://github.com/rathbuna/DFIRMindMaps/tree/main/Tools/tcpdump)
+  - [DFIR Memory Forensics](https://github.com/AndrewRathbun/DFIRMindMaps/tree/main/MemoryForensics/SANSMemoryForensicsCheatSheet)
+  - [DFIR System Resource Usage Monitor](https://github.com/AndrewRathbun/DFIRMindMaps/tree/main/OSArtifacts/Windows/SRUM)
 
 # PlayBooks 
   - [Consortium](https://www.incidentresponse.com/playbooks/)
