@@ -14,3 +14,7 @@
 
 # Azure Active Directory 
   - [AzureAD-Attack-Defense](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense?WT.mc_id=m365-0000-rotrent)
+
+# Office 365 
+  - [Office365 Attacks: Bypassing MFA, Achieving Persistence and More - Part I](https://www.inversecos.com/2021/09/office365-attacks-bypassing-mfa.html?m=1)
+  - [Attacks on Azure AD and M365: Pawning the cloud, PTA Skeleton Keys and more - PART II](https://www.inversecos.com/2021/10/attacks-on-azure-ad-and-m365-pawning.html?m=1)
