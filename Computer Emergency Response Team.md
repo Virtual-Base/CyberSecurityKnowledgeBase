@@ -23,6 +23,12 @@
    - [A guide to combatting human-operated ransomware: Part 1](https://www.microsoft.com/security/blog/2021/09/20/a-guide-to-combatting-human-operated-ransomware-part-1/)
    - [A guide to combatting human-operated ransomware: Part 2](https://www.microsoft.com/security/blog/2021/09/27/a-guide-to-combatting-human-operated-ransomware-part-2/)
 
+### Lockbit 2.0
+   - [Hunting the Lockbit Gangs Exfiltration Infrastructures](https://yoroi.company/research/hunting-the-lockbit-gangs-exfiltration-infrastructures/)
+  ### SQUIRRELWAFFLE
+   - [SQUIRRELWAFFLE – Analysing The Custom Packer](https://www.0ffset.net/reverse-engineering/malware-analysis/squirrelwaffle-custom-packer/)
+   - [SquirrelWaffle-From-Maldoc-to-Cobalt-Strike](https://github.com/0xjxd/SquirrelWaffle-From-Maldoc-to-Cobalt-Strike/blob/main/2021-10-02%20-%20SquirrelWaffle%20-%20From%20Maldoc%20to%20Cobalt%20Strike.pdf)
+
    ## **Compilation**
    - [SANS - Ransomware](https://www.sans.org/blog/recommended-sources-for-ransomware-information/)
 
