@@ -16,7 +16,7 @@
   - [PerfView Hard Core CPU Investigations (Using CPU Counters) on Windows 10](https://docs.microsoft.com/en-us/archive/blogs/vancem/perfview-hard-core-cpu-investigations-using-cpu-counters-on-windows-10)
   - [Understanding Network Access in Windows AppContainers](https://googleprojectzero.blogspot.com/2021/08/understanding-network-access-windows-app.html?m=1)
   - [Restrict installation of (USB) devices using Group Policy](https://4sysops.com/archives/restrict-installation-of-usb-devices-using-group-policy/)
-
+ 
 # Tutorials 
   - [OS Internals Concepts - For Reverse Engineering & Malware Research Interview](https://www.youtube.com/playlist?list=PLKwUZp9HwWoCZ7wjx-wQBlvudxauhcxpn)
   - [Dancing with COM - Deep dive into understanding Component Object Model](https://www.youtube.com/watch?v=8tjrFm2K30Q)
@@ -29,6 +29,7 @@
   - [PerfView - Isolate CPU and Memory-related Performance Issues](https://channel9.msdn.com/Series/PerfView-Tutorial)
   - [Pavel Yosifovich - Native Applications: What, Why, and How?](https://www.youtube.com/watch?v=EKBvLTuI2Mo)
   - [Pavel Yosifovich - Windows 10 internals for .NET developers](https://www.youtube.com/watch?v=h6BXMcRqYhA)
+  - [James McNellis “Everything You Ever Wanted to Know about DLLs](https://www.youtube.com/watch?v=JPQWQfDhICA)
  
  # Tools
   - [PerfView - Isolate CPU and Memory-related Performance Issues](https://github.com/microsoft/perfview)
