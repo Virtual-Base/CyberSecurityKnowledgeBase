@@ -30,6 +30,7 @@
   - [Pavel Yosifovich - Native Applications: What, Why, and How?](https://www.youtube.com/watch?v=EKBvLTuI2Mo)
   - [Pavel Yosifovich - Windows 10 internals for .NET developers](https://www.youtube.com/watch?v=h6BXMcRqYhA)
   - [James McNellis “Everything You Ever Wanted to Know about DLLs](https://www.youtube.com/watch?v=JPQWQfDhICA)
+  - [Everything You Ever Wanted to Know about DLLs - James McNellis - CppCon 2017](https://github.com/CppCon/CppCon2017/blob/master/Presentations/Everything%20You%20Ever%20Wanted%20to%20Know%20about%20DLLs/Everything%20You%20Ever%20Wanted%20to%20Know%20about%20DLLs%20-%20James%20McNellis%20-%20CppCon%202017.pdf)
  
  # Tools
   - [PerfView - Isolate CPU and Memory-related Performance Issues](https://github.com/microsoft/perfview)
@@ -44,6 +45,7 @@
   - [Finding Detection and Forensic Goodness In ETW Providers](https://nasbench.medium.com/finding-detection-and-forensic-goodness-in-etw-providers-7c7a2b5b5f4f)
   - [Event Tracing For Windows - Velociraptor](https://velociraptor.velocidex.com/event-tracing-for-windows-41eb031abd69)
   - [ETW Part 2: Process Parent Spoofing](https://velociraptor.velocidex.com/etw-part-2-process-parent-spoofing-99df7e3db94d)
+  - [Windows 11 “New” ETW Providers — Overview](https://nasbench.medium.com/windows-11-new-etw-providers-overview-a2a5fbc85775)
 
 # System Process
   - [Windows Systen Process MindMap](https://github.com/nasbench/MindMaps/blob/main/Windows%20System%20Processes/Windows%20Services%20(Creation).xmind)
