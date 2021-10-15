@@ -8,3 +8,5 @@
   - [OSINT - Start.me](https://start.me/p/rxRbpo/ti)
   - [FoxyRecon - Firefox Addon](https://github.com/vincenzocaputo/FoxyRecon)
   - [Ph055a's OSINT Collection](https://github.com/Ph055a/OSINT_Collection#ph055as-osint-collection)
+  - [OSINT Dojo](https://www.osintdojo.com/resources/)
+  - [Scrummage](https://github.com/matamorphosis/Scrummage)
