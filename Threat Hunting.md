@@ -1,13 +1,26 @@
 # Theory 
   - [Threat Hunting Architecture](https://www.linkedin.com/pulse/threat-hunting-architecture-saeed-hosseini)
   - [Hunting APT in Network Logs](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Hunting%20for%20APT%20in%20Network%20Logs.pdf)
+  - [Kestrel Threat Hunting Language](https://github.com/opencybersecurityalliance/kestrel-lang#installation)
+  - [The Game of Cyber Threat Hunting: The Return of the Fun - Kestrel](https://www.youtube.com/watch?v=-Xb086R0JTk)
+
+# SANS Summit Compilation
+  - [2021](https://start.me/p/DP6oRw/sans-threat-hunting-2021)
+
+# Cyborg: Do You Even Threat Hunt
+  - [Part 1](https://info.cyborgsecurity.com/en-us/do-you-even-threat-hunt-bro?utm_campaign=Webinar%20|%20Do%20You%20Even%20Threat%20Hunt,%20Bro%3F%20III&utm_content=181777242&utm_medium=social&utm_source=linkedin&hss_channel=lcp-37377305)
+  - [Part 2 - HiveNightmare](https://info.cyborgsecurity.com/en-us/do-you-even-threat-hunt-bro-ii?utm_campaign=Webinar%20|%20Do%20You%20Even%20Threat%20Hunt,%20Bro%3F%20III&utm_content=181777242&utm_medium=social&utm_source=linkedin&hss_channel=lcp-37377305)
+  - [Part 3 - WMIC Abuse](https://info.cyborgsecurity.com/en-us/do-you-even-threat-hunt-bro-iii?utm_campaign=Webinar%20|%20Do%20You%20Even%20Threat%20Hunt,%20Bro%3F%20III&utm_content=181777242&utm_medium=social&utm_source=linkedin&hss_channel=lcp-37377305)
 
 # Active Directory Threat Hunting 
   - [Threat Hunting in Active Directory Environment](https://www.youtube.com/watch?v=lBIaLmvVpBE)
   - [Active Directory object ACL manipulation](https://github.com/vadim-hunter/Detection-Ideas-Rules/blob/main/TTPs/Persistence/TXXXX%20-%20Active%20Directory%20object%20ACL%20manipulation/TXXXX.001%20-%20AdminSDHolder/Procedures.yaml)
-
+  - [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense)
+  - [Tool - GOAD (Game Of Active Directory)](https://github.com/Orange-Cyberdefense/GOAD)
+  - [Active Directory Discovery Detection](https://www.splunk.com/en_us/blog/security/active-directory-discovery-detection-threat-research-release-september-2021.html)
 # Cobalt Strike 
   - [Cobalt Strike Theory for Begineers](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Article%20-%20A%20guide%20to%20Cobalt%20Strike%20for%20the%20little%20ones.%20Part%201%20_%20XSS.is%20(ex%20DaMaGeLaB).pdf)
+  - [Defining Cobalt Strike Components So You Can BEA-CONfident in Your Analysis](https://www.mandiant.com/resources/defining-cobalt-strike-components)
   - [Cobalt Strike C2 Hunting with Shodan](https://michaelkoczwara.medium.com/cobalt-strike-c2-hunting-with-shodan-c448d501a6e2)
   - [Enterprise Scale Threat Hunting: C2 Beacon Detection with Unsupervised ML and KQL — Part 1](https://posts.bluraven.io/enterprise-scale-threat-hunting-network-beacon-detection-with-unsupervised-machine-learning-and-277c4c30304f)
   - [Enterprise Scale Threat Hunting: C2 Beacon Detection with Unsupervised ML and KQL — Part 2](https://posts.bluraven.io/enterprise-scale-threat-hunting-network-beacon-detection-with-unsupervised-ml-and-kql-part-2-bff46cfc1e7e)
@@ -17,6 +30,7 @@
   - [Monitoring Threat Actors Cobalt Strike C2 Infrastructure with Shodan](https://michaelkoczwara.medium.com/monitoring-threat-actors-c2-infrastructure-with-shodan-9be6f7aa1d41)
   - [Cobalt Strike Hunting Mind Map](https://github.com/invictus-ir/cobaltstrike)
   - [Pointer Tool: Hunting Cobalt Strike globally](https://medium.com/@shabarkin/pointer-hunting-cobalt-strike-globally-a334ac50619a)
+  - [CobaltStrike Beacon Config Parsing with CyberChef](https://medium.com/@whickey000/cobaltstrike-beacon-config-parsing-with-cyberchef-malware-mondays-2-86d759b9a031)
 
 # Web Proxy Threat Hunting 
   - [Threat Hunting and Detection with Web Proxy Logs](https://posts.bluraven.io/threat-hunting-and-detection-with-web-proxy-logs-58094cae3537)
@@ -51,6 +65,9 @@
   - [Windows Task Scheduler Monitor](https://www.winitor.com/pdf/Monitor-Windows-Task-Scheduler.pdf)
   - [Detection of anomalous process creation chains using word vectorization, normalization, and an autoencoder](https://blog.f-secure.com/process-creation-chains/)
   - [Windows_system_process_hunting](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Windows_system_process_hunting.pdf)
+  - [Hunting Malicious Macros](https://github.com/Antonlovesdnb/SANSTHS2021)
+  - [Windows Threat Hunting : Processes of Interest (Part 1)](https://inf0spec.medium.com/windows-threat-hunting-processes-of-interest-4577fe35d32f)
+  - [Windows Threat Hunting : Processes of Interest (Part 2)](https://infosecwriteups.com/windows-threat-hunting-processes-of-interest-part-2-b45d6fcd4e9)
 
 # Powershell Suspicious Detcetion
   - [PowerShell Detections — Threat Research Release, August 2021](https://www.splunk.com/en_us/blog/security/powershell-detections-threat-research-release-august-2021.html?s=08)
@@ -88,6 +105,7 @@
   - [Ali Hadi  - More Yara Rules - Part #3](https://www.youtube.com/watch?v=jVfI08sDiRM&list=PLCS2zI95IiNwQ7GfjQB7IpnvbDkhkNsSF&index=7)
   - [YARA Rule Processing Sessions](https://www.youtube.com/playlist?list=PL8OlALxRcWsSEPtN6AujulTHVc9HZMwso)
   - [Applied YARA training](https://www.brighttalk.com/webcast/18282/504513/applied-yara-training)
+  - [YARA Using PE Features for Quick Wins](https://github.com/g-les/YARA-PE-Features)
 ### Detection Rules
 | Repo | Comments |
 | --- | --- |
@@ -101,6 +119,8 @@
   - [Types of SPLUNK Deployments and Configuration](https://www.socinvestigation.com/types-of-splunk-deployments-and-configuration/)
   - [Splunk Enterprise Security Administrator Study Notes](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Splunk%20Enterprise%20Security%20Administrator%20Study%20Notes.pdf)
   - [Splunk Fundamentals](https://www.youtube.com/c/SiddharthaChakraborty/playlists)
+### Tools
+  - [Blue team app for Office 365 and Azure](https://splunkbase.splunk.com/app/4667/)
 ### Analysis Blog 
   - [Splunk and using to set up a detection lab](https://medium.com/nerd-for-tech/splunk-and-using-to-set-up-a-detection-lab-d483636d08d8)
   - [Splunk Security Blogs](https://www.splunk.com/en_us/blog/security.html)
