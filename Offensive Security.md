@@ -20,6 +20,7 @@
   - [Active Directory Exploitation Cheat Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet#active-directory-exploitation-cheat-sheet)
   - [AD Pentesting MindMap](https://github.com/Orange-Cyberdefense/arsenal/blob/master/mindmap/pentest_ad.png)
   - [Active Directory Attacks](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md#tools)
+  - [A Guide to Attacking Domain Trusts](http://www.harmj0y.net/blog/redteaming/a-guide-to-attacking-domain-trusts/)
 
 ### Kerberos
   - [Kerberos (I): How does Kerberos work? – Theory](https://www.tarlogic.com/es/blog/como-funciona-kerberos/)
