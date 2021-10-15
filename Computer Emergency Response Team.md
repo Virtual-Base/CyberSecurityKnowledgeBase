@@ -6,7 +6,7 @@
   - [Vulnerability Analysis](https://vuls.cert.org/confluence/)
     
 # Ransomware 
-  1. [Bitcoin Payment Tracker](https://www.bitcoinabuse.com/)
+  1. [Bitcoin Payment Tracker](https://ransomwhe.re/)
   2. [Bitcoin Abuse Database](https://www.bitcoinabuse.com/)
   3. [Decryptor List](https://www.nomoreransom.org/en/decryption-tools.html)
   4. [Ransom Note Identification](https://id-ransomware.malwarehunterteam.com/)
