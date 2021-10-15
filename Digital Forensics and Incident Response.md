@@ -43,6 +43,9 @@
 # SANS DFIR Summit
   - [2021](https://start.me/p/xbgNmz/sans-dfir-2021)
 
+# DFIR Compilation 
+  - [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
+
 # Foresics Images Practice
   - [Ali Hadi Challenges](https://www.ashemery.com/dfir.html)
   - [Cado Security Forensics Image REvil Ransomware Kaseya Supply Chain Attack](https://github.com/cado-security/DFIR_Resources_REvil_Kaseya/releases/tag/v1.0)
@@ -65,6 +68,11 @@
   - [RDP Event Log DFIR](https://dfironthemountain.wordpress.com/2019/02/15/rdp-event-log-dfir/amp/?__twitter_impression=true)
   - [Windows RDP-Related Event Logs: Identification, Tracking, and Investigation](https://ponderthebits.com/2018/02/windows-rdp-related-event-logs-identification-tracking-and-investigation/)
   - [13cubed RDP Flowchart](https://www.13cubed.com/downloads/rdp_flowchart.pdf)
+  - [DFIR-03: RDP Authentication Artifacts](https://www.unh4ck.com/dfir/rdp-authentication-artifacts)
+
+# Lateral Movement Detection 
+  - [Detecting CONTI CobaltStrike Lateral Movement Techniques - Part 1](https://www.unh4ck.com/detection-engineering-and-threat-hunting/lateral-movement/detecting-conti-cobaltstrike-lateral-movement-techniques-part-1)
+  - [Detecting Lateral Movement via Service Configuration Manager](https://www.unh4ck.com/detection-engineering-and-threat-hunting/lateral-movement/detecting-lateral-movement-via-service-configuration-manager)
 
 # Windows and Active Directory 
   - [Windows And Active Directory Persistence And Malicious Configurations](https://web.archive.org/web/20210623173110/https://m365internals.com/2021/06/23/dfir-windows-and-active-directory-persistence-and-malicious-configurations/)
@@ -82,6 +90,9 @@
   - [Windows Forensics Analysis — Tools And Resources](https://nasbench.medium.com/windows-forensics-analysis-tools-and-resources-b819c8b4b6b0)
   - [Windows Forensics Analysis — Windows Artifacts (Part I)](https://nasbench.medium.com/windows-forensics-analysis-windows-artifacts-part-i-c7ad81ada16c)
   - [Windows Forensics Analysis — Windows Artifacts (Part II)](https://nasbench.medium.com/windows-forensics-analysis-windows-artifacts-part-ii-71b8fa68d8a1)
+  - [Create a Super Timeline with TACTICAL/IREC Triage Image](https://medium.com/@vikas891/create-a-super-timeline-with-tactical-irec-triage-image-ca5114b83b6f)
+  - [DFIR-01 : $MFT](https://www.unh4ck.com/dfir/dfir-01-usdmft)
+  - [DFIR-02 : Journal Forensics](https://www.unh4ck.com/dfir/dfir-02-journal-forensics)
 
 # MS Exchange Web Interface
   - [Attacking MS Exchange Web Interfaces Analysis](https://swarm.ptsecurity.com/attacking-ms-exchange-web-interfaces/)
