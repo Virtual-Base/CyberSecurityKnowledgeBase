@@ -30,7 +30,11 @@
    - [Hunting the Lockbit Gangs Exfiltration Infrastructures](https://yoroi.company/research/hunting-the-lockbit-gangs-exfiltration-infrastructures/)
   ### SQUIRRELWAFFLE
    - [SQUIRRELWAFFLE – Analysing The Custom Packer](https://www.0ffset.net/reverse-engineering/malware-analysis/squirrelwaffle-custom-packer/)
+   - [SQUIRRELWAFFLE – Analysing The Main Loader](https://www.0ffset.net/reverse-engineering/malware-analysis/squirrelwaffle-main-loader/)
    - [SquirrelWaffle-From-Maldoc-to-Cobalt-Strike](https://github.com/0xjxd/SquirrelWaffle-From-Maldoc-to-Cobalt-Strike/blob/main/2021-10-02%20-%20SquirrelWaffle%20-%20From%20Maldoc%20to%20Cobalt%20Strike.pdf)
+  ### Conti Ransomware
+   - [BazarLoader to Conti Ransomware in 32 Hours](https://thedfirreport.com/2021/09/13/bazarloader-to-conti-ransomware-in-32-hours/?__cf_chl_managed_tk__=pmd_HHTPQtiYz3wvocz_XvmcHAVUFON181a0f9Y7XEFWZdU-1632128243-0-gqNtZGzNAvujcnBszQil)
+  
 
    ## **Compilation**
    - [SANS - Ransomware](https://www.sans.org/blog/recommended-sources-for-ransomware-information/)
