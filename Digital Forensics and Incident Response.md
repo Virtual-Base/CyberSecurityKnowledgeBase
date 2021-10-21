@@ -63,6 +63,12 @@
   - [Part 10 - Windows: User Account Forensics- In-use and Locked Files Acquisition](https://sechub.medium.com/blue-team-system-live-analysis-part-10-windows-user-account-forensics-in-use-and-locked-files-17eb7bd8619f)
   - [Part 11 - Windows: User Account Forensics- NTUSER.DAT Rules, Tools, Structure, and Dirty Hives!](https://sechub.medium.com/blue-team-system-live-analysis-part-11-windows-user-account-forensics-ntuser-dat-495ab41393db)  
 
+# File-less Malware Hunt
+  - [Part one: File-less Malware Hunt – Running Processes](https://www.linkedin.com/posts/meisameslahi_cybersecurity-threathunting-filelessmalware-activity-6855755595912499200-CS9u/)
+  - [Part two: File-less Malware Hunt – Masquerading](https://www.linkedin.com/posts/meisameslahi_cybersecurity-threathunting-mitreattack-activity-6856121212238749696-mQ6j/)
+  - [Part three: File-less Malware Hunt – Command-Line Strings](https://www.linkedin.com/posts/meisameslahi_cybersecurity-threathunting-dfir-activity-6856494358154358785-6ew4/)
+  - [Part four: File-less Malware Hunt – Scripting and obfuscation!](https://www.linkedin.com/posts/meisameslahi_cybersecurity-threathunting-incidentresponse-activity-6856859313898696704-Kyts/)
+
 # Windows Logon Analysis 
   - [Fantastic Windows Logon types and Where to Find Credentials in Them](https://www.alteredsecurity.com/post/fantastic-windows-logon-types-and-where-to-find-credentials-in-them)
   - [RDP Event Log DFIR](https://dfironthemountain.wordpress.com/2019/02/15/rdp-event-log-dfir/amp/?__twitter_impression=true)
