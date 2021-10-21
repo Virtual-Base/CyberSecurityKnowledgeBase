@@ -88,3 +88,16 @@
   - [Linux Rootkits Part 7: Hiding Processes](https://xcellerator.github.io/posts/linux_rootkits_07/)
   - [Linux Rootkits Part 8: Hiding Open Ports](https://xcellerator.github.io/posts/linux_rootkits_08/)
   - [Linux Rootkits Part 9: Hiding Logged In Users (Modifying File Contents Without Touching Disk)](https://xcellerator.github.io/posts/linux_rootkits_09/)
+
+## Reversing and Exploiting With Free Tools Series
+  - [Reversing & Exploiting with Free Tools: Part 1](https://www.coresecurity.com/core-labs/articles/reversing-and-exploiting-free-tools-part-1)
+  - [Reversing & Exploiting with Free Tools: Part 2](https://www.coresecurity.com/core-labs/articles/reversing-and-exploiting-free-tools-part-2)
+  - [Reversing & Exploiting with Free Tools: Part 3](https://www.coresecurity.com/core-labs/articles/reversing-and-exploiting-free-tools-part-3)
+  - [Reversing & Exploiting with Free Tools: Part 4](https://www.coresecurity.com/core-labs/articles/reversing-and-exploiting-free-tools-part-4)
+  - [Reversing & Exploiting with Free Tools: Part 5](https://www.coresecurity.com/core-labs/articles/reversing-and-exploiting-free-tools-part-5)
+  - [Reversing & Exploiting With Free Tools: Part 6](https://www.coresecurity.com/core-labs/articles/reversing-and-exploiting-free-tools-part-6)
+  - [Reversing & Exploiting With Free Tools: Part 7](https://www.coresecurity.com/core-labs/articles/reversing-exploiting-free-tools-part-7)
+  - [Reversing & Exploiting with Free Tools: Part 8](https://www.coresecurity.com/core-labs/articles/reversing-and-exploiting-free-tools-part-8)
+  - [Reversing & Exploiting with Free Tools: Part 9](https://www.coresecurity.com/core-labs/articles/reversing-and-exploiting-free-tools-part-9)
+  - [Reversing and Exploiting with Free Tools: Part 10](https://www.coresecurity.com/core-labs/articles/reversing-and-exploiting-free-tools-part-10)
+  - [Reversing and Exploiting with Free Tools: Part 11](https://www.coresecurity.com/core-labs/articles/reversing-and-exploiting-free-tools-part-11)
