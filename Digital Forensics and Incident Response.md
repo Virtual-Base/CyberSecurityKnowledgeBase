@@ -68,6 +68,7 @@
   - [Part two: File-less Malware Hunt – Masquerading](https://www.linkedin.com/posts/meisameslahi_cybersecurity-threathunting-mitreattack-activity-6856121212238749696-mQ6j/)
   - [Part three: File-less Malware Hunt – Command-Line Strings](https://www.linkedin.com/posts/meisameslahi_cybersecurity-threathunting-dfir-activity-6856494358154358785-6ew4/)
   - [Part four: File-less Malware Hunt – Scripting and obfuscation!](https://www.linkedin.com/posts/meisameslahi_cybersecurity-threathunting-incidentresponse-activity-6856859313898696704-Kyts/)
+  - [The finale: File-less Malware Hunt – Port to process mapping](https://www.linkedin.com/posts/meisameslahi_cybersecurity-threathunting-dfir-activity-6857206027029499904-NStU/)
 
 # Windows Logon Analysis 
   - [Fantastic Windows Logon types and Where to Find Credentials in Them](https://www.alteredsecurity.com/post/fantastic-windows-logon-types-and-where-to-find-credentials-in-them)
