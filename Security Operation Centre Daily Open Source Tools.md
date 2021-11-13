@@ -4,6 +4,7 @@
   - [A Primer to Detection Engineering Dimensions in a SOC Universe](https://www.unh4ck.com/detection-engineering-dimensions)
   - [How to measure SOC quality](https://expel.io/blog/how-to-measure-soc-quality/)
   - [MCRA Security Operations - SOC Challenges](https://www.youtube.com/watch?v=6g-C_u8qg5Q)
+  - [How to Investigate Typosquats](https://www.recordedfuture.com/how-to-investigate-typosquats/?utm_content=185049094&utm_medium=social&utm_source=linkedin&hss_channel=lcp-678036)
 ### Phishing 
   - [Training - Email Forensic](https://www.youtube.com/playlist?list=PLvOFsJ3VdHa_USZuhzIjDFk_EYA5pRP9Z)
   - [The Ultimate Guide to Phishing](https://sidb.in/2021/08/03/Phishing-0-to-100.html)
@@ -50,6 +51,8 @@
 | [IPQualityScore](https://www.ipqualityscore.com/user/dashboard) | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | 
 |[Hacker Target](https://hackertarget.com/ip-tools/) | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> | More Tools to Explore | 
 |[Meta Defender](https://metadefender.opswat.com/?lang=en) |  <center><p align = "center"> :heavy_check_mark: </p> </center> |  <center><p align = "center"> :heavy_check_mark: </p> </center> |  <center><p align = "center"> :heavy_check_mark: </p> </center> |  <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :x: </p> </center> |
+|[LookyLoo](https://lookyloo.circl.lu/) | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> | URL Redirection Check and Server Request and Reponse Investigation |
+|[CaniPhish](https://caniphish.com/free-phishing-tools/email-spoofing-test) | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> | Mail Sever Relay Determination along with Geo Location |
 #
 > :heavy_check_mark: Possible :x: Not Possible
 # Domain Internal Records Check
