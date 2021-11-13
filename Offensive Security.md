@@ -43,6 +43,9 @@
   - [Detecting EDR Bypass: Malicious Drivers(Kernel Callbacks)](https://posts.bluraven.io/detecting-edr-bypass-malicious-drivers-kernel-callbacks-f5e6bf8f7481)
   - [A tale of EDR bypass methods](https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods/)
   - [Evading EDR in 15 Minutes with ScareCrow](https://adamsvoboda.net/evading-edr-with-scarecrow/)
+## EDR - Windows Kernel 
+  - [Kernel Karnage – Part 1](https://blog.nviso.eu/2021/10/21/kernel-karnage-part-1/)
+  - [Kernel Karnage – Part 2 (Back to Basics)](https://blog.nviso.eu/2021/10/29/kernel-karnage-part-2-back-to-basics/)
 ### Symantec
   - [Symantec EDR Internals — Criterion](https://nasbench.medium.com/symantec-edr-internals-criterion-fa49be4e21af)
   - [Symantec EDR Internals — Event Enrichment Rules [Part I]](https://nasbench.medium.com/symantec-edr-internals-event-enrichment-rules-part-i-b5e4340041a7)
@@ -53,6 +56,8 @@
   - [The Basics (Part 1)](https://0xinfection.github.io/posts/wmi-basics-part-1/)
   - [Exploring Namespaces, Classes & Methods (Part 2)](https://0xinfection.github.io/posts/wmi-classes-methods-part-2/)
   - [Interacting with Windows Registry (Part 3)](https://0xinfection.github.io/posts/wmi-registry-part-3/)
+  - [Offensive WMI - Reconnaissance & Enumeration (Part 4)](https://0xinfection.github.io/posts/wmi-recon-enum/)
+  - [Offensive WMI - Active Directory Enumeration (Part 5)](https://0xinfection.github.io/posts/wmi-ad-enum/)
 
 # Lateral Movement
   - [Lateral Movement Using DCOM Objects and C#](https://github.com/klezVirus/klezVirus.github.io/tree/master/RedTeaming/LateralMovement/LateralMovementDCOM)
@@ -63,6 +68,11 @@
   - [ByPass Antivirus](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/The%20article_is_F%23ck_da_Antivirus_How_to_bypass_antivirus_when_pentest.pdf)
   - [Remote Code Execution](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Article_Guide_to_Lateral_We_study_remote_code_execution_in_Windows_from_all_sides.pdf)
   - [Reverse Proxies to Nmap Scan](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Article%20-%20How_APTs_Use_Reverse_Proxies_to_Nmap_Scan_Internal_Networks.pdf)
+
+# Visual Basic Application
+  - [OffensiveVBA - S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t/OffensiveVBA)
+  - [Attack Surface Reduction (ASR) Bypass using VBA](https://blog.nviso.eu/2020/04/21/video-attack-surface-reduction-asr-bypass-using-vba/)
+  - [VBA Stomping — Advanced Maldoc Techniques](https://medium.com/walmartglobaltech/vba-stomping-advanced-maldoc-techniques-612c484ab278)
 
 # Malware Development
   - [The Art of Malware Development](https://hackersarcade.medium.com/the-art-of-malware-development-d9843ad10a10)
