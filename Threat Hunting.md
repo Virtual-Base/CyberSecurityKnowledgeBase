@@ -32,6 +32,12 @@
   - [Pointer Tool: Hunting Cobalt Strike globally](https://medium.com/@shabarkin/pointer-hunting-cobalt-strike-globally-a334ac50619a)
   - [CobaltStrike Beacon Config Parsing with CyberChef](https://medium.com/@whickey000/cobaltstrike-beacon-config-parsing-with-cyberchef-malware-mondays-2-86d759b9a031)
 
+## Traffic Analysis Series
+  - [Cobalt Strike: Using Known Private Keys To Decrypt Traffic – Part 1](https://blog.nviso.eu/2021/10/21/cobalt-strike-using-known-private-keys-to-decrypt-traffic-part-1/)
+  - [Cobalt Strike: Using Known Private Keys To Decrypt Traffic – Part 2](https://blog.nviso.eu/2021/10/27/cobalt-strike-using-known-private-keys-to-decrypt-traffic-part-2/)
+  - [Cobalt Strike: Using Process Memory To Decrypt Traffic – Part 3](https://blog.nviso.eu/2021/11/03/cobalt-strike-using-process-memory-to-decrypt-traffic-part-3/)
+  
+
 # Web Proxy Threat Hunting 
   - [Threat Hunting and Detection with Web Proxy Logs](https://posts.bluraven.io/threat-hunting-and-detection-with-web-proxy-logs-58094cae3537)
   - [Hunting ngrok Activity](https://c99.sh/hunting-ngrok-activity/)
@@ -79,6 +85,7 @@
   - [Threat Hunting and Detection by CyberMonk](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection)
 
 # C2 
+  - [PROTECTING NETWORKS FROM ESOTERIC C2](https://www.f-secure.com/en/consulting/our-thinking/protecting-networks-from-esoteric-c2?ffcid=70168000000cK34AAE&utm_source=linkedin&utm_medium=social&utm_campaign=GL&utm_content=a1)
   - [Hunting “Legit” Red Teams C2 Infrastructure](https://michaelkoczwara.medium.com/hunting-legit-red-teams-c2-infrastructure-7b79abbd171b)
   - [Matrix](https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit#gid=0)
   - [Ares - Understanding & Detecting C2 Frameworks](https://nasbench.medium.com/understanding-detecting-c2-frameworks-ares-8c96aa47e50d)
@@ -137,6 +144,7 @@
   - [Sysmon Events to API Mapping](https://raw.githubusercontent.com/OTRF/API-To-Event/master/images/API-to-Sysmon.svg)
   - [Introducing Sysmon Config Pusher](https://www.lares.com/blog/introducing-sysmon-config-pusher/)
   - [SHELL IS ONLY THE BEGINNING](https://www.darkoperator.com/blog/2018/10/5/operating-offensively-against-sysmon)
+  - [Sysmon for Linux Test Drive](https://www.lares.com/blog/sysmon-for-linux-test-drive/?utm_content=bufferff83d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 ### Configuration
   - [SwiftonSecurity](https://github.com/SwiftOnSecurity/sysmon-config)
   - [Florian Roth Sysmon Config](https://github.com/Neo23x0/sysmon-config)
