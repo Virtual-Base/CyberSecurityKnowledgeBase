@@ -82,3 +82,4 @@
   - [URL Search Modifier](https://support.virustotal.com/hc/en-us/articles/360002832977-URL-search-modifiers)
   - [File Search Modifier](https://support.virustotal.com/hc/en-us/articles/360001385897-File-search-modifiers)
   - [VT Graph](https://support.virustotal.com/hc/en-us/sections/360000337698-VT-Graph)
+  - [VirusTotal Multisandbox += Microsoft Sysinternals](https://blog.virustotal.com/2021/10/virustotal-multisandbox-microsoft.html?m=1)
