@@ -87,6 +87,7 @@
 
 # Lateral Movement Detection 
   - [Detecting CONTI CobaltStrike Lateral Movement Techniques - Part 1](https://www.unh4ck.com/detection-engineering-and-threat-hunting/lateral-movement/detecting-conti-cobaltstrike-lateral-movement-techniques-part-1)
+  - [Detecting CONTI CobaltStrike Lateral Movement Techniques - Part 2](https://www.unh4ck.com/detection-engineering-and-threat-hunting/lateral-movement/detecting-conti-cobaltstrike-lateral-movement-techniques-part-2)
   - [Detecting Lateral Movement via Service Configuration Manager](https://www.unh4ck.com/detection-engineering-and-threat-hunting/lateral-movement/detecting-lateral-movement-via-service-configuration-manager)
 
 # Windows and Active Directory 
@@ -101,7 +102,11 @@
   - [Post Compromise Checklist](https://www.pwndefend.com/2021/09/15/post-compromise-active-directory-checklist/)
   - [Windows Auditing Baseline](https://github.com/mdecrevoisier/Windows-auditing-mindmap/blob/main/windows-auditing-baseline-map/windows-auditing-baseline-map.png)
   - [BREAKING TYPICAL WINDOWS HARDENING IMPLEMENTATIONS](https://www.trustedsec.com/blog/breaking-typical-windows-hardening-implementations/)
-### Forensics Analysis - Windows
+  - [Common misconceptions about Windows EventLogs](https://osdfir.blogspot.com/2021/10/common-misconceptions-about-windows.html?m=1)
+### Forensics Analysis
+#### Forensics Intelligence 
+  - [Digital Forensics Lab & Shared Cyber Forensic Intelligence Repository](https://github.com/frankwxu/digital-forensics-lab)
+#### Windows
   - [Windows Forensics Analysis — Tools And Resources](https://nasbench.medium.com/windows-forensics-analysis-tools-and-resources-b819c8b4b6b0)
   - [Windows Forensics Analysis — Windows Artifacts (Part I)](https://nasbench.medium.com/windows-forensics-analysis-windows-artifacts-part-i-c7ad81ada16c)
   - [Windows Forensics Analysis — Windows Artifacts (Part II)](https://nasbench.medium.com/windows-forensics-analysis-windows-artifacts-part-ii-71b8fa68d8a1)
