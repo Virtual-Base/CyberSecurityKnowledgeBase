@@ -25,3 +25,6 @@
 
 # Code Review
   - [Secure Coding Handbook]()
+
+# Saylor Education Course
+  - [Computer Science](https://learn.saylor.org/course/index.php?categoryid=9)
