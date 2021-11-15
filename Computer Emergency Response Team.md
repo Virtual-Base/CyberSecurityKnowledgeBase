@@ -25,6 +25,7 @@
    - [A guide to combatting human-operated ransomware: Part 1](https://www.microsoft.com/security/blog/2021/09/20/a-guide-to-combatting-human-operated-ransomware-part-1/)
    - [A guide to combatting human-operated ransomware: Part 2](https://www.microsoft.com/security/blog/2021/09/27/a-guide-to-combatting-human-operated-ransomware-part-2/)
    - [Marco_Ramilli](https://marcoramilli.com/) 
+   - [Identification of a new cybercriminal group: Lockean](https://cert.ssi.gouv.fr/cti/CERTFR-2021-CTI-009/)
 
   ### Lockbit 2.0
    - [Hunting the Lockbit Gangs Exfiltration Infrastructures](https://yoroi.company/research/hunting-the-lockbit-gangs-exfiltration-infrastructures/)
