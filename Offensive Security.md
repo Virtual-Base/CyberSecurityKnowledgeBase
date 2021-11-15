@@ -26,26 +26,36 @@
   - [Kerberos (I): How does Kerberos work? – Theory](https://www.tarlogic.com/es/blog/como-funciona-kerberos/)
   - [Kerberos (II): How to attack Kerberos?](https://www.tarlogic.com/es/blog/como-atacar-kerberos/)
   - [Kerberos (III): How does delegation work?](https://www.tarlogic.com/es/blog/kerberos-iii-como-funciona-la-delegacion/)
+  - [Kerberoast With OpSec](https://m365internals.com/2021/11/08/kerberoast-with-opsec/)
 
 ### Exchange Server
   - [Pentesting MS Exchange Server on the Perimeter MindMap](https://github.com/Orange-Cyberdefense/arsenal/blob/master/mindmap/Pentesting_MS_Exchange_Server_on_the_Perimeter.png)
 
 # Red Teaming 
+# Tools - Pentesting 
+  - [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t/Pentest-Tools/)
 ### Infrastructure 
   - [Design and setup of C2 traffic redirectors](https://ditrizna.medium.com/design-and-setup-of-c2-traffic-redirectors-ec3c11bd227d)
   - [Taking the pain out of C2 Infrastructure (Part 1)](https://byt3bl33d3r.substack.com/p/taking-the-pain-out-of-c2-infrastructure)
+  - [Taking the pain out of C2 infrastructure (Part 2)](https://byt3bl33d3r.substack.com/p/taking-the-pain-out-of-c2-infrastructure-3c4?r=jt535&utm_campaign=post&utm_medium=web&utm_source=)
   - [Infrastructure](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques/tree/master/offensive-security/red-team-infrastructure)
   - [MiTRE TTPs Explanation](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques/tree/master/offensive-security)
 
 # Endpoint Detection and Response(EDR) 
   - [EDRs Against APT 2021](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/EDR_Against_APT_2021.pdf)
   - [Blinding EDR On Windows](https://synzack.github.io/Blinding-EDR-On-Windows/)
-  - [Detecting EDR Bypass: Malicious Drivers(Kernel Callbacks)](https://posts.bluraven.io/detecting-edr-bypass-malicious-drivers-kernel-callbacks-f5e6bf8f7481)
-  - [A tale of EDR bypass methods](https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods/)
   - [Evading EDR in 15 Minutes with ScareCrow](https://adamsvoboda.net/evading-edr-with-scarecrow/)
+  - [Attacks on ETW Blind EDR Sensors](https://i.blackhat.com/EU-21/Wednesday/EU-21-Teodorescu-Veni-No-Vidi-No-Vici-Attacks-On-ETW-Blind-EDRs.pdf)
 ## EDR - Windows Kernel 
   - [Kernel Karnage – Part 1](https://blog.nviso.eu/2021/10/21/kernel-karnage-part-1/)
   - [Kernel Karnage – Part 2 (Back to Basics)](https://blog.nviso.eu/2021/10/29/kernel-karnage-part-2-back-to-basics/)
+## EDR Bypass
+  - [Master of Puppets Part I – How to Bypass the EDR?](https://www.infosec.tirol/master-of-puppets-part-i/)
+  - [Master of Puppets Part II – How to tamper the EDR?](https://www.infosec.tirol/master-of-puppets-part-ii-how-to-tamper-the-edr/)
+  - [Detecting EDR Bypass: Malicious Drivers(Kernel Callbacks)](https://posts.bluraven.io/detecting-edr-bypass-malicious-drivers-kernel-callbacks-f5e6bf8f7481)
+  - [A tale of EDR bypass methods](https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods/)
+  - [MALWARE ANALYSIS: SYSCALLS](https://jmpesp.me/malware-analysis-syscalls-example/)
+  - [Reversing Engineering Syscalls To Evade Detection](https://www.youtube.com/watch?v=Uba3SQH2jNE)
 ### Symantec
   - [Symantec EDR Internals — Criterion](https://nasbench.medium.com/symantec-edr-internals-criterion-fa49be4e21af)
   - [Symantec EDR Internals — Event Enrichment Rules [Part I]](https://nasbench.medium.com/symantec-edr-internals-event-enrichment-rules-part-i-b5e4340041a7)
@@ -62,6 +72,9 @@
 # Lateral Movement
   - [Lateral Movement Using DCOM Objects and C#](https://github.com/klezVirus/klezVirus.github.io/tree/master/RedTeaming/LateralMovement/LateralMovementDCOM)
   - [Lateral Movement Using PSRemoting via C#](https://github.com/klezVirus/klezVirus.github.io/tree/master/RedTeaming/LateralMovement/LateralMovementPSRemoting)
+  - [I Like to Move It: Windows Lateral Movement Part 1 – WMI Event Subscription](https://www.mdsec.co.uk/2020/09/i-like-to-move-it-windows-lateral-movement-part-1-wmi-event-subscription/)
+  - [I Like to Move It: Windows Lateral Movement Part 2 – DCOM](https://www.mdsec.co.uk/2020/09/i-like-to-move-it-windows-lateral-movement-part-2-dcom/)
+  - [I Like to Move It: Windows Lateral Movement Part 3: DLL Hijacking](https://www.mdsec.co.uk/2020/10/i-live-to-move-it-windows-lateral-movement-part-3-dll-hijacking/)
 
 # Post Exploitation 
   - [Pivoting Squeezing](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/The_article_is_Pivoting_Squeezing_the_most_out_of_post-exploitation.pdf)
@@ -71,12 +84,14 @@
 
 # Visual Basic Application
   - [OffensiveVBA - S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t/OffensiveVBA)
+  - [AV Evasion 101 - VBS/VBA - Office Macros](https://www.youtube.com/watch?v=KeSRGjnTdSc)
   - [Attack Surface Reduction (ASR) Bypass using VBA](https://blog.nviso.eu/2020/04/21/video-attack-surface-reduction-asr-bypass-using-vba/)
   - [VBA Stomping — Advanced Maldoc Techniques](https://medium.com/walmartglobaltech/vba-stomping-advanced-maldoc-techniques-612c484ab278)
 
 # Malware Development
   - [The Art of Malware Development](https://hackersarcade.medium.com/the-art-of-malware-development-d9843ad10a10)
   - [vxunderground - Study Research Paper](https://vx-underground.org/papers.html)
+  - [Malware development workshop](https://github.com/chr0n1k/AH2021Workshop)
 ## Windows Malware Development 
   - [Malware development part 1 - basics](https://0xpat.github.io/Malware_development_part_1/)
   - [Malware development part 2 - anti dynamic analysis & sandboxes](https://0xpat.github.io/Malware_development_part_2/)
