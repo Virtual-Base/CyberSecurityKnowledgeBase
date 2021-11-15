@@ -16,6 +16,7 @@
   - [PerfView Hard Core CPU Investigations (Using CPU Counters) on Windows 10](https://docs.microsoft.com/en-us/archive/blogs/vancem/perfview-hard-core-cpu-investigations-using-cpu-counters-on-windows-10)
   - [Understanding Network Access in Windows AppContainers](https://googleprojectzero.blogspot.com/2021/08/understanding-network-access-windows-app.html?m=1)
   - [Restrict installation of (USB) devices using Group Policy](https://4sysops.com/archives/restrict-installation-of-usb-devices-using-group-policy/)
+  - [Kerberos visuals to describe authentication/authorization](https://twitter.com/kellthenoise/status/1457792337539600385?t=1X3FPRONV5SlJfWE6PTATg&s=08)
  
 # Tutorials 
   - [OS Internals Concepts - For Reverse Engineering & Malware Research Interview](https://www.youtube.com/playlist?list=PLKwUZp9HwWoCZ7wjx-wQBlvudxauhcxpn)
