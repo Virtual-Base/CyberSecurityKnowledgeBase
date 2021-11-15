@@ -108,6 +108,7 @@
   - [Use EVTX files on VirusTotal with Timesketch and Sigma (Part1)](https://osdfir.blogspot.com/2021/11/use-evtx-files-on-virustotal-part1.html?m=1)
   - [Use EVTX files on VirusTotal with Timesketch and Sigma (Part 2)](https://osdfir.blogspot.com/2021/11/use-evtx-files-on-virustotal-part2.html)
   - [Code similarity analysis with r2diaphora - Binary Diffing](https://cybersecurity.att.com/blogs/labs-research/code-similarity-analysis-with-r2diaphora)
+  - [All your hashes are belong to us: An overview of malware hashing algorithms](https://www.gdatasoftware.com/blog/2021/09/an-overview-of-malware-hashing-algorithms)
 ### Tools
   - [Online Hash Checker for Virustotal and Other Services](https://github.com/Neo23x0/munin)
 ### Reference
