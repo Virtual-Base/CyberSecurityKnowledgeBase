@@ -34,7 +34,7 @@
    - [SquirrelWaffle-From-Maldoc-to-Cobalt-Strike](https://github.com/0xjxd/SquirrelWaffle-From-Maldoc-to-Cobalt-Strike/blob/main/2021-10-02%20-%20SquirrelWaffle%20-%20From%20Maldoc%20to%20Cobalt%20Strike.pdf)
   ### Conti Ransomware
    - [BazarLoader to Conti Ransomware in 32 Hours](https://thedfirreport.com/2021/09/13/bazarloader-to-conti-ransomware-in-32-hours/?__cf_chl_managed_tk__=pmd_HHTPQtiYz3wvocz_XvmcHAVUFON181a0f9Y7XEFWZdU-1632128243-0-gqNtZGzNAvujcnBszQil)
-  ### BlackBypte Ransomware
+  ### BlackByte Ransomware
    - [BlackByte Ransomware – Pt. 1 In-depth Analysis](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/blackbyte-ransomware-pt-1-in-depth-analysis/)
    - [BlackByte Ransomware – Pt 2. Code Obfuscation Analysis](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/blackbyte-ransomware-pt-2-code-obfuscation-analysis/)
   
