@@ -18,6 +18,7 @@
   - [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense)
   - [Tool - GOAD (Game Of Active Directory)](https://github.com/Orange-Cyberdefense/GOAD)
   - [Active Directory Discovery Detection](https://www.splunk.com/en_us/blog/security/active-directory-discovery-detection-threat-research-release-september-2021.html)
+  - [Detecting NTLM Relay Attacks](https://posts.bluraven.io/detecting-ntlm-relay-attacks-d92e99e68fb9)
 # Cobalt Strike 
   - [Cobalt Strike Theory for Begineers](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Article%20-%20A%20guide%20to%20Cobalt%20Strike%20for%20the%20little%20ones.%20Part%201%20_%20XSS.is%20(ex%20DaMaGeLaB).pdf)
   - [Defining Cobalt Strike Components So You Can BEA-CONfident in Your Analysis](https://www.mandiant.com/resources/defining-cobalt-strike-components)
@@ -30,13 +31,14 @@
   - [Monitoring Threat Actors Cobalt Strike C2 Infrastructure with Shodan](https://michaelkoczwara.medium.com/monitoring-threat-actors-c2-infrastructure-with-shodan-9be6f7aa1d41)
   - [Cobalt Strike Hunting Mind Map](https://github.com/invictus-ir/cobaltstrike)
   - [Pointer Tool: Hunting Cobalt Strike globally](https://medium.com/@shabarkin/pointer-hunting-cobalt-strike-globally-a334ac50619a)
-
+  - [From Zero to Domain Admin](https://thedfirreport.com/2021/11/01/from-zero-to-domain-admin/)
+  - [Cobalt Strike Built-In Lateral Movement Capabilities Based On CONTI Leak Mind Map](https://github.com/AndrewRathbun/DFIRMindMaps/tree/main/OSArtifacts/Windows/Cobalt%20Strike%20Lateral%20Movement%20Artifact%20-%20Based%20on%20CONTI%20Leak)
 ## Traffic Analysis Series
   - [Cobalt Strike: Using Known Private Keys To Decrypt Traffic – Part 1](https://blog.nviso.eu/2021/10/21/cobalt-strike-using-known-private-keys-to-decrypt-traffic-part-1/)
   - [Cobalt Strike: Using Known Private Keys To Decrypt Traffic – Part 2](https://blog.nviso.eu/2021/10/27/cobalt-strike-using-known-private-keys-to-decrypt-traffic-part-2/)
   - [Cobalt Strike: Using Process Memory To Decrypt Traffic – Part 3](https://blog.nviso.eu/2021/11/03/cobalt-strike-using-process-memory-to-decrypt-traffic-part-3/)
+  - [Decrypting Cobalt Strike Traffic With Keys Extracted From Process Memory](https://www.youtube.com/watch?v=rpsnPwdxTnA)
   
-
 # Web Proxy Threat Hunting 
   - [Threat Hunting and Detection with Web Proxy Logs](https://posts.bluraven.io/threat-hunting-and-detection-with-web-proxy-logs-58094cae3537)
   - [Hunting ngrok Activity](https://c99.sh/hunting-ngrok-activity/)
@@ -73,6 +75,8 @@
   - [Hunting Malicious Macros](https://github.com/Antonlovesdnb/SANSTHS2021)
   - [Windows Threat Hunting : Processes of Interest (Part 1)](https://inf0spec.medium.com/windows-threat-hunting-processes-of-interest-4577fe35d32f)
   - [Windows Threat Hunting : Processes of Interest (Part 2)](https://infosecwriteups.com/windows-threat-hunting-processes-of-interest-part-2-b45d6fcd4e9)
+  - [The dark side of Microsoft Remote Procedure Call protocols](https://redcanary.com/blog/msrpc-to-attack/)
+  - [MSRPC-To-ATT&CK -  Microsoft Remote Procedure Call protocols](https://github.com/jsecurity101/MSRPC-to-ATTACK)
 
 # Powershell Suspicious Detcetion
   - [PowerShell Detections — Threat Research Release, August 2021](https://www.splunk.com/en_us/blog/security/powershell-detections-threat-research-release-august-2021.html?s=08)
@@ -82,6 +86,9 @@
 # MiTRE Detection Rules 
   - [Detection Ideas & Rules by Vadim Hunter](https://github.com/vadim-hunter/Detection-Ideas-Rules)
   - [Threat Hunting and Detection by CyberMonk](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection)
+
+# Hunting Macros
+  - [Hunting Malicious Office Macros](https://www.youtube.com/watch?v=soF5iyeeWDg)
 
 # C2 
   - [PROTECTING NETWORKS FROM ESOTERIC C2](https://www.f-secure.com/en/consulting/our-thinking/protecting-networks-from-esoteric-c2?ffcid=70168000000cK34AAE&utm_source=linkedin&utm_medium=social&utm_campaign=GL&utm_content=a1)
@@ -98,6 +105,9 @@
   - [Beginners DFIR/Threat Hunting Tutorials](https://www.youtube.com/playlist?list=PLKwUZp9HwWoDjMP648n4yB-AeaqY1Ia40)
   - [Connecting the dots with Virus Total](https://www.curatedintel.org/2021/03/connecting-dots-with-virus-total.html)
   - [VirusTotal for Investigators](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/VirusTotal%20for%20Investigators.pdf)
+  - [Use EVTX files on VirusTotal with Timesketch and Sigma (Part1)](https://osdfir.blogspot.com/2021/11/use-evtx-files-on-virustotal-part1.html?m=1)
+  - [Use EVTX files on VirusTotal with Timesketch and Sigma (Part 2)](https://osdfir.blogspot.com/2021/11/use-evtx-files-on-virustotal-part2.html)
+  - [Code similarity analysis with r2diaphora - Binary Diffing](https://cybersecurity.att.com/blogs/labs-research/code-similarity-analysis-with-r2diaphora)
 ### Tools
   - [Online Hash Checker for Virustotal and Other Services](https://github.com/Neo23x0/munin)
 ### Reference
@@ -127,6 +137,7 @@
   - [Splunk Fundamentals](https://www.youtube.com/c/SiddharthaChakraborty/playlists)
 ### Tools
   - [Blue team app for Office 365 and Azure](https://splunkbase.splunk.com/app/4667/)
+  - [Splunk Security Content](https://research.splunk.com/)
 ### Analysis Blog 
   - [Splunk and using to set up a detection lab](https://medium.com/nerd-for-tech/splunk-and-using-to-set-up-a-detection-lab-d483636d08d8)
   - [Splunk Security Blogs](https://www.splunk.com/en_us/blog/security.html)
@@ -149,6 +160,7 @@
   - [Florian Roth Sysmon Config](https://github.com/Neo23x0/sysmon-config)
 ### Compilation
   - [Splunk DFIR](https://github.com/MHaggis/sysmon-dfir)
+  - [sysmon-cheatsheet](https://github.com/olafhartong/sysmon-cheatsheet)
 ### Tools
   - [SysmonConfigPusher](https://github.com/LaresLLC/SysmonConfigPusher)
   - [Utilities for Sysmon](https://github.com/nshalabi/SysmonTools)
