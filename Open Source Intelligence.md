@@ -10,3 +10,6 @@
   - [Ph055a's OSINT Collection](https://github.com/Ph055a/OSINT_Collection#ph055as-osint-collection)
   - [OSINT Dojo](https://www.osintdojo.com/resources/)
   - [Scrummage](https://github.com/matamorphosis/Scrummage)
+  - [API-s-for-OSINT](https://github.com/cipher387/API-s-for-OSINT)
+  - [OSINT-Github-profiles](https://github.com/cipher387/OSINT-Github-profiles)
+  - [Awesome Maps](https://github.com/simsieg/awesome-maps)
