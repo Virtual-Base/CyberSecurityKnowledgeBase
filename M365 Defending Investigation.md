@@ -11,7 +11,20 @@
   - [Microsoft Defender Antivirus Event Logs and Error Codes](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide)
   - [Configure Microsoft Defender for Endpoint](https://www.christiaanbrinkhoff.com/2021/03/12/learn-how-to-configure-microsoft-defender-for-endpoint-for-your-windows-virtual-and-physical-desktops-via-microsoft-endpoint-manager/)
   - [Adarsh Pandey - KQL Query](https://github.com/AdarshPandey-dev/Kusto-Query-Language-KQL-)
-  - [Red Canary 2021 TTPs Investigation using MDATP](https://redcanary.com/products/mdr-for-endpoints/microsoft-defender-for-endpoint/crash-course/)
+### Red Canary 2021 MDATP Crash Course 
+ - [2021Threat Detection Report](https://redcanary.com/threat-detection-report/)
+#### Masquerading
+ - [How to respond to masquerading alerts](https://www.youtube.com/watch?v=pD_VoMSIMTs&list=PL92eUXSF717Xa7u7qFW8Jal7jabxRC0qW&index=3)
+ - [How to triage and investigate masquerading](https://www.youtube.com/watch?v=h_1oMxKQ5-g&list=PL92eUXSF717Xa7u7qFW8Jal7jabxRC0qW&index=2)
+ - [Advanced hunting for masquerading](https://www.youtube.com/watch?v=PC09WBjBUkg&list=PL92eUXSF717Xa7u7qFW8Jal7jabxRC0qW&index=4)
+#### Scheduled Task
+- [How to triage Scheduled Task alerts](https://www.youtube.com/watch?v=5Pyci_FF83s&list=PL92eUXSF717Xa7u7qFW8Jal7jabxRC0qW&index=6)
+- [How to respond to Scheduled Task alerts](https://www.youtube.com/watch?v=-3hqvchfL4k&list=PL92eUXSF717Xa7u7qFW8Jal7jabxRC0qW&index=7)  
+- [Advanced hunting for Scheduled Task](https://www.youtube.com/watch?v=g8Xr_fdGZDA&list=PL92eUXSF717Xa7u7qFW8Jal7jabxRC0qW&index=8)
+#### LSASS Memory
+- [How to Triage and Investigate LSASS Memory Alerts](https://www.youtube.com/watch?v=JvEIUiTOHUc&list=PL92eUXSF717Xa7u7qFW8Jal7jabxRC0qW&index=9)
+- [How to Respond to LSASS Memory Alerts](https://www.youtube.com/watch?v=o3ZSuHX-mBw&list=PL92eUXSF717Xa7u7qFW8Jal7jabxRC0qW&index=11)
+- [Advanced Hunting for LSASS Memory Alerts](https://www.youtube.com/watch?v=nw7q8Wl25dg&list=PL92eUXSF717Xa7u7qFW8Jal7jabxRC0qW&index=10)
 
 # Azure Active Directory 
   - [AzureAD-Attack-Defense](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense?WT.mc_id=m365-0000-rotrent)
