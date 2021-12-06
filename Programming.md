@@ -28,3 +28,6 @@
 
 # Saylor Education Course
   - [Computer Science](https://learn.saylor.org/course/index.php?categoryid=9)
+
+# Scripting Course
+  - [Books, reference guides and resources on Regular Expressions, CLI one-liners, Scripting Languages and Vim](https://github.com/learnbyexample/scripting_course?s=08)
