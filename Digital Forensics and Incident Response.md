@@ -121,6 +121,9 @@
   - [DFIR-01 : $MFT](https://www.unh4ck.com/dfir/dfir-01-usdmft)
   - [DFIR-02 : Journal Forensics](https://www.unh4ck.com/dfir/dfir-02-journal-forensics)
 
+# Packed PE Files 
+  - [Detecting Packed PE Files](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Detecting_Packed_PE_Files.pdf)
+
 # MS Exchange Web Interface
   - [Attacking MS Exchange Web Interfaces Analysis](https://swarm.ptsecurity.com/attacking-ms-exchange-web-interfaces/)
 
@@ -137,11 +140,21 @@
 # Python Malware Analysis 
   - [Snakes on a Domain: An Analysis of a Python Malware Loader](https://www-huntress-com.cdn.ampproject.org/c/s/www.huntress.com/blog/snakes-on-a-domain-an-analysis-of-a-python-malware-loader?hs_amp=true)
 
+# Go Malware Analysis 
+  - [Go Reversing Introduction](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/BHACK_2021_ALEXANDREBORGES_Go_Reversing.pdf)
+
+# Jumping The Air Gap
+  - [Air-gapping is used to protect the most sensitive of networks](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/ESET_%20Jumping%20the%20Air%20Gap.pdf)
+
+# Bonet Analysis
+  - [Botnet Malware Dissemination](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Botnet_%20Malware_Dissemination.pdf)
+
 # LoLbins 
   - [LOLBins Are No Laughing Matter: How Attackers Operate Quietly](https://www.uptycs.com/blog/lolbins-are-no-laughing-matter)
 
 # EndPoint Detection and Response 
   - [Empirical Assessment of Endpoint Detection and Response Systems against Advanced Persistent Threats Attack Vectors](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Empirical%20Assessment%20of%20Endpoint%20Detection%20and%20Response.pdf)
+  
 ### Symantec
   - [Threat Hunting with Symantec EDR and ATT&CK](https://nasbench.medium.com/threat-hunting-with-symantec-edr-and-att-ck-97272ed2d730)
   - [Forensic Artifacts — Symantec EDR “localdatastore” Folder](https://nasbench.medium.com/forensics-artifacts-symantec-edr-localdatastore-folder-9bff91d2876d)
