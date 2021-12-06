@@ -83,6 +83,11 @@
   - [Part one: Memory Forensics & Malware Hunt- Memory Acquisition](https://www.linkedin.com/posts/meisameslahi_cybersecurity-threathunting-memoryforesnics-activity-6863355591147048961-Z81j)
   - [Part Two: File-less Malware Hunt via Memory Forensics – Volatility 3](https://www.linkedin.com/posts/meisameslahi_cybersecurity-threathunting-malwaredetection-activity-6863732377986981888-OKNq)
   - [Part Three: File-less Malware Hunt via Memory Forensics – PowerShell Execution](https://www.linkedin.com/posts/meisameslahi_cybersecurity-threathunting-malwaredetection-activity-6864090004700979200-lRjA)
+### Network Hunting
+  - [Prerequisites](https://www.linkedin.com/posts/meisameslahi_kali-wireshark-cybersecurity-activity-6869902054962421760-qcmS/)
+  - [Part 1: File-less Malware Hunt via Network Packet Analysis – Network Traffic Statistics!](https://www.linkedin.com/posts/meisameslahi_cybersecurity-threathunting-malwaredetection-activity-6870987786976145408-GwZA/)
+  - [Part 2: File-less Malware Hunt via Network Packet Analysis – Endpoints!](https://www.linkedin.com/posts/meisameslahi_ipvoid-tcpdump-grep-activity-6871713225461907456-55gM/)
+  - [Part 3: File-less Malware Hunt via Network Packet Analysis – Network Conversations!](https://www.linkedin.com/feed/update/urn:li:activity:6873511278846074881/)
 
 # Windows Logon Analysis 
   - [Fantastic Windows Logon types and Where to Find Credentials in Them](https://www.alteredsecurity.com/post/fantastic-windows-logon-types-and-where-to-find-credentials-in-them)
