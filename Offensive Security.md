@@ -34,6 +34,15 @@
 # Red Teaming 
 # Tools - Pentesting 
   - [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t/Pentest-Tools/)
+
+### Fuzzing 101
+  - [Github Repository](https://github.com/antonio-morales/Fuzzing101)
+  - [Github Solutions](https://github.com/epi052/fuzzing-101-solutions)
+  - [Fuzzing101 with LibAFL - Part I: Fuzzing Xpdf](https://epi052.gitlab.io/notes-to-self/blog/2021-11-01-fuzzing-101-with-libafl/)
+  - [Fuzzing101 with LibAFL - Part II: Fuzzing libexif](https://epi052.gitlab.io/notes-to-self/blog/2021-11-07-fuzzing-101-with-libafl-part-2/)
+  - [Fuzzing101 with LibAFL - Part III: Fuzzing tcpdump](https://epi052.gitlab.io/notes-to-self/blog/2021-11-20-fuzzing-101-with-libafl-part-3/)
+  - [Fuzzing101 with LibAFL - Part I.V: Speed Improvements to Part I](https://epi052.gitlab.io/notes-to-self/blog/2021-11-07-fuzzing-101-with-libafl-part-1.5/)
+
 ### Infrastructure 
   - [Design and setup of C2 traffic redirectors](https://ditrizna.medium.com/design-and-setup-of-c2-traffic-redirectors-ec3c11bd227d)
   - [Taking the pain out of C2 Infrastructure (Part 1)](https://byt3bl33d3r.substack.com/p/taking-the-pain-out-of-c2-infrastructure)
