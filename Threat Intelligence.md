@@ -50,6 +50,7 @@
 # Blogs 
   - [Conti affiliates use ProxyShell Exchange exploit in ransomware attacks](https://twitter.com/SophosLabs/status/1433769658256089089)
   - [Analysis of a Dark Web site](https://www.neteye-blog.com/2021/07/analysis-of-a-dark-web-site/)
+  - [Ultimate Guide to Cyber Threat Intelligence](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Finding_Beacon_Guide_Blackberry.pdf)
 
 # DeepDark
   - [Exploits Forums](https://github.com/fastfire/deepdarkCTI/blob/main/exploits.md)
