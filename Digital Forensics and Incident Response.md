@@ -1,3 +1,6 @@
+# Franework
+  - [DFIR Reference Frameworks](https://github.com/joshlemon/DFIR-Reference-Frameworks)
+
 # Training 
   - [DFIR - SANS](https://www.youtube.com/watch?v=pSAW_T_WvME&t=2s)
   - [DFIR - Diva - Part 1](https://freetraining.dfirdiva.com/free-ir-training-plan-part-one)
@@ -7,6 +10,7 @@
   - [Velociraptor DFIR Case Walkthrough](https://www.youtube.com/watch?v=dmmliSh91uQ)
   - [Kape Tutorial](https://aboutdfir.com/toolsandartifacts/windows/kape/)
   - [BlackPerl DFIR || INCIDENT RESPONSE TRAINING || Full Course](https://www.youtube.com/playlist?list=PLjWEV7pmvSa4yvhzNsCjOJovOn1LLyBXB)
+  - [Linux Command Line tutorial](https://www.youtube.com/playlist?list=PLSbhiuoC0XgX70ZtgJ7d-1rLui0jZRabg)
  
 # Tools 
   - [DFIR Tools CheatSheet](https://dfircheatsheet.github.io/)
@@ -22,6 +26,7 @@
   - [Forensics Windows Diagnostic Database](https://github.com/stuxnet999/EventTranscriptParser)
   - [Forensics WinHex Templates](https://github.com/kacos2000/WinHex_Templates?s=08)
   - [Forensics Eric Zimmerman Tools](https://ericzimmerman.github.io/#!index.md)
+  - [AutoMacTC: Automated Mac Forensic Triage Collector](https://github.com/CrowdStrike/automactc?s=08)
 
 # CheatSheet
   - [DFIR Regex](https://github.com/rathbuna/DFIRRegex)
@@ -90,6 +95,7 @@
   - [Detecting CONTI CobaltStrike Lateral Movement Techniques - Part 1](https://www.unh4ck.com/detection-engineering-and-threat-hunting/lateral-movement/detecting-conti-cobaltstrike-lateral-movement-techniques-part-1)
   - [Detecting CONTI CobaltStrike Lateral Movement Techniques - Part 2](https://www.unh4ck.com/detection-engineering-and-threat-hunting/lateral-movement/detecting-conti-cobaltstrike-lateral-movement-techniques-part-2)
   - [Detecting Lateral Movement via Service Configuration Manager](https://www.unh4ck.com/detection-engineering-and-threat-hunting/lateral-movement/detecting-lateral-movement-via-service-configuration-manager)
+  - [Data Analysis for Cyber Security 101: Detecting Lateral Movement](https://pberba.github.io/security/2020/04/26/lateral-movement/)
 
 # Windows and Active Directory 
   - [Windows And Active Directory Persistence And Malicious Configurations](https://web.archive.org/web/20210623173110/https://m365internals.com/2021/06/23/dfir-windows-and-active-directory-persistence-and-malicious-configurations/)
