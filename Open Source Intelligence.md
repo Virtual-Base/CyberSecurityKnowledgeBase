@@ -13,3 +13,4 @@
   - [API-s-for-OSINT](https://github.com/cipher387/API-s-for-OSINT)
   - [OSINT-Github-profiles](https://github.com/cipher387/OSINT-Github-profiles)
   - [Awesome Maps](https://github.com/simsieg/awesome-maps)
+  - [KeyHacks - API List](https://github.com/streaak/keyhacks#ABTasty-API-Key)
