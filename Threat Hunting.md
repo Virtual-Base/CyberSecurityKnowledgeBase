@@ -3,6 +3,7 @@
   - [Hunting APT in Network Logs](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Hunting%20for%20APT%20in%20Network%20Logs.pdf)
   - [Kestrel Threat Hunting Language](https://github.com/opencybersecurityalliance/kestrel-lang#installation)
   - [The Game of Cyber Threat Hunting: The Return of the Fun - Kestrel](https://www.youtube.com/watch?v=-Xb086R0JTk)
+  - [Detection Engineering](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Detection_Engineering.pdf)
 
 # SANS Summit Compilation
   - [2021](https://start.me/p/DP6oRw/sans-threat-hunting-2021)
@@ -56,7 +57,7 @@
   - [Cobalt Strike: Using Known Private Keys To Decrypt Traffic – Part 1](https://blog.nviso.eu/2021/10/21/cobalt-strike-using-known-private-keys-to-decrypt-traffic-part-1/)
   - [Cobalt Strike: Using Known Private Keys To Decrypt Traffic – Part 2](https://blog.nviso.eu/2021/10/27/cobalt-strike-using-known-private-keys-to-decrypt-traffic-part-2/)
   - [Cobalt Strike: Using Process Memory To Decrypt Traffic – Part 3](https://blog.nviso.eu/2021/11/03/cobalt-strike-using-process-memory-to-decrypt-traffic-part-3/)
-  - [Cobalt Strike: Decrypting Obfuscated Traffic – Part 4](Cobalt Strike: Decrypting Obfuscated Traffic – Part 4)
+  - [Cobalt Strike: Decrypting Obfuscated Traffic – Part 4](https://blog.nviso.eu/2021/11/17/cobalt-strike-decrypting-obfuscated-traffic-part-4/)
   - [Cobalt Strike: Decrypting DNS Traffic – Part 5](https://blog.nviso.eu/2021/11/29/cobalt-strike-decrypting-dns-traffic-part-5/)
   - [Decrypting Cobalt Strike Traffic With Keys Extracted From Process Memory](https://www.youtube.com/watch?v=rpsnPwdxTnA)
   
@@ -115,6 +116,7 @@
 
 # Hunting Macros
   - [Hunting Malicious Office Macros](https://www.youtube.com/watch?v=soF5iyeeWDg)
+  - [Malicious Document Analysis](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Malware_Document_Analysis_1.pdf)
 
 # C2 
   - [Building a Basic C2](https://0xrick.github.io/misc/c2/)
