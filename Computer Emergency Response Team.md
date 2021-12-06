@@ -26,6 +26,8 @@
    - [A guide to combatting human-operated ransomware: Part 2](https://www.microsoft.com/security/blog/2021/09/27/a-guide-to-combatting-human-operated-ransomware-part-2/)
    - [Marco_Ramilli](https://marcoramilli.com/) 
    - [Identification of a new cybercriminal group: Lockean](https://cert.ssi.gouv.fr/cti/CERTFR-2021-CTI-009/)
+   - [Exchange Exploit Leads to Domain Wide Ransomware](https://thedfirreport.com/2021/11/15/exchange-exploit-leads-to-domain-wide-ransomware/)
+   - [OALabs Notes - Dridex, Emotet and Other Campaings](https://github.com/OALabs/Lab-Notes)
 
   ### Lockbit 2.0
    - [Hunting the Lockbit Gangs Exfiltration Infrastructures](https://yoroi.company/research/hunting-the-lockbit-gangs-exfiltration-infrastructures/)
@@ -38,6 +40,10 @@
   ### BlackByte Ransomware
    - [BlackByte Ransomware – Pt. 1 In-depth Analysis](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/blackbyte-ransomware-pt-1-in-depth-analysis/)
    - [BlackByte Ransomware – Pt 2. Code Obfuscation Analysis](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/blackbyte-ransomware-pt-2-code-obfuscation-analysis/)
+  ### Memento Ransomware 
+   - [New ransomware actor uses password-protected archives to bypass encryption protection](https://news.sophos.com/en-us/2021/11/18/new-ransomware-actor-uses-password-protected-archives-to-bypass-encryption-protection/)
+  ### Emotet  
+   - [Unpacking Emotet and Reversing Obfuscated Word Document](https://www.youtube.com/watch?v=AkZ5TYBqcU4)
   
 
    ## **Compilation**
