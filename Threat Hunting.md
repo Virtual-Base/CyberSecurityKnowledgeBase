@@ -7,6 +7,21 @@
 # SANS Summit Compilation
   - [2021](https://start.me/p/DP6oRw/sans-threat-hunting-2021)
 
+# InfosecJupyter 
+## Fundamentals Training 
+  - [Workshop 1.1: Jupyter Notebooks Introduction](https://infosecjupyterthon.com/workshops/day1/day1-1-Jupyter-Introduction.html#)
+  - [Workshop 1.2: Acquiring Data](https://infosecjupyterthon.com/workshops/day1/day1-2-Acquiring-data.html)
+  - [Workshop 1.3: Basics of Data Analysis with Pandas](https://infosecjupyterthon.com/workshops/day1/day1-3-Data-Analysis-with-Pandas%20Intro.html)
+  - [Workshop 2.1: Jupyter Notebooks Advanced](https://infosecjupyterthon.com/workshops/day2/day2-1-Jupyter-advanced-topics.html)
+  - [Workshop 2.1: R Demo Notebook](https://infosecjupyterthon.com/workshops/day2/day2-1-R-demo-notebook.html)
+  - [Workshop 2.2: Visualization in Jupyter Notebooks](https://infosecjupyterthon.com/workshops/day2/day2-2-Visualization.html)
+  - [Workshop 2.3: Advanced Pandas](https://infosecjupyterthon.com/workshops/day2/day2-3-Advanced-pandas.html)
+  - [Workshop 2.4: MSTICPy](https://infosecjupyterthon.com/workshops/day2/day2-4-MSTICPy.html)
+## Live Streamed Recording and Materials
+  - [InfoSec Jupyterthon 2021 - Day 1](https://www.youtube.com/watch?v=nMnHBnYfIaI)
+  - [InfoSec Jupyterthon 2021 - Day 2](https://www.youtube.com/watch?v=2Rb5B_RPDBc)
+  - [Infosec Jupyterthon! - 2021](https://github.com/OTRF/infosec-jupyterthon)
+
 # Cyborg: Do You Even Threat Hunt
   - [Part 1](https://info.cyborgsecurity.com/en-us/do-you-even-threat-hunt-bro?utm_campaign=Webinar%20|%20Do%20You%20Even%20Threat%20Hunt,%20Bro%3F%20III&utm_content=181777242&utm_medium=social&utm_source=linkedin&hss_channel=lcp-37377305)
   - [Part 2 - HiveNightmare](https://info.cyborgsecurity.com/en-us/do-you-even-threat-hunt-bro-ii?utm_campaign=Webinar%20|%20Do%20You%20Even%20Threat%20Hunt,%20Bro%3F%20III&utm_content=181777242&utm_medium=social&utm_source=linkedin&hss_channel=lcp-37377305)
@@ -19,10 +34,13 @@
   - [Tool - GOAD (Game Of Active Directory)](https://github.com/Orange-Cyberdefense/GOAD)
   - [Active Directory Discovery Detection](https://www.splunk.com/en_us/blog/security/active-directory-discovery-detection-threat-research-release-september-2021.html)
   - [Detecting NTLM Relay Attacks](https://posts.bluraven.io/detecting-ntlm-relay-attacks-d92e99e68fb9)
+  - [Detecting DCSync and DCShadow Network Traffic](https://blog.nviso.eu/2021/11/15/detecting-dcsync-and-dcshadow-network-traffic/)
+ 
 # Cobalt Strike 
   - [Cobalt Strike Theory for Begineers](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Article%20-%20A%20guide%20to%20Cobalt%20Strike%20for%20the%20little%20ones.%20Part%201%20_%20XSS.is%20(ex%20DaMaGeLaB).pdf)
   - [Defining Cobalt Strike Components So You Can BEA-CONfident in Your Analysis](https://www.mandiant.com/resources/defining-cobalt-strike-components)
   - [Cobalt Strike C2 Hunting with Shodan](https://michaelkoczwara.medium.com/cobalt-strike-c2-hunting-with-shodan-c448d501a6e2)
+  - [Mining The Shadows with ZoidbergStrike: A Scanner for Cobalt Strike](https://www.youtube.com/watch?v=MWr6bvrrYHQ)
   - [Enterprise Scale Threat Hunting: C2 Beacon Detection with Unsupervised ML and KQL — Part 1](https://posts.bluraven.io/enterprise-scale-threat-hunting-network-beacon-detection-with-unsupervised-machine-learning-and-277c4c30304f)
   - [Enterprise Scale Threat Hunting: C2 Beacon Detection with Unsupervised ML and KQL — Part 2](https://posts.bluraven.io/enterprise-scale-threat-hunting-network-beacon-detection-with-unsupervised-ml-and-kql-part-2-bff46cfc1e7e)
   - [Sleeping with a Mask On (Cobalt Strike)](https://adamsvoboda.net/sleeping-with-a-mask-on-cobaltstrike/amp/?__twitter_impression=true)
@@ -33,10 +51,13 @@
   - [Pointer Tool: Hunting Cobalt Strike globally](https://medium.com/@shabarkin/pointer-hunting-cobalt-strike-globally-a334ac50619a)
   - [From Zero to Domain Admin](https://thedfirreport.com/2021/11/01/from-zero-to-domain-admin/)
   - [Cobalt Strike Built-In Lateral Movement Capabilities Based On CONTI Leak Mind Map](https://github.com/AndrewRathbun/DFIRMindMaps/tree/main/OSArtifacts/Windows/Cobalt%20Strike%20Lateral%20Movement%20Artifact%20-%20Based%20on%20CONTI%20Leak)
+  
 ## Traffic Analysis Series
   - [Cobalt Strike: Using Known Private Keys To Decrypt Traffic – Part 1](https://blog.nviso.eu/2021/10/21/cobalt-strike-using-known-private-keys-to-decrypt-traffic-part-1/)
   - [Cobalt Strike: Using Known Private Keys To Decrypt Traffic – Part 2](https://blog.nviso.eu/2021/10/27/cobalt-strike-using-known-private-keys-to-decrypt-traffic-part-2/)
   - [Cobalt Strike: Using Process Memory To Decrypt Traffic – Part 3](https://blog.nviso.eu/2021/11/03/cobalt-strike-using-process-memory-to-decrypt-traffic-part-3/)
+  - [Cobalt Strike: Decrypting Obfuscated Traffic – Part 4](Cobalt Strike: Decrypting Obfuscated Traffic – Part 4)
+  - [Cobalt Strike: Decrypting DNS Traffic – Part 5](https://blog.nviso.eu/2021/11/29/cobalt-strike-decrypting-dns-traffic-part-5/)
   - [Decrypting Cobalt Strike Traffic With Keys Extracted From Process Memory](https://www.youtube.com/watch?v=rpsnPwdxTnA)
   
 # Web Proxy Threat Hunting 
@@ -77,6 +98,11 @@
   - [Windows Threat Hunting : Processes of Interest (Part 2)](https://infosecwriteups.com/windows-threat-hunting-processes-of-interest-part-2-b45d6fcd4e9)
   - [The dark side of Microsoft Remote Procedure Call protocols](https://redcanary.com/blog/msrpc-to-attack/)
   - [MSRPC-To-ATT&CK -  Microsoft Remote Procedure Call protocols](https://github.com/jsecurity101/MSRPC-to-ATTACK)
+  - [Analysis of RDP Attack Surface and Its Security](https://medium.com/@knownsec404team/analysis-of-rdp-attack-surface-and-its-security-bd49b4f6b255)
+
+# Linux 
+  - [Hunting for Persistence in Linux (Part 1): Auditd, Sysmon, Osquery, and Webshells](https://pberba.github.io/security/2021/11/22/linux-threat-hunting-for-persistence-sysmon-auditd-webshell/)
+  - [Hunting for Persistence in Linux (Part 2): Account Creation and Manipulation](https://pberba.github.io/security/2021/11/23/linux-threat-hunting-for-persistence-account-creation-manipulation/)
 
 # Powershell Suspicious Detcetion
   - [PowerShell Detections — Threat Research Release, August 2021](https://www.splunk.com/en_us/blog/security/powershell-detections-threat-research-release-august-2021.html?s=08)
@@ -91,6 +117,7 @@
   - [Hunting Malicious Office Macros](https://www.youtube.com/watch?v=soF5iyeeWDg)
 
 # C2 
+  - [Building a Basic C2](https://0xrick.github.io/misc/c2/)
   - [PROTECTING NETWORKS FROM ESOTERIC C2](https://www.f-secure.com/en/consulting/our-thinking/protecting-networks-from-esoteric-c2?ffcid=70168000000cK34AAE&utm_source=linkedin&utm_medium=social&utm_campaign=GL&utm_content=a1)
   - [Hunting “Legit” Red Teams C2 Infrastructure](https://michaelkoczwara.medium.com/hunting-legit-red-teams-c2-infrastructure-7b79abbd171b)
   - [Matrix](https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit#gid=0)
@@ -109,6 +136,8 @@
   - [Use EVTX files on VirusTotal with Timesketch and Sigma (Part 2)](https://osdfir.blogspot.com/2021/11/use-evtx-files-on-virustotal-part2.html)
   - [Code similarity analysis with r2diaphora - Binary Diffing](https://cybersecurity.att.com/blogs/labs-research/code-similarity-analysis-with-r2diaphora)
   - [All your hashes are belong to us: An overview of malware hashing algorithms](https://www.gdatasoftware.com/blog/2021/09/an-overview-of-malware-hashing-algorithms)
+  - [SSO, Extended crowdsourced YARA detection and new relations](https://releases.virustotal.com/2021/11/november-29th-2021-sso-extended.html?m=1&s=09)
+  - [Introducing VirusTotal Collections](https://blog.virustotal.com/2021/11/introducing-virustotal-collections.html?m=1&s=09)
 ### Tools
   - [Online Hash Checker for Virustotal and Other Services](https://github.com/Neo23x0/munin)
 ### Reference
@@ -146,6 +175,7 @@
 ### Rules 
   - [Splunk Seurity Content](https://github.com/splunk/security_content)
   - [Splunk PSTree Command](https://github.com/murchisd/splunk_pstree_app)
+  - [Splunk Use Cases - 81](https://0xcybery.github.io/blog/Splunk+Use+Cases)
 
 # Sysmon
 ### Theory 
