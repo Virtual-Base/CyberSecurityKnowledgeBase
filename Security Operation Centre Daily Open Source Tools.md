@@ -5,6 +5,8 @@
   - [How to measure SOC quality](https://expel.io/blog/how-to-measure-soc-quality/)
   - [MCRA Security Operations - SOC Challenges](https://www.youtube.com/watch?v=6g-C_u8qg5Q)
   - [How to Investigate Typosquats](https://www.recordedfuture.com/how-to-investigate-typosquats/?utm_content=185049094&utm_medium=social&utm_source=linkedin&hss_channel=lcp-678036)
+  - [Going beyond traditional metrics: 3 key strategies to measuring your SOC performance](https://blog.nviso.eu/2021/05/26/going-beyond-traditional-metrics-3-key-strategies-to-measuring-your-soc-performance/)
+  - [Defender’s Mindset - JohnLaTwC](https://medium.com/@johnlatwc/defenders-mindset-319854d10aaa)
 ### Phishing 
   - [Training - Email Forensic](https://www.youtube.com/playlist?list=PLvOFsJ3VdHa_USZuhzIjDFk_EYA5pRP9Z)
   - [The Ultimate Guide to Phishing](https://sidb.in/2021/08/03/Phishing-0-to-100.html)
