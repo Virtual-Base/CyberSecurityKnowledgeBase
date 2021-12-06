@@ -34,6 +34,7 @@
 # Red Teaming 
 # Tools - Pentesting 
   - [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t/Pentest-Tools/)
+  - [RedTeam Toolkit](https://github.com/signorrayan/RedTeam_toolkit)
 
 ### Fuzzing 101
   - [Github Repository](https://github.com/antonio-morales/Fuzzing101)
@@ -50,6 +51,9 @@
   - [Infrastructure](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques/tree/master/offensive-security/red-team-infrastructure)
   - [MiTRE TTPs Explanation](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques/tree/master/offensive-security)
 
+## Reconnaissance
+### Subdomain Enumeration 
+  - [Subdomain Enumeration Guide 2021](https://sidxparab.gitbook.io/subdomain-enumeration-guide/)
 ###  Automated Recon Pipeline with Python and Luigi
   - [How to Build an Automated Recon Pipeline with Python and Luigi - Part I (Setup and Scope)](https://epi052.gitlab.io/notes-to-self/blog/2019-09-01-how-to-build-an-automated-recon-pipeline-with-python-and-luigi/)
   - [How to Build an Automated Recon Pipeline with Python and Luigi - Part II (Port Scanning I)](https://epi052.gitlab.io/notes-to-self/blog/2019-09-02-how-to-build-an-automated-recon-pipeline-with-python-and-luigi-part-two/)
@@ -66,9 +70,13 @@
 ## EDR - Windows Kernel 
   - [Kernel Karnage – Part 1](https://blog.nviso.eu/2021/10/21/kernel-karnage-part-1/)
   - [Kernel Karnage – Part 2 (Back to Basics)](https://blog.nviso.eu/2021/10/29/kernel-karnage-part-2-back-to-basics/)
+  - [Kernel Karnage – Part 3 (Challenge Accepted)](https://blog.nviso.eu/2021/11/16/kernel-karnage-part-3-challenge-accepted/)
+  - [Kernel Karnage – Part 4 (Inter(ceptor)mezzo)](https://blog.nviso.eu/2021/11/19/kernel-karnage-part-4-interceptormezzo/)
+  - [Kernel Karnage – Part 5 (I/O & Callbacks)](https://blog.nviso.eu/2021/11/30/kernel-karnage-part-5-i-o-callbacks/)
 ## EDR Bypass
   - [Master of Puppets Part I – How to Bypass the EDR?](https://www.infosec.tirol/master-of-puppets-part-i/)
   - [Master of Puppets Part II – How to tamper the EDR?](https://www.infosec.tirol/master-of-puppets-part-ii-how-to-tamper-the-edr/)
+  - [EDR, a closer look at protected services](https://www.infosec.tirol/edr-a-closer-look-at-protected-services/)
   - [Detecting EDR Bypass: Malicious Drivers(Kernel Callbacks)](https://posts.bluraven.io/detecting-edr-bypass-malicious-drivers-kernel-callbacks-f5e6bf8f7481)
   - [A tale of EDR bypass methods](https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods/)
   - [MALWARE ANALYSIS: SYSCALLS](https://jmpesp.me/malware-analysis-syscalls-example/)
