@@ -11,6 +11,8 @@
   - [Microsoft Defender Antivirus Event Logs and Error Codes](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide)
   - [Configure Microsoft Defender for Endpoint](https://www.christiaanbrinkhoff.com/2021/03/12/learn-how-to-configure-microsoft-defender-for-endpoint-for-your-windows-virtual-and-physical-desktops-via-microsoft-endpoint-manager/)
   - [Adarsh Pandey - KQL Query](https://github.com/AdarshPandey-dev/Kusto-Query-Language-KQL-)
+  - [TweetFeed.live - Hunting IOCs via Microsoft Defender](https://github.com/0xDanielLopez/TweetFeed#hunting-IOCs-via-Microsoft-Defender)
+
 ### Red Canary 2021 MDATP Crash Course 
  - [2021Threat Detection Report](https://redcanary.com/threat-detection-report/)
 #### Masquerading
@@ -27,7 +29,9 @@
 - [Advanced Hunting for LSASS Memory Alerts](https://www.youtube.com/watch?v=nw7q8Wl25dg&list=PL92eUXSF717Xa7u7qFW8Jal7jabxRC0qW&index=10)
 
 # Azure Active Directory 
-  - [AzureAD-Attack-Defense](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense?WT.mc_id=m365-0000-rotrent)
+  - [Overview of Microsoft Identity Security Monitoring](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense/blob/main/IdentitySecurityMonitoring.md)
+  - [Password Spray Attacks](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense/blob/main/PasswordSpray.md)
+  - [Consent Grant Attack -Perfect tool to create backdoors, and MFA bypasses in the victim’s environment](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense/blob/main/ConsentGrant.md)
 
 # Office 365 
   - [Office365 Attacks: Bypassing MFA, Achieving Persistence and More - Part I](https://www.inversecos.com/2021/09/office365-attacks-bypassing-mfa.html?m=1)
