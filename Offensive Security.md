@@ -50,6 +50,14 @@
   - [Infrastructure](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques/tree/master/offensive-security/red-team-infrastructure)
   - [MiTRE TTPs Explanation](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques/tree/master/offensive-security)
 
+###  Automated Recon Pipeline with Python and Luigi
+  - [How to Build an Automated Recon Pipeline with Python and Luigi - Part I (Setup and Scope)](https://epi052.gitlab.io/notes-to-self/blog/2019-09-01-how-to-build-an-automated-recon-pipeline-with-python-and-luigi/)
+  - [How to Build an Automated Recon Pipeline with Python and Luigi - Part II (Port Scanning I)](https://epi052.gitlab.io/notes-to-self/blog/2019-09-02-how-to-build-an-automated-recon-pipeline-with-python-and-luigi-part-two/)
+  - [How to Build an Automated Recon Pipeline with Python and Luigi - Part III (Port Scanning II)](https://epi052.gitlab.io/notes-to-self/blog/2019-09-12-how-to-build-an-automated-recon-pipeline-with-python-and-luigi-part-three/)
+  - [How to Build an Automated Recon Pipeline with Python and Luigi - Part IV (Subdomain Enumeration)](https://epi052.gitlab.io/notes-to-self/blog/2019-09-17-how-to-build-an-automated-recon-pipeline-with-python-and-luigi-part-four/)
+  - [How to Build an Automated Recon Pipeline with Python and Luigi - Part V (Web Scanning)](https://epi052.gitlab.io/notes-to-self/blog/2019-11-22-how-to-build-an-automated-recon-pipeline-with-python-and-luigi-part-five/)
+  - [How to Build an Automated Recon Pipeline with Python and Luigi - Part VI (Wrapping Up)](https://epi052.gitlab.io/notes-to-self/blog/2020-01-19-how-to-build-an-automated-recon-pipeline-with-python-and-luigi-part-six/)
+
 # Endpoint Detection and Response(EDR) 
   - [EDRs Against APT 2021](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/EDR_Against_APT_2021.pdf)
   - [Blinding EDR On Windows](https://synzack.github.io/Blinding-EDR-On-Windows/)
@@ -135,3 +143,14 @@
   - [Reversing & Exploiting with Free Tools: Part 9](https://www.coresecurity.com/core-labs/articles/reversing-and-exploiting-free-tools-part-9)
   - [Reversing and Exploiting with Free Tools: Part 10](https://www.coresecurity.com/core-labs/articles/reversing-and-exploiting-free-tools-part-10)
   - [Reversing and Exploiting with Free Tools: Part 11](https://www.coresecurity.com/core-labs/articles/reversing-and-exploiting-free-tools-part-11)
+
+## Exploit Development 
+  - [OSCE Exam Practice - Part I (Lab Setup)](https://epi052.gitlab.io/notes-to-self/blog/2020-05-13-osce-exam-practice-part-one/)
+  - [OSCE Exam Practice - Part II (TRUN via EIP Overwrite)](https://epi052.gitlab.io/notes-to-self/blog/2020-05-14-osce-exam-practice-part-two/)
+  - [OSCE Exam Practice - Part III (GMON via SEH Overwrite w/ Egg Hunter)](https://epi052.gitlab.io/notes-to-self/blog/2020-05-18-osce-exam-practice-part-three/)
+  - [OSCE Exam Practice - Part IV (GMON via SEH Overwrite w/ Stack Pivot)](https://epi052.gitlab.io/notes-to-self/blog/2020-05-19-osce-exam-practice-part-four/)
+  - [OSCE Exam Practice - Part V (KSTET via 3-stage Shellcode)](https://epi052.gitlab.io/notes-to-self/blog/2020-05-19-osce-exam-practice-part-five/)
+  - [OSCE Exam Practice - Part VI (HTER via EIP Overwrite w/ Restricted Character Set)](https://epi052.gitlab.io/notes-to-self/blog/2020-05-21-osce-exam-practice-part-six/#fuzzing)
+  - [OSCE Exam Practice - Part VII (GTER via EIP Overwrite w/ Socket Reuse Payload)](https://epi052.gitlab.io/notes-to-self/blog/2020-05-22-osce-exam-practice-part-seven/)
+  - [OSCE Exam Practice - Part VIII (LTER via EIP Overwrite w/ Restricted Character Set)](https://epi052.gitlab.io/notes-to-self/blog/2020-05-24-osce-exam-practice-part-eight/)
+  - [OSCE Exam Practice - Part IX (LTER via SEH Overwrite w/ Restricted Character Set)](https://epi052.gitlab.io/notes-to-self/blog/2020-05-25-osce-exam-practice-part-nine/)
