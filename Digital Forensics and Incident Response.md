@@ -6,6 +6,7 @@
   - [Velociraptor Tutorial](https://www.youtube.com/playlist?list=PLz4xB83Y3Vbjtqr_ttOkBWZZ_ewEVVPXQ)
   - [Velociraptor DFIR Case Walkthrough](https://www.youtube.com/watch?v=dmmliSh91uQ)
   - [Kape Tutorial](https://aboutdfir.com/toolsandartifacts/windows/kape/)
+  - [BlackPerl DFIR || INCIDENT RESPONSE TRAINING || Full Course](https://www.youtube.com/playlist?list=PLjWEV7pmvSa4yvhzNsCjOJovOn1LLyBXB)
  
 # Tools 
   - [DFIR Tools CheatSheet](https://dfircheatsheet.github.io/)
