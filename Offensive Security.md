@@ -67,6 +67,7 @@
   - [Blinding EDR On Windows](https://synzack.github.io/Blinding-EDR-On-Windows/)
   - [Evading EDR in 15 Minutes with ScareCrow](https://adamsvoboda.net/evading-edr-with-scarecrow/)
   - [Attacks on ETW Blind EDR Sensors](https://i.blackhat.com/EU-21/Wednesday/EU-21-Teodorescu-Veni-No-Vidi-No-Vici-Attacks-On-ETW-Blind-EDRs.pdf)
+  - [Design Issues Of Modern EDRs: Bypassing ETW-Based Solutions](https://www.binarly.io/posts/Design_issues_of_modern_EDRs_bypassing_ETW-based_solutions/index.html?s=09)
 ## EDR - Windows Kernel 
   - [Kernel Karnage – Part 1](https://blog.nviso.eu/2021/10/21/kernel-karnage-part-1/)
   - [Kernel Karnage – Part 2 (Back to Basics)](https://blog.nviso.eu/2021/10/29/kernel-karnage-part-2-back-to-basics/)
