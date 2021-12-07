@@ -28,6 +28,8 @@
    - [Identification of a new cybercriminal group: Lockean](https://cert.ssi.gouv.fr/cti/CERTFR-2021-CTI-009/)
    - [Exchange Exploit Leads to Domain Wide Ransomware](https://thedfirreport.com/2021/11/15/exchange-exploit-leads-to-domain-wide-ransomware/)
    - [OALabs Notes - Dridex, Emotet and Other Campaings](https://github.com/OALabs/Lab-Notes)
+   - [Suspected Russian Activity Targeting Government and Business Entities Around the Globe](https://www.mandiant.com/resources/russian-targeting-gov-business?s=09)
+   - [NICKEL targeting government organizations across Latin America and Europe](https://www.microsoft.com/security/blog/2021/12/06/nickel-targeting-government-organizations-across-latin-america-and-europe/?s=09)
 
   ### Lockbit 2.0
    - [Hunting the Lockbit Gangs Exfiltration Infrastructures](https://yoroi.company/research/hunting-the-lockbit-gangs-exfiltration-infrastructures/)
