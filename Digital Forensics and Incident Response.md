@@ -7,6 +7,7 @@
   - [DFIR - Diva - Part 2](https://freetraining.dfirdiva.com/free-ir-training-plan-part-two)
   - [IR - Sam Bowne](https://samsclass.info/152/152_F21.shtml)
   - [Velociraptor Tutorial](https://www.youtube.com/playlist?list=PLz4xB83Y3Vbjtqr_ttOkBWZZ_ewEVVPXQ)
+  - [Velociraptor: Dig Deeper with Mike Cohen [OSDFCon 2021]](https://www.youtube.com/watch?v=8AQFNAICajE)
   - [Velociraptor DFIR Case Walkthrough](https://www.youtube.com/watch?v=dmmliSh91uQ)
   - [Kape Tutorial](https://aboutdfir.com/toolsandartifacts/windows/kape/)
   - [BlackPerl DFIR || INCIDENT RESPONSE TRAINING || Full Course](https://www.youtube.com/playlist?list=PLjWEV7pmvSa4yvhzNsCjOJovOn1LLyBXB)
