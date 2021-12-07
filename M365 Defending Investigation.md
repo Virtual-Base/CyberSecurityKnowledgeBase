@@ -42,3 +42,6 @@
 # Microsoft Misses Several Types of Attacks (Series)
   - [Microsoft Misses Business Email Compromise (Email Fraud) Attacks](https://www.proofpoint.com/us/blog/email-and-cloud-threats/microsoft-misses-business-email-compromise-email-fraud-attacks)
   - [Microsoft Misses Ransomware Attacks](https://www.proofpoint.com/us/blog/email-and-cloud-threats/microsoft-misses-ransomware-attacks)
+
+# Sentinel
+  - [KQL for Microsoft Sentinel](https://github.com/reprise99/Sentinel-Queries#the-anatomy-of-a-kql-query)
