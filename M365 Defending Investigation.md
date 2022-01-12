@@ -43,5 +43,9 @@
   - [Microsoft Misses Business Email Compromise (Email Fraud) Attacks](https://www.proofpoint.com/us/blog/email-and-cloud-threats/microsoft-misses-business-email-compromise-email-fraud-attacks)
   - [Microsoft Misses Ransomware Attacks](https://www.proofpoint.com/us/blog/email-and-cloud-threats/microsoft-misses-ransomware-attacks)
 
-# Sentinel
+# Kusto Query Language 
+  - [KQL Internals](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/kql_internals_hk.pdf) 
+  - [Get expert training on advanced hunting](https://docs.microsoft.com/en-us/microsoft-365/security/defender/advanced-hunting-expert-training?view=o365-worldwide)
+  - [Leveraging the Power of KQL in Incident Response](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/leveraging-the-power-of-kql-in-incident-response/ba-p/3044795)
+  - [Advanced hunting query best practices](https://docs.microsoft.com/en-us/microsoft-365/security/defender/advanced-hunting-best-practices?view=o365-worldwide#:~:text=When%20querying%20for%20command%2Dline,%3D%3D%20%2C%20in%20%2C%20and%20contains_cs%20.)
   - [KQL for Microsoft Sentinel](https://github.com/reprise99/Sentinel-Queries#the-anatomy-of-a-kql-query)
