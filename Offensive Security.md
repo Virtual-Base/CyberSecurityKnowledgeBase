@@ -36,6 +36,7 @@
   - [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t/Pentest-Tools/)
   - [RedTeam Toolkit](https://github.com/signorrayan/RedTeam_toolkit)
   - [Public penetration testing reports](https://github.com/juliocesarfort/public-pentesting-reports)
+  - [EDRSandBlast](https://github.com/wavestone-cdt/EDRSandblast)
 
 ### Fuzzing 101
   - [Github Repository](https://github.com/antonio-morales/Fuzzing101)
@@ -53,6 +54,8 @@
   - [MiTRE TTPs Explanation](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques/tree/master/offensive-security)
 
 ## Reconnaissance
+### Domain, User, Computer and Group Enumeration
+  - [RED TEAMING - ENUMERATION PHASE](https://aidenpearce369.github.io/offsec/redteam-enumeration/#recommended-enumeration-tools)
 ### Subdomain Enumeration 
   - [Subdomain Enumeration Guide 2021](https://sidxparab.gitbook.io/subdomain-enumeration-guide/)
 ###  Automated Recon Pipeline with Python and Luigi
@@ -62,12 +65,15 @@
   - [How to Build an Automated Recon Pipeline with Python and Luigi - Part IV (Subdomain Enumeration)](https://epi052.gitlab.io/notes-to-self/blog/2019-09-17-how-to-build-an-automated-recon-pipeline-with-python-and-luigi-part-four/)
   - [How to Build an Automated Recon Pipeline with Python and Luigi - Part V (Web Scanning)](https://epi052.gitlab.io/notes-to-self/blog/2019-11-22-how-to-build-an-automated-recon-pipeline-with-python-and-luigi-part-five/)
   - [How to Build an Automated Recon Pipeline with Python and Luigi - Part VI (Wrapping Up)](https://epi052.gitlab.io/notes-to-self/blog/2020-01-19-how-to-build-an-automated-recon-pipeline-with-python-and-luigi-part-six/)
+### LDAP queries 
+  - [Useful LDAP queries for Windows Active Directory pentesting](https://podalirius.net/en/articles/useful-ldap-queries-for-windows-active-directory-pentesting/#find-all-computers-having-a-keycredentiallink)
 
 # Endpoint Detection and Response(EDR) 
   - [EDRs Against APT 2021](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/EDR_Against_APT_2021.pdf)
   - [Blinding EDR On Windows](https://synzack.github.io/Blinding-EDR-On-Windows/)
   - [Evading EDR in 15 Minutes with ScareCrow](https://adamsvoboda.net/evading-edr-with-scarecrow/)
   - [Attacks on ETW Blind EDR Sensors](https://i.blackhat.com/EU-21/Wednesday/EU-21-Teodorescu-Veni-No-Vidi-No-Vici-Attacks-On-ETW-Blind-EDRs.pdf)
+  - [PROCESS GHOSTING](https://pentestlaboratories.com/2021/12/08/process-ghosting/)
 ## EDR - Windows Kernel 
   - [Kernel Karnage – Part 1](https://blog.nviso.eu/2021/10/21/kernel-karnage-part-1/)
   - [Kernel Karnage – Part 2 (Back to Basics)](https://blog.nviso.eu/2021/10/29/kernel-karnage-part-2-back-to-basics/)
@@ -82,6 +88,7 @@
   - [A tale of EDR bypass methods](https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods/)
   - [MALWARE ANALYSIS: SYSCALLS](https://jmpesp.me/malware-analysis-syscalls-example/)
   - [Reversing Engineering Syscalls To Evade Detection](https://www.youtube.com/watch?v=Uba3SQH2jNE)
+  - [Design issues of modern EDRs bypassing ETW based solutions](https://www.binarly.io/posts/Design_issues_of_modern_EDRs_bypassing_ETW-based_solutions/index.html?s=09)
 ### Symantec
   - [Symantec EDR Internals — Criterion](https://nasbench.medium.com/symantec-edr-internals-criterion-fa49be4e21af)
   - [Symantec EDR Internals — Event Enrichment Rules [Part I]](https://nasbench.medium.com/symantec-edr-internals-event-enrichment-rules-part-i-b5e4340041a7)
@@ -128,6 +135,7 @@
   - [Malware development part 7 - Secure Desktop keylogger](https://0xpat.github.io/Malware_development_part_7/)
   - [Malware development part 8 - COFF injection and in-memory execution](https://0xpat.github.io/Malware_development_part_8/)
   - [Malware development part 9 - hosting CLR and managed code injection](https://0xpat.github.io/Malware_development_part_9/)
+  - [Create Custom FILELESS MALWARE on FULLY PATCHED WINDOWS 10!](https://www.youtube.com/watch?v=BFVzmZXIbQk&t=277s)
 
 ## Linux Malware Development
   - [Linux Rootkits Part 1: Introduction and Workflow](https://xcellerator.github.io/posts/linux_rootkits_01/)
@@ -139,6 +147,8 @@
   - [Linux Rootkits Part 7: Hiding Processes](https://xcellerator.github.io/posts/linux_rootkits_07/)
   - [Linux Rootkits Part 8: Hiding Open Ports](https://xcellerator.github.io/posts/linux_rootkits_08/)
   - [Linux Rootkits Part 9: Hiding Logged In Users (Modifying File Contents Without Touching Disk)](https://xcellerator.github.io/posts/linux_rootkits_09/)
+  - [LET'S MAKE LINUX MALWARE!!! - Part1: Build a Linux Binary TROJAN](https://www.youtube.com/watch?v=lmcooRMU4qw&t=1293s)
+  - [LET'S MAKE LINUX MALWARE PT.2 - Not-Quite-ADVANCED-But-Still PERSISTENT THREAT!!!](https://www.youtube.com/watch?v=OJSTuRkXlSg&t=1s)
 
 ## Reversing and Exploiting With Free Tools Series
   - [Reversing & Exploiting with Free Tools: Part 1](https://www.coresecurity.com/core-labs/articles/reversing-and-exploiting-free-tools-part-1)
