@@ -122,6 +122,7 @@
   - [Malicious Document Analysis](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Malware_Document_Analysis_1.pdf)
 
 # C2 
+  - [C2 Comparison Matrix](https://www.thec2matrix.com/)
   - [Building a Basic C2](https://0xrick.github.io/misc/c2/)
   - [PROTECTING NETWORKS FROM ESOTERIC C2](https://www.f-secure.com/en/consulting/our-thinking/protecting-networks-from-esoteric-c2?ffcid=70168000000cK34AAE&utm_source=linkedin&utm_medium=social&utm_campaign=GL&utm_content=a1)
   - [Hunting “Legit” Red Teams C2 Infrastructure](https://michaelkoczwara.medium.com/hunting-legit-red-teams-c2-infrastructure-7b79abbd171b)
