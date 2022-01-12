@@ -80,6 +80,9 @@
   - [Kernel Karnage – Part 3 (Challenge Accepted)](https://blog.nviso.eu/2021/11/16/kernel-karnage-part-3-challenge-accepted/)
   - [Kernel Karnage – Part 4 (Inter(ceptor)mezzo)](https://blog.nviso.eu/2021/11/19/kernel-karnage-part-4-interceptormezzo/)
   - [Kernel Karnage – Part 5 (I/O & Callbacks)](https://blog.nviso.eu/2021/11/30/kernel-karnage-part-5-i-o-callbacks/)
+  - [Kernel Karnage – Part 6 (Last Call)](https://blog.nviso.eu/2021/12/09/kernel-karnage-part-6-last-call/)
+  - [Kernel Karnage – Part 7 (Out of the Lab and Back to Reality)](https://blog.nviso.eu/2021/12/20/kernel-karnage-part-7-out-of-the-lab-and-back-to-reality/)
+  - [Kernel Karnage – Part 8 (Getting Around DSE)](https://blog.nviso.eu/2022/01/10/kernel-karnage-part-8-getting-around-dse/)
 ## EDR Bypass
   - [Master of Puppets Part I – How to Bypass the EDR?](https://www.infosec.tirol/master-of-puppets-part-i/)
   - [Master of Puppets Part II – How to tamper the EDR?](https://www.infosec.tirol/master-of-puppets-part-ii-how-to-tamper-the-edr/)
