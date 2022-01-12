@@ -53,6 +53,8 @@
   - [Full malware analysis Work-Flow of AgentTesla Malware](https://www.youtube.com/watch?v=QQuRp7Qiuzg&t=1548s)
 ### Qakbot 
   - [A closer look at Qakbot’s latest building blocks (and how to knock them down)](https://www.microsoft.com/security/blog/2021/12/09/a-closer-look-at-qakbots-latest-building-blocks-and-how-to-knock-them-down/)
+  - [Rook Ransomware](https://chuongdong.com/reverse%20engineering/2022/01/06/RookRansomware/)
+  - [NightSky Ransomware](https://github.com/Dump-GUY/Malware-analysis-and-Reverse-engineering/blob/main/NightSky_Ransomware%E2%80%93just_a_Rook_RW_fork_in_VMProtect_suit/NightSky_Ransomware%E2%80%93just_a_Rook_RW_fork_in_VMProtect_suit.md)
 
    ## **Compilation**
    - [SANS - Ransomware](https://www.sans.org/blog/recommended-sources-for-ransomware-information/)
