@@ -7,7 +7,8 @@
   - [How to Investigate Typosquats](https://www.recordedfuture.com/how-to-investigate-typosquats/?utm_content=185049094&utm_medium=social&utm_source=linkedin&hss_channel=lcp-678036)
   - [Going beyond traditional metrics: 3 key strategies to measuring your SOC performance](https://blog.nviso.eu/2021/05/26/going-beyond-traditional-metrics-3-key-strategies-to-measuring-your-soc-performance/)
   - [Defender’s Mindset - JohnLaTwC](https://medium.com/@johnlatwc/defenders-mindset-319854d10aaa)
-  - [Ransomware playbook ITSM.00.099 - Canada](https://www.cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099)
+  - [Microsoft Teams Spoofing Attacks](https://mrd0x.com/microsoft-teams-abuse/?s=09)
+  - [SOC-OpenSource - BlackPerl](https://github.com/archanchoudhury/SOC-OpenSource)
 ### Phishing 
   - [Training - Email Forensic](https://www.youtube.com/playlist?list=PLvOFsJ3VdHa_USZuhzIjDFk_EYA5pRP9Z)
   - [The Ultimate Guide to Phishing](https://sidb.in/2021/08/03/Phishing-0-to-100.html)
@@ -15,6 +16,8 @@
   - [Hunting Phish](https://emptydc.com/2021/07/16/hunting-phish/amp/?__twitter_impression=true)
   - [Catching the big fish: Analyzing a large-scale phishing-as-a-service operation](https://www.microsoft.com/security/blog/2021/09/21/catching-the-big-fish-analyzing-a-large-scale-phishing-as-a-service-operation/)
   - [How to investigate a massive phishing campaign](https://www.osintme.com/index.php/2021/12/06/how-to-investigate-a-massive-phishing-campaign/?s=09)
+  - [A phishing document signed by Microsoft – part 1](https://outflank.nl/blog/2021/12/09/a-phishing-document-signed-by-microsoft/?s=09)
+  - [A phishing document signed by Microsoft – part 2](https://outflank.nl/blog/2022/01/07/a-phishing-document-signed-by-microsoft-part-2/)
 #
 > :heavy_check_mark: Possible :x: Not Possible
 
