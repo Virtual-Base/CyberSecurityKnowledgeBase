@@ -49,6 +49,7 @@
   - [Consortium](https://www.incidentresponse.com/playbooks/)
   - [MITRE TTP Playbook](https://github.com/austinsonger/Incident-Playbook)
   - [Syntax-IR](https://gitlab.com/syntax-ir/playbooks/-/tree/main)
+  - [gsvsoc_cirt-playbook-battle-cards](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards)
 
 # SANS DFIR Summit
   - [2021](https://start.me/p/xbgNmz/sans-dfir-2021)
