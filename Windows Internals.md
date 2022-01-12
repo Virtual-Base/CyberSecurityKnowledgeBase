@@ -33,6 +33,7 @@
   - [Pavel Yosifovich - Windows 10 internals for .NET developers](https://www.youtube.com/watch?v=h6BXMcRqYhA)
   - [James McNellis “Everything You Ever Wanted to Know about DLLs](https://www.youtube.com/watch?v=JPQWQfDhICA)
   - [Everything You Ever Wanted to Know about DLLs - James McNellis - CppCon 2017](https://github.com/CppCon/CppCon2017/blob/master/Presentations/Everything%20You%20Ever%20Wanted%20to%20Know%20about%20DLLs/Everything%20You%20Ever%20Wanted%20to%20Know%20about%20DLLs%20-%20James%20McNellis%20-%20CppCon%202017.pdf)
+  - [So you Really think you Know What Powershell Is ???](https://www.youtube.com/watch?v=Ym469RzTt7o)
  
  # Tools
   - [PerfView - Isolate CPU and Memory-related Performance Issues](https://github.com/microsoft/perfview)
