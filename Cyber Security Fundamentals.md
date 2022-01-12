@@ -3,3 +3,5 @@
   - [Any Port in a Storm: Ports and Security, Part 2](https://hurricanelabs.com/blog/any-port-in-a-storm-ports-and-security-part-2/)
 # Networking 
   - [A brief overview of the TCP/IP model, SSL/TLS/HTTPS protocols and SSL certificates](https://medium.com/jspoint/a-brief-overview-of-the-tcp-ip-model-ssl-tls-https-protocols-and-ssl-certificates-d5a6269fe29e)
+  - [Port Forwarding REVERSE SHELL PAYLOADS for TARGET REMOTE ACCESS!](https://www.youtube.com/watch?v=rjiUsyQTaQE)
+  - 
