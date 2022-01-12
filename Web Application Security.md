@@ -4,5 +4,8 @@
 # API Security 
   - [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist?s=08)
 
+# Online Bug Indentification Commands
+  - [Awesome One-liner Bug Bounty](https://github.com/dwisiswant0/awesome-oneliner-bugbounty)
+
 # Trends 
   - [CVE Trends](https://cvetrends.com/)
