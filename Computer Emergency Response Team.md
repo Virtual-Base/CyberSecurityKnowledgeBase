@@ -15,6 +15,7 @@
   7. [Ransom Watch](https://www.ransomwatch.org/)
   8. [RANSOMWARE SERIES - LEARNINGS FROM THE FRONTLINES](https://www.fireeye.com/company/events/mandiant-ransomware-series.html)
   9. [Ransomware playbook and references](https://github.com/rootsecdev/Microsoft-Blue-Forest/blob/master/Ransomware/Playbook.md)
+  10. [Ransomware playbook ITSM.00.099 - Canadian Centre for Cyber Security](https://cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099?mtm_campaign=cse-cst-ransomware-2021&mtm_source=twt&mtm_medium=smo&mtm_content=ransomware-playbook-e&s=09)
     
    ## **Analysis Blogs**
    - [Chuong Dong](https://chuongdong.com/blog/)
@@ -46,7 +47,12 @@
    - [New ransomware actor uses password-protected archives to bypass encryption protection](https://news.sophos.com/en-us/2021/11/18/new-ransomware-actor-uses-password-protected-archives-to-bypass-encryption-protection/)
   ### Emotet  
    - [Unpacking Emotet and Reversing Obfuscated Word Document](https://www.youtube.com/watch?v=AkZ5TYBqcU4)
-  
+ ### Agent Tesla
+  - [Powershell and DnSpy tricks in .NET reversing – AgentTesla [Part1]](https://www.youtube.com/watch?v=hxaeWyK8gMI&t=4s)
+  - [Powershell and DnSpy tricks in .NET reversing – AgentTesla [Part2]](https://www.youtube.com/watch?v=BM38OshcozE&t=5s)
+  - [Full malware analysis Work-Flow of AgentTesla Malware](https://www.youtube.com/watch?v=QQuRp7Qiuzg&t=1548s)
+### Qakbot 
+  - [A closer look at Qakbot’s latest building blocks (and how to knock them down)](https://www.microsoft.com/security/blog/2021/12/09/a-closer-look-at-qakbots-latest-building-blocks-and-how-to-knock-them-down/)
 
    ## **Compilation**
    - [SANS - Ransomware](https://www.sans.org/blog/recommended-sources-for-ransomware-information/)
