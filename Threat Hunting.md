@@ -134,6 +134,7 @@
   - [DarkFinger-C2 - Understanding & Detecting C2 Frameworks](https://nasbench.medium.com/understanding-detecting-c2-frameworks-darkfinger-c2-539c79282a1c)
 
 # Crowdstrike Threat Hunting 
+- [Crowdstrike Threat Hunting Query Internals](https://www.crowdstrike.com/falcon/2020/wp-content/uploads/2020/10/CFP002-Uptown-Splunk-FINAL.pdf)
 ## Cool Query Friday
   - [2021-03-05 - Cool Query Friday - Hunting For Renamed Command Line Programs](https://www.reddit.com/r/crowdstrike/collection/8016c539-c284-442c-9726-6bc05053d7a9/)
   - [2021-03-12 - Cool Query Friday - Parsing and Hunting Failed User Logons in Windows](https://www.reddit.com/r/crowdstrike/comments/m3i45l/20210312_cool_query_friday_parsing_and_hunting/)
