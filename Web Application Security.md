@@ -13,5 +13,8 @@
 # Bug Bounty Platforms
   - [Bug Bounty Platforms: Open-Sourced Collection of Bug Bounty Platforms](https://platforms.disclose.io/)
 
+# SQL Injection 
+  - [Advanced SQL Injection Cheatsheet](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet)
+
 
   
