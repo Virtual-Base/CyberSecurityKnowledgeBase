@@ -12,6 +12,7 @@
   - [Kape Tutorial](https://aboutdfir.com/toolsandartifacts/windows/kape/)
   - [BlackPerl DFIR || INCIDENT RESPONSE TRAINING || Full Course](https://www.youtube.com/playlist?list=PLjWEV7pmvSa4yvhzNsCjOJovOn1LLyBXB)
   - [Linux Command Line tutorial](https://www.youtube.com/playlist?list=PLSbhiuoC0XgX70ZtgJ7d-1rLui0jZRabg)
+  - [Linux Forensics](https://linuxdfir.ashemery.com/)
  
 # Tools 
   - [DFIR Tools CheatSheet](https://dfircheatsheet.github.io/)
@@ -28,6 +29,7 @@
   - [Forensics WinHex Templates](https://github.com/kacos2000/WinHex_Templates?s=08)
   - [Forensics Eric Zimmerman Tools](https://ericzimmerman.github.io/#!index.md)
   - [AutoMacTC: Automated Mac Forensic Triage Collector](https://github.com/CrowdStrike/automactc?s=08)
+  - [Linux Security and Monitoring Scripts](https://github.com/sqall01/LSMS)
 
 # CheatSheet
   - [DFIR Regex](https://github.com/rathbuna/DFIRRegex)
@@ -87,11 +89,19 @@
   - [Part one: Memory Forensics & Malware Hunt- Memory Acquisition](https://www.linkedin.com/posts/meisameslahi_cybersecurity-threathunting-memoryforesnics-activity-6863355591147048961-Z81j)
   - [Part Two: File-less Malware Hunt via Memory Forensics – Volatility 3](https://www.linkedin.com/posts/meisameslahi_cybersecurity-threathunting-malwaredetection-activity-6863732377986981888-OKNq)
   - [Part Three: File-less Malware Hunt via Memory Forensics – PowerShell Execution](https://www.linkedin.com/posts/meisameslahi_cybersecurity-threathunting-malwaredetection-activity-6864090004700979200-lRjA)
+  - [Part Four: File-less Malware Hunt via Memory Forensics – Process Hierarchy!](https://www.linkedin.com/posts/meisameslahi_cybersecurity-threathunting-malwaredetection-activity-6865912782852882432-Zpf7/)
+  - [Part Five: File-less Malware Hunt via Memory Forensics – Files, Folders, Registry Keys!](https://www.linkedin.com/posts/meisameslahi_cybersecurity-malwaredetection-threathunting-activity-6866298986081464320-wGLv/)
+  - [Part Six: File-less Malware Hunt via Memory Forensics – Process command-line arguments ](https://www.linkedin.com/posts/meisameslahi_cybersecurity-malwaredetection-threathunting-activity-6866630872536358912-3hyn/)
+  - [The Finale: File-less Malware Hunt via Memory Forensics – Remote Access!](https://www.linkedin.com/posts/meisameslahi_cybersecurity-malwaredetection-threathunting-activity-6867005473934209024-hwHc/)
 ### Network Hunting
   - [Prerequisites](https://www.linkedin.com/posts/meisameslahi_kali-wireshark-cybersecurity-activity-6869902054962421760-qcmS/)
   - [Part 1: File-less Malware Hunt via Network Packet Analysis – Network Traffic Statistics!](https://www.linkedin.com/posts/meisameslahi_cybersecurity-threathunting-malwaredetection-activity-6870987786976145408-GwZA/)
   - [Part 2: File-less Malware Hunt via Network Packet Analysis – Endpoints!](https://www.linkedin.com/posts/meisameslahi_ipvoid-tcpdump-grep-activity-6871713225461907456-55gM/)
   - [Part 3: File-less Malware Hunt via Network Packet Analysis – Network Conversations!](https://www.linkedin.com/feed/update/urn:li:activity:6873511278846074881/)
+  - [Part 4: File-less Malware Hunt via Network Packet Analysis – HTTP Protocol Misuse!](https://www.linkedin.com/posts/meisameslahi_cybersecurity-threathunting-malwaredetection-activity-6874246020927115264-T4U8/)
+  - [Part 5: File-less Malware Hunt via Network Packet Analysis – Malicious HTTP Request!](https://www.linkedin.com/posts/meisameslahi_cybersecurity-threathunting-malwaredetection-activity-6876409291495088128-crBT/)
+  - [Part 6: File-less Malware Hunt via Network Packet Analysis – Obfuscated Content!](https://www.linkedin.com/posts/meisameslahi_cybersecurity-threathunting-malwaredetection-activity-6878607202089881600-c5RP/)
+  - [Part 7: File-less Malware Hunt via Network Packet Analysis – Extracting Malicious Files!](https://www.linkedin.com/posts/meisameslahi_cybersecurity-threathunting-malwaredetection-activity-6879703162102648833-1RjB/)
 
 # Windows Logon Analysis 
   - [Fantastic Windows Logon types and Where to Find Credentials in Them](https://www.alteredsecurity.com/post/fantastic-windows-logon-types-and-where-to-find-credentials-in-them)
@@ -129,6 +139,7 @@
   - [Create a Super Timeline with TACTICAL/IREC Triage Image](https://medium.com/@vikas891/create-a-super-timeline-with-tactical-irec-triage-image-ca5114b83b6f)
   - [DFIR-01 : $MFT](https://www.unh4ck.com/dfir/dfir-01-usdmft)
   - [DFIR-02 : Journal Forensics](https://www.unh4ck.com/dfir/dfir-02-journal-forensics)
+  - [Digging Into Process Memory - Velociraptor](https://docs.velociraptor.app/blog/2021/2021-04-16-digging-into-process-memory-33c60a640cdb/)
 
 # Packed PE Files 
   - [Detecting Packed PE Files](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Detecting_Packed_PE_Files.pdf)
