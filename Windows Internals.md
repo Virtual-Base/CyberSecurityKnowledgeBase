@@ -1,4 +1,5 @@
 # Theory 
+  - [In-depth dive into the security features of the Intel/Windows platform secure boot process](https://igor-blue.github.io/2021/02/04/secure-boot.html)
   - [Windows Internals Part 1](https://www.amazon.in/Windows-Internals-Part-architecture-management-ebook/dp/B0711FDMRR)
   - [Windows Internals Part 2](https://www.amazon.in/Windows-Internals-Mark-Russinovich/dp/0135462401)
   - [Windows System Programming Part 1](https://leanpub.com/windows10systemprogramming)
@@ -18,10 +19,12 @@
   - [Restrict installation of (USB) devices using Group Policy](https://4sysops.com/archives/restrict-installation-of-usb-devices-using-group-policy/)
   - [Kerberos visuals to describe authentication/authorization](https://twitter.com/kellthenoise/status/1457792337539600385?t=1X3FPRONV5SlJfWE6PTATg&s=08)
   - [Hotpatching on Windows](https://techcommunity.microsoft.com/t5/windows-kernel-internals-blog/hotpatching-on-windows/ba-p/2959541?s=08)
+  - [[windows] kernel internals](https://www.matteomalvica.com/minutes/windows_kernel/)
  
 # Tutorials 
   - [OS Internals Concepts - For Reverse Engineering & Malware Research Interview](https://www.youtube.com/playlist?list=PLKwUZp9HwWoCZ7wjx-wQBlvudxauhcxpn)
   - [Dancing with COM - Deep dive into understanding Component Object Model](https://www.youtube.com/watch?v=8tjrFm2K30Q)
+  - [Playing around COM objects - PART 1](https://mohamed-fakroud.gitbook.io/red-teamings-dojo/windows-internals/playing-around-com-objects-part-1#before-hooking)
   - [WINDBG Kernel&User mode debugging: Walking through System structures EPROCESS, KPROCESS, ETHREAD, KTHREAD, TEB, PEB and their using](https://github.com/Dump-GUY/Malware-analysis-and-Reverse-engineering/blob/main/WINDBG%20Kernel%26User%20Mode%20Debugging/WINDBG%20Kernel%26User%20Mode%20Debugging.md)
   - [Introduction to Windbg and debugging windows](https://www.youtube.com/playlist?list=PLhx7-txsG6t6n_E2LgDGqgvJtCHPL7UFu)
   - [Windows Internal Part 1 - Processes](https://www.youtube.com/playlist?list=PLhx7-txsG6t5i-kIZ_hwJSgZrnka4GXvn)
@@ -49,6 +52,7 @@
   - [Event Tracing For Windows - Velociraptor](https://velociraptor.velocidex.com/event-tracing-for-windows-41eb031abd69)
   - [ETW Part 2: Process Parent Spoofing](https://velociraptor.velocidex.com/etw-part-2-process-parent-spoofing-99df7e3db94d)
   - [Windows 11 “New” ETW Providers — Overview](https://nasbench.medium.com/windows-11-new-etw-providers-overview-a2a5fbc85775)
+  - [Monitoring File mods through ETW and Velociraptor](https://bmcder.com/blog/event-tracing-for-windows-monitoring-file-and-process-interactions)
 
 # System Process
   - [Windows Systen Process MindMap](https://github.com/nasbench/MindMaps/blob/main/Windows%20System%20Processes/Windows%20Services%20(Creation).xmind)
