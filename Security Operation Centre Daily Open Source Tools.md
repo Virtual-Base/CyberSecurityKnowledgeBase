@@ -9,6 +9,7 @@
   - [Defender’s Mindset - JohnLaTwC](https://medium.com/@johnlatwc/defenders-mindset-319854d10aaa)
   - [Microsoft Teams Spoofing Attacks](https://mrd0x.com/microsoft-teams-abuse/?s=09)
   - [SOC-OpenSource - BlackPerl](https://github.com/archanchoudhury/SOC-OpenSource)
+  - [Home Lab Resources](https://github.com/reswob10/HomeLabResources)
 ### Phishing 
   - [Training - Email Forensic](https://www.youtube.com/playlist?list=PLvOFsJ3VdHa_USZuhzIjDFk_EYA5pRP9Z)
   - [The Ultimate Guide to Phishing](https://sidb.in/2021/08/03/Phishing-0-to-100.html)
@@ -18,6 +19,7 @@
   - [How to investigate a massive phishing campaign](https://www.osintme.com/index.php/2021/12/06/how-to-investigate-a-massive-phishing-campaign/?s=09)
   - [A phishing document signed by Microsoft – part 1](https://outflank.nl/blog/2021/12/09/a-phishing-document-signed-by-microsoft/?s=09)
   - [A phishing document signed by Microsoft – part 2](https://outflank.nl/blog/2022/01/07/a-phishing-document-signed-by-microsoft-part-2/)
+  
 #
 > :heavy_check_mark: Possible :x: Not Possible
 
