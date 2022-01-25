@@ -9,6 +9,7 @@
   - [Subcrawl Training](https://www.youtube.com/watch?v=f0MbDdo9v1E)
   - [CTI is Better Served with Context: Getting better value from IOCs](https://klrgrz.medium.com/cti-is-better-served-with-context-getting-better-value-from-iocs-496343741f80)
   - [Considerations for Leveraging Cyber Threat Feeds Effectively](https://klrgrz.medium.com/considerations-for-leveraging-cyber-threat-feeds-effectively-1d1cfa9fb140)
+  - [Workshop: MISP Fundamentals](https://www.youtube.com/watch?v=00jq7Gbqdz8)
 
 # News 
   - [Daily Cyber Security](https://www.threatintel.de/)
@@ -47,6 +48,7 @@
   - [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
   - [Awesome Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery#data-leaks)
   - [Top 5 OSINT Sources for Threat Intelligence](https://www.spiderfoot.net/top-5-osint-sources-for-threat-intelligence/)
+  - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 
 # Blogs 
   - [Conti affiliates use ProxyShell Exchange exploit in ransomware attacks](https://twitter.com/SophosLabs/status/1433769658256089089)
