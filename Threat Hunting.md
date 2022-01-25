@@ -55,6 +55,8 @@
   - [Pointer Tool: Hunting Cobalt Strike globally](https://medium.com/@shabarkin/pointer-hunting-cobalt-strike-globally-a334ac50619a)
   - [From Zero to Domain Admin](https://thedfirreport.com/2021/11/01/from-zero-to-domain-admin/)
   - [Cobalt Strike Built-In Lateral Movement Capabilities Based On CONTI Leak Mind Map](https://github.com/AndrewRathbun/DFIRMindMaps/tree/main/OSArtifacts/Windows/Cobalt%20Strike%20Lateral%20Movement%20Artifact%20-%20Based%20on%20CONTI%20Leak)
+  - [Cobalt Strike DFIR: Listening to the Pipes](https://bmcder.com/blog/cobalt-strike-dfir-listening-to-the-pipes)
+  - [Guide to Named Pipes and Hunting for Cobalt Strike Pipes](https://svch0st.medium.com/guide-to-named-pipes-and-hunting-for-cobalt-strike-pipes-dc46b2c5f575)
   
 ## Traffic Analysis Series
   - [Cobalt Strike: Using Known Private Keys To Decrypt Traffic – Part 1](https://blog.nviso.eu/2021/10/21/cobalt-strike-using-known-private-keys-to-decrypt-traffic-part-1/)
@@ -67,6 +69,7 @@
 # Web Proxy Threat Hunting 
   - [Threat Hunting and Detection with Web Proxy Logs](https://posts.bluraven.io/threat-hunting-and-detection-with-web-proxy-logs-58094cae3537)
   - [Hunting ngrok Activity](https://c99.sh/hunting-ngrok-activity/)
+  - [Threat-Hunting-with-WebProxy-Logs-using-Jupyter-Notebook---Pandas](https://github.com/sankyhack/Threat-Hunting-with-WebProxy-Logs-using-Pandas---Jupyter-Notebook)
 
 # SQL Injection Campaign Hunting 
   - [Squashing SPIDERS: Threat Intelligence, Threat Hunting and Rapid Response Stops SQL Injection Campaign](https://www.crowdstrike.com/blog/how-crowdstrike-stopped-an-sql-injection-campaign/?utm_content=sprout&utm_medium=soc&utm_source=twitter)
@@ -201,6 +204,7 @@
   - [YARA Rule Processing Sessions](https://www.youtube.com/playlist?list=PL8OlALxRcWsSEPtN6AujulTHVc9HZMwso)
   - [Applied YARA training](https://www.brighttalk.com/webcast/18282/504513/applied-yara-training)
   - [YARA Using PE Features for Quick Wins](https://github.com/g-les/YARA-PE-Features)
+  - [CS6038/CS5138 Malware Analysis, UC](https://class.malware.re/tags/yara.html?s=09)
 ### Detection Rules
 | Repo | Comments |
 | --- | --- |
