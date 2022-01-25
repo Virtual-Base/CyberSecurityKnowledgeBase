@@ -31,6 +31,7 @@
    - [OALabs Notes - Dridex, Emotet and Other Campaings](https://github.com/OALabs/Lab-Notes)
    - [Suspected Russian Activity Targeting Government and Business Entities Around the Globe](https://www.mandiant.com/resources/russian-targeting-gov-business?s=09)
    - [NICKEL targeting government organizations across Latin America and Europe](https://www.microsoft.com/security/blog/2021/12/06/nickel-targeting-government-organizations-across-latin-america-and-europe/?s=09)
+   - [Protection against Ransomware – 2021](https://msandbu.org/protection-against-ransomware-2021/?s=09)
 
   ### Lockbit 2.0
    - [Hunting the Lockbit Gangs Exfiltration Infrastructures](https://yoroi.company/research/hunting-the-lockbit-gangs-exfiltration-infrastructures/)
@@ -53,8 +54,13 @@
   - [Full malware analysis Work-Flow of AgentTesla Malware](https://www.youtube.com/watch?v=QQuRp7Qiuzg&t=1548s)
 ### Qakbot 
   - [A closer look at Qakbot’s latest building blocks (and how to knock them down)](https://www.microsoft.com/security/blog/2021/12/09/a-closer-look-at-qakbots-latest-building-blocks-and-how-to-knock-them-down/)
+### Rook Ransomware
   - [Rook Ransomware](https://chuongdong.com/reverse%20engineering/2022/01/06/RookRansomware/)
+### NightSky Ransomware
   - [NightSky Ransomware](https://github.com/Dump-GUY/Malware-analysis-and-Reverse-engineering/blob/main/NightSky_Ransomware%E2%80%93just_a_Rook_RW_fork_in_VMProtect_suit/NightSky_Ransomware%E2%80%93just_a_Rook_RW_fork_in_VMProtect_suit.md)
+### HANCITOR
+  - [HANCITOR: Analysing The Main Loader](https://www.0ffset.net/reverse-engineering/malware-analysis/hancitor-analysing-the-main-loader/)
+  - [HANCITOR: Analysing The Malicious Document](https://www.0ffset.net/reverse-engineering/malware-analysis/hancitor-maldoc-analysis/)
 
    ## **Compilation**
    - [SANS - Ransomware](https://www.sans.org/blog/recommended-sources-for-ransomware-information/)
