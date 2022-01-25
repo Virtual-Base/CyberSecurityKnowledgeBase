@@ -21,6 +21,8 @@
   - [AD Pentesting MindMap](https://github.com/Orange-Cyberdefense/arsenal/blob/master/mindmap/pentest_ad.png)
   - [Active Directory Attacks](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md#tools)
   - [A Guide to Attacking Domain Trusts](http://www.harmj0y.net/blog/redteaming/a-guide-to-attacking-domain-trusts/)
+  - [Domain Domination With Windows Shortcuts](https://medium.com/cybersecpadawan/domain-domination-with-windows-shortcuts-6aab1d72b793)
+  - [Attacking Active Directory - Youtube Series](https://www.youtube.com/playlist?list=PLDrNMcTNhhYqZj7WZt2GfNhBDqBnhW6AT)
 
 ### Kerberos
   - [Kerberos (I): How does Kerberos work? – Theory](https://www.tarlogic.com/es/blog/como-funciona-kerberos/)
@@ -92,6 +94,7 @@
   - [MALWARE ANALYSIS: SYSCALLS](https://jmpesp.me/malware-analysis-syscalls-example/)
   - [Reversing Engineering Syscalls To Evade Detection](https://www.youtube.com/watch?v=Uba3SQH2jNE)
   - [Design issues of modern EDRs bypassing ETW based solutions](https://www.binarly.io/posts/Design_issues_of_modern_EDRs_bypassing_ETW-based_solutions/index.html?s=09)
+  - [How To Defeat EDRs In Usermode](https://www.youtube.com/watch?v=n7AT2Px1ew8&t=2s)
 ### Symantec
   - [Symantec EDR Internals — Criterion](https://nasbench.medium.com/symantec-edr-internals-criterion-fa49be4e21af)
   - [Symantec EDR Internals — Event Enrichment Rules [Part I]](https://nasbench.medium.com/symantec-edr-internals-event-enrichment-rules-part-i-b5e4340041a7)
@@ -128,6 +131,7 @@
   - [The Art of Malware Development](https://hackersarcade.medium.com/the-art-of-malware-development-d9843ad10a10)
   - [vxunderground - Study Research Paper](https://vx-underground.org/papers.html)
   - [Malware development workshop](https://github.com/chr0n1k/AH2021Workshop)
+
 ## Windows Malware Development 
   - [Malware development part 1 - basics](https://0xpat.github.io/Malware_development_part_1/)
   - [Malware development part 2 - anti dynamic analysis & sandboxes](https://0xpat.github.io/Malware_development_part_2/)
@@ -176,3 +180,12 @@
   - [OSCE Exam Practice - Part VII (GTER via EIP Overwrite w/ Socket Reuse Payload)](https://epi052.gitlab.io/notes-to-self/blog/2020-05-22-osce-exam-practice-part-seven/)
   - [OSCE Exam Practice - Part VIII (LTER via EIP Overwrite w/ Restricted Character Set)](https://epi052.gitlab.io/notes-to-self/blog/2020-05-24-osce-exam-practice-part-eight/)
   - [OSCE Exam Practice - Part IX (LTER via SEH Overwrite w/ Restricted Character Set)](https://epi052.gitlab.io/notes-to-self/blog/2020-05-25-osce-exam-practice-part-nine/)
+
+## Linux for Hackers - NetworkChuck
+  - [Linux for Hackers // EP 1 (FREE Linux course for beginners)](https://www.youtube.com/watch?v=VbEx7B_PTOE&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&index=2)
+  - [the Linux File System explained in 1,233 seconds // Linux for Hackers // EP 2](https://www.youtube.com/watch?v=A3G-3hp88mo&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&index=3&t=181s)
+  - [HELP!! (for when you suck at Linux) // Linux for Hackers // EP3](https://www.youtube.com/watch?v=Y17KTiJLcyQ&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&index=4&t=482s)
+  - [sudo = POWER!! (managing users in Linux) // Linux for Hackers // EP4](https://www.youtube.com/watch?v=jwnvKOjmtEA&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&index=5)
+  - [apt, dpkg, git, Python PiP (Linux Package Management) // Linux for Hackers // EP 5](https://www.youtube.com/watch?v=vX3krP6JmOY&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&index=6)
+  - [start, stop, restart Linux services (daemon HUNTING!!) // Linux for Hackers // EP 6](https://www.youtube.com/watch?v=wOWhfNB_r-0&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&index=7)
+  - [KILL Linux processes!! (also manage them) // Linux for Hackers // EP 7](https://www.youtube.com/watch?v=LfC6pv8VISk&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&index=8&t=1s)
