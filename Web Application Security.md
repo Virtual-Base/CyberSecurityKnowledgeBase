@@ -9,3 +9,9 @@
 
 # Trends 
   - [CVE Trends](https://cvetrends.com/)
+
+# Bug Bounty Platforms
+  - [Bug Bounty Platforms: Open-Sourced Collection of Bug Bounty Platforms](https://platforms.disclose.io/)
+
+
+  
