@@ -49,3 +49,4 @@
   - [Leveraging the Power of KQL in Incident Response](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/leveraging-the-power-of-kql-in-incident-response/ba-p/3044795)
   - [Advanced hunting query best practices](https://docs.microsoft.com/en-us/microsoft-365/security/defender/advanced-hunting-best-practices?view=o365-worldwide#:~:text=When%20querying%20for%20command%2Dline,%3D%3D%20%2C%20in%20%2C%20and%20contains_cs%20.)
   - [KQL for Microsoft Sentinel](https://github.com/reprise99/Sentinel-Queries#the-anatomy-of-a-kql-query)
+  - [Must Learn KQL - the series, the book, the merch store](https://github.com/rod-trent/MustLearnKQL)
