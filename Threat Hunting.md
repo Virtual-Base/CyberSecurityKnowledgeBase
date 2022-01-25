@@ -57,6 +57,7 @@
   - [Cobalt Strike Built-In Lateral Movement Capabilities Based On CONTI Leak Mind Map](https://github.com/AndrewRathbun/DFIRMindMaps/tree/main/OSArtifacts/Windows/Cobalt%20Strike%20Lateral%20Movement%20Artifact%20-%20Based%20on%20CONTI%20Leak)
   - [Cobalt Strike DFIR: Listening to the Pipes](https://bmcder.com/blog/cobalt-strike-dfir-listening-to-the-pipes)
   - [Guide to Named Pipes and Hunting for Cobalt Strike Pipes](https://svch0st.medium.com/guide-to-named-pipes-and-hunting-for-cobalt-strike-pipes-dc46b2c5f575)
+  - [Inspecting a PowerShell Cobalt Strike Beacon](https://forensicitguy.github.io/inspecting-powershell-cobalt-strike-beacon/)
   
 ## Traffic Analysis Series
   - [Cobalt Strike: Using Known Private Keys To Decrypt Traffic – Part 1](https://blog.nviso.eu/2021/10/21/cobalt-strike-using-known-private-keys-to-decrypt-traffic-part-1/)
@@ -269,6 +270,7 @@
   - [Introducing Sysmon Config Pusher](https://www.lares.com/blog/introducing-sysmon-config-pusher/)
   - [SHELL IS ONLY THE BEGINNING](https://www.darkoperator.com/blog/2018/10/5/operating-offensively-against-sysmon)
   - [Sysmon for Linux Test Drive](https://www.lares.com/blog/sysmon-for-linux-test-drive/?utm_content=bufferff83d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+  - [Understanding Sysmon Events using SysmonSimulator](https://rootdse.org/posts/understanding-sysmon-events/)
 ### Configuration
   - [SwiftonSecurity](https://github.com/SwiftOnSecurity/sysmon-config)
   - [Florian Roth Sysmon Config](https://github.com/Neo23x0/sysmon-config)
@@ -279,6 +281,7 @@
   - [SysmonConfigPusher](https://github.com/LaresLLC/SysmonConfigPusher)
   - [Utilities for Sysmon](https://github.com/nshalabi/SysmonTools)
   - [Sysmon Visualizaton and Tools](https://github.com/agreenjay/sysmon)
+  - [SysmonSimulator](https://github.com/ScarredMonk/SysmonSimulator)
 
 # Sigma
   - [How to Write Sigma Rules](https://www.nextron-systems.com/2018/02/10/write-sigma-rules/)
