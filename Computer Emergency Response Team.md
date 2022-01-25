@@ -61,6 +61,15 @@
 ### HANCITOR
   - [HANCITOR: Analysing The Main Loader](https://www.0ffset.net/reverse-engineering/malware-analysis/hancitor-analysing-the-main-loader/)
   - [HANCITOR: Analysing The Malicious Document](https://www.0ffset.net/reverse-engineering/malware-analysis/hancitor-maldoc-analysis/)
+  - [Unpacking Hancitor malware](https://muha2xmad.github.io/unpacking/hancitor/)
+### Dridex
+  - [Unpacking Dridex malware](https://muha2xmad.github.io/unpacking/dridex/)
+  - [DRIDEX: Analysing API Obfuscation Through VEH](https://www.0ffset.net/reverse-engineering/malware-analysis/dridex-veh-api-obfuscation/?s=09)
+### Emotet Malware Analysis Series
+  - [Emotet-Malware-0x01](https://malgamy.github.io/malware-analysis/Emotet-Malware-0x01/)
+  - [Emotet-Malware-0x02](https://malgamy.github.io/malware-analysis/Emotet-Malware-0x02/)
+  - [Unpacking Emotet malware part 01](https://muha2xmad.github.io/unpacking/emotet-part-1/)
+  - [Unpacking Emotet malware part 02](https://muha2xmad.github.io/unpacking/emotet-part-2/)
 
    ## **Compilation**
    - [SANS - Ransomware](https://www.sans.org/blog/recommended-sources-for-ransomware-information/)
