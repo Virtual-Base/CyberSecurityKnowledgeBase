@@ -52,6 +52,7 @@
   - [Powershell and DnSpy tricks in .NET reversing – AgentTesla [Part1]](https://www.youtube.com/watch?v=hxaeWyK8gMI&t=4s)
   - [Powershell and DnSpy tricks in .NET reversing – AgentTesla [Part2]](https://www.youtube.com/watch?v=BM38OshcozE&t=5s)
   - [Full malware analysis Work-Flow of AgentTesla Malware](https://www.youtube.com/watch?v=QQuRp7Qiuzg&t=1548s)
+  - [Deep Analysis Agent Tesla Malware](https://malgamy.github.io/malware-analysis/Deep-Analysis-Agent-Tesla/?s=09)
 ### Qakbot 
   - [A closer look at Qakbot’s latest building blocks (and how to knock them down)](https://www.microsoft.com/security/blog/2021/12/09/a-closer-look-at-qakbots-latest-building-blocks-and-how-to-knock-them-down/)
 ### Rook Ransomware
@@ -62,6 +63,7 @@
   - [HANCITOR: Analysing The Main Loader](https://www.0ffset.net/reverse-engineering/malware-analysis/hancitor-analysing-the-main-loader/)
   - [HANCITOR: Analysing The Malicious Document](https://www.0ffset.net/reverse-engineering/malware-analysis/hancitor-maldoc-analysis/)
   - [Unpacking Hancitor malware](https://muha2xmad.github.io/unpacking/hancitor/)
+  - [Extracting Hancitor’s Configuration with Ghidra part 1](https://medium.com/@crovax/extracting-hancitors-configuration-with-ghidra-7963900494b5)
 ### Dridex
   - [Unpacking Dridex malware](https://muha2xmad.github.io/unpacking/dridex/)
   - [DRIDEX: Analysing API Obfuscation Through VEH](https://www.0ffset.net/reverse-engineering/malware-analysis/dridex-veh-api-obfuscation/?s=09)
