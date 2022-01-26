@@ -10,11 +10,12 @@
 # Trends 
   - [CVE Trends](https://cvetrends.com/)
 
-# Bug Bounty Platforms
+# Training Platforms
   - [Bug Bounty Platforms: Open-Sourced Collection of Bug Bounty Platforms](https://platforms.disclose.io/)
+  - [Kontra Application Security Training](https://application.security/free/owasp-top-10)
 
-# SQL Injection 
+# Injection 
   - [Advanced SQL Injection Cheatsheet](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet)
-
+  - [Command Injection (Shell Injection)](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Command%20Injection%20(Shell%20Injection).pdf)
 
   
