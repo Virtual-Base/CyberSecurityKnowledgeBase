@@ -1,6 +1,7 @@
 # Franework
   - [DFIR Reference Frameworks](https://github.com/joshlemon/DFIR-Reference-Frameworks)
   - [CrowdStrike Services Offers Incident Response Tracker for the DFIR Community](https://www.crowdstrike.com/blog/crowdstrike-releases-digital-forensics-and-incident-response-tracker/?utm_content=sprout&utm_medium=soc&utm_source=twitter&s=09)
+  - [FalconFriday - MITRE ATT & CK](https://github.com/FalconForceTeam/FalconFriday)
 
 # Training 
   - [DFIR - SANS](https://www.youtube.com/watch?v=pSAW_T_WvME&t=2s)
@@ -14,6 +15,7 @@
   - [BlackPerl DFIR || INCIDENT RESPONSE TRAINING || Full Course](https://www.youtube.com/playlist?list=PLjWEV7pmvSa4yvhzNsCjOJovOn1LLyBXB)
   - [Linux Command Line tutorial](https://www.youtube.com/playlist?list=PLSbhiuoC0XgX70ZtgJ7d-1rLui0jZRabg)
   - [Linux Forensics](https://linuxdfir.ashemery.com/)
+  - [Linux Dig Deeper - Velociraptor](https://docs.velociraptor.app/presentations/2022_linuxconf_au/)
  
 # Tools 
   - [DFIR Tools CheatSheet](https://dfircheatsheet.github.io/)
@@ -36,7 +38,6 @@
   - [DFIR Regex](https://github.com/rathbuna/DFIRRegex)
   - [Eric Zimmerman CheatSheet](https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/blt1e7af8929399a930/6086df08b35a7a3c69a38b64/EricZimmermanCommandLineToolsCheatSheet-v1.0.pdf)
   - [Digital Forensics and Incident Response](https://www.jaiminton.com/cheatsheet/DFIR/#)
-  - 
 
 # MindMaps
   - [DFIR Filesystem](https://github.com/rathbuna/DFIRMindMaps/tree/main/FileSystems/NTFS/%24J)
@@ -63,6 +64,10 @@
 # Foresics Images Practice
   - [Ali Hadi Challenges](https://www.ashemery.com/dfir.html)
   - [Cado Security Forensics Image REvil Ransomware Kaseya Supply Chain Attack](https://github.com/cado-security/DFIR_Resources_REvil_Kaseya/releases/tag/v1.0)
+
+# Cobalt Strike Defender Guide - DFIR Report
+  - [Cobalt Strike, a Defender’s Guide - Part 1](https://thedfirreport.com/2021/08/29/cobalt-strike-a-defenders-guide/)
+  - [Cobalt Strike, a Defender’s Guide – Part 2](https://thedfirreport.com/2022/01/24/cobalt-strike-a-defenders-guide-part-2/)
 
 # System Live Analysis Series
   - [Part 1- A Proactive Hunt!](https://sechub.medium.com/blue-team-system-live-analysis-part-1-a-proactive-hunt-8258feb7cb14)
@@ -130,6 +135,7 @@
   - [Windows Auditing Baseline](https://github.com/mdecrevoisier/Windows-auditing-mindmap/blob/main/windows-auditing-baseline-map/windows-auditing-baseline-map.png)
   - [BREAKING TYPICAL WINDOWS HARDENING IMPLEMENTATIONS](https://www.trustedsec.com/blog/breaking-typical-windows-hardening-implementations/)
   - [Common misconceptions about Windows EventLogs](https://osdfir.blogspot.com/2021/10/common-misconceptions-about-windows.html?m=1)
+  - [Top 5 Windows Events for Incident Response](https://invictus-ir.medium.com/top-5-windows-events-for-incident-response-e34b0323780d)
 ### Forensics Analysis
 #### Forensics Intelligence 
   - [Digital Forensics Lab & Shared Cyber Forensic Intelligence Repository](https://github.com/frankwxu/digital-forensics-lab)
