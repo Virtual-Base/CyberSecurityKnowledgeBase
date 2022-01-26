@@ -39,6 +39,15 @@
   - [RedTeam Toolkit](https://github.com/signorrayan/RedTeam_toolkit)
   - [Public penetration testing reports](https://github.com/juliocesarfort/public-pentesting-reports)
   - [EDRSandBlast](https://github.com/wavestone-cdt/EDRSandblast)
+  - [CreateHiddenAccount](https://github.com/wgpsec/CreateHiddenAccount)
+  - [macro_pack](https://github.com/sevagas/macro_pack)
+
+# Case Study 
+## Telecom Industry 
+  - [How I hacked into a Telecom Network — Part 1 (Getting the RCE)](https://infosecwriteups.com/how-i-hacked-into-a-telecom-network-part-1-getting-the-rce-167c2bb320e6)
+  - [How I hacked into a Telecom Network — Part 2 (Playing with Tunnels: TCP Tunneling)](https://infosecwriteups.com/how-i-hacked-into-a-telecom-network-part-2-playing-with-tunnels-tcp-tunneling-b4cef2837938)
+  - [How I hacked into a Telecom Network — Part 3 (Playing with Tunnels: Stealthy SSH & Dynamic Tunnels)](https://infosecwriteups.com/how-i-hacked-into-a-telecom-network-part-3-playing-with-tunnels-stealthy-ssh-dynamic-tunnels-5ac26557d0eb)
+  - [How I hacked into a Telecom Network — Part 4 (Getting Access to CDRs, SS7 applications & VLRs)](https://infosecwriteups.com/how-i-hacked-into-a-telecom-network-part-4-getting-access-to-cdrs-ss7-applications-vlrs-9a8cf95e2648)
 
 ### Fuzzing 101
   - [Github Repository](https://github.com/antonio-morales/Fuzzing101)
@@ -70,12 +79,30 @@
 ### LDAP queries 
   - [Useful LDAP queries for Windows Active Directory pentesting](https://podalirius.net/en/articles/useful-ldap-queries-for-windows-active-directory-pentesting/#find-all-computers-having-a-keycredentiallink)
 
+# Falcon Friday 
+  - [FalconFriday — DLL hijacking & suspicious unsigned files 0xFF06](https://medium.com/falconforce/falconfriday-dll-hijacking-suspicious-unsigned-files-0xff06-7b2c2a9dcae6)
+  - [FalconFriday —Parent-child relationships & impersonation with RunAs— 0xFF07](https://medium.com/falconforce/falconfriday-e4554e9e6665)
+  - [FalconFriday — RPC service creation & SharpRDP — 0xFF08](https://medium.com/falconforce/falconfriday-rpc-service-creation-sharprdp-0xff08-8bf15744ca04)
+  - [FalconFriday — Malicious Scheduled Tasks — 0xFF0B](https://medium.com/falconforce/falconfriday-malicious-scheduled-tasks-0xff0b-debc64633f81)
+  - [FalconFriday — Masquerading; LOLBin file renaming— 0xFF0C](https://medium.com/falconforce/falconfriday-masquerading-lolbin-file-renaming-0xff0c-b01e0ab5a95d)
+  - [FalconFriday — AV Manipulation — 0xFF0E](https://medium.com/falconforce/falconfriday-av-manipulation-0xff0e-67ed4387f9ab)
+  - [FalconFriday — Process Injection revisited — 0xFF0F](https://medium.com/falconforce/falconfriday-process-injection-revisited-0xff0f-9ecfc8e0bae9)
+  - [FalconFriday — Password Spraying with(out) MDI— 0xFF10](https://medium.com/falconforce/falconfriday-password-spraying-with-out-mdi-0xff10-c9cc260ac04a)
+  - [FalconFriday — Certified Pre-Owned— 0xFF12](https://medium.com/falconforce/falconfriday-certified-pre-owned-0xff12-40f00a35e51a)
+  - [FalconFriday — Privilege Escalations to SYSTEM — 0xFF13](https://medium.com/falconforce/falconfriday-privilege-escalations-to-system-0xff13-cf0bbc4e7d23)
+  - [FalconFriday — Direct system calls and Cobalt Strike BOFs — 0xFF14](https://medium.com/falconforce/falconfriday-direct-system-calls-and-cobalt-strike-bofs-0xff14-741fa8e1bdd6)
+  - [FalconFriday — Code execution through Microsoft SQL Server and Oracle Database — 0xFF19](https://medium.com/falconforce/falcon-friday-detecting-code-execution-through-microsoft-sql-server-and-oracle-database-b8fbef83fa4e)
+  - [FalconFriday — Process injection and malicious CPL files — 0xFF03](https://medium.com/falconforce/falconfriday-process-injection-and-malicious-cpl-files-0xff03-8ba1ee5da64)
+  - [FalconFriday — Evasive LOLBINs and burning the CACTUSTORCH — 0xFF04](https://medium.com/falconforce/falconfriday-evasive-lolbins-and-burning-the-cactustorch-0xff04-2d769c63328d)
+  - [FalconFriday — DCOM & SCM Lateral Movement — 0xFF05](https://medium.com/falconforce/falconfriday-dcom-scm-lateral-movement-0xff05-e74b69f91a7a)
+
 # Endpoint Detection and Response(EDR) 
   - [EDRs Against APT 2021](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/EDR_Against_APT_2021.pdf)
   - [Blinding EDR On Windows](https://synzack.github.io/Blinding-EDR-On-Windows/)
   - [Evading EDR in 15 Minutes with ScareCrow](https://adamsvoboda.net/evading-edr-with-scarecrow/)
   - [Attacks on ETW Blind EDR Sensors](https://i.blackhat.com/EU-21/Wednesday/EU-21-Teodorescu-Veni-No-Vidi-No-Vici-Attacks-On-ETW-Blind-EDRs.pdf)
   - [PROCESS GHOSTING](https://pentestlaboratories.com/2021/12/08/process-ghosting/)
+  - [EDR Chioce Guide 2021](https://github.com/RomaissaAdjailia/MindMaps/tree/main/EDR%20Choice%20Guide%20-2021)
 ## EDR - Windows Kernel 
   - [Kernel Karnage – Part 1](https://blog.nviso.eu/2021/10/21/kernel-karnage-part-1/)
   - [Kernel Karnage – Part 2 (Back to Basics)](https://blog.nviso.eu/2021/10/29/kernel-karnage-part-2-back-to-basics/)
@@ -126,6 +153,10 @@
   - [AV Evasion 101 - VBS/VBA - Office Macros](https://www.youtube.com/watch?v=KeSRGjnTdSc)
   - [Attack Surface Reduction (ASR) Bypass using VBA](https://blog.nviso.eu/2020/04/21/video-attack-surface-reduction-asr-bypass-using-vba/)
   - [VBA Stomping — Advanced Maldoc Techniques](https://medium.com/walmartglobaltech/vba-stomping-advanced-maldoc-techniques-612c484ab278)
+
+# Hardware Hacking 
+  - [EXTENDING GHIDRA PART 1: SETTING UP A DEVELOPMENT ENVIRONMENT](https://voidstarsec.com/blog//2021/12/24/ghidra-dev-environment)
+  - [INTRO TO EMBEDDED RE PART 1: TOOLS AND SERIES OVERVIEW](https://voidstarsec.com/blog//2022/01/17/intro-to-embedded-part-1)
 
 # Malware Development
   - [The Art of Malware Development](https://hackersarcade.medium.com/the-art-of-malware-development-d9843ad10a10)
@@ -189,3 +220,4 @@
   - [apt, dpkg, git, Python PiP (Linux Package Management) // Linux for Hackers // EP 5](https://www.youtube.com/watch?v=vX3krP6JmOY&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&index=6)
   - [start, stop, restart Linux services (daemon HUNTING!!) // Linux for Hackers // EP 6](https://www.youtube.com/watch?v=wOWhfNB_r-0&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&index=7)
   - [KILL Linux processes!! (also manage them) // Linux for Hackers // EP 7](https://www.youtube.com/watch?v=LfC6pv8VISk&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&index=8&t=1s)
+
