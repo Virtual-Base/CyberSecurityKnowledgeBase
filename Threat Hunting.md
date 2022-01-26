@@ -58,7 +58,7 @@
   - [Cobalt Strike DFIR: Listening to the Pipes](https://bmcder.com/blog/cobalt-strike-dfir-listening-to-the-pipes)
   - [Guide to Named Pipes and Hunting for Cobalt Strike Pipes](https://svch0st.medium.com/guide-to-named-pipes-and-hunting-for-cobalt-strike-pipes-dc46b2c5f575)
   - [Inspecting a PowerShell Cobalt Strike Beacon](https://forensicitguy.github.io/inspecting-powershell-cobalt-strike-beacon/)
-  
+
 ## Traffic Analysis Series
   - [Cobalt Strike: Using Known Private Keys To Decrypt Traffic – Part 1](https://blog.nviso.eu/2021/10/21/cobalt-strike-using-known-private-keys-to-decrypt-traffic-part-1/)
   - [Cobalt Strike: Using Known Private Keys To Decrypt Traffic – Part 2](https://blog.nviso.eu/2021/10/27/cobalt-strike-using-known-private-keys-to-decrypt-traffic-part-2/)
@@ -66,7 +66,22 @@
   - [Cobalt Strike: Decrypting Obfuscated Traffic – Part 4](https://blog.nviso.eu/2021/11/17/cobalt-strike-decrypting-obfuscated-traffic-part-4/)
   - [Cobalt Strike: Decrypting DNS Traffic – Part 5](https://blog.nviso.eu/2021/11/29/cobalt-strike-decrypting-dns-traffic-part-5/)
   - [Decrypting Cobalt Strike Traffic With Keys Extracted From Process Memory](https://www.youtube.com/watch?v=rpsnPwdxTnA)
-  
+
+# Falcon Friday
+  - [FalconFriday — Teams RCE & FireEye tools— 0xFF09](https://medium.com/falconforce/falconfriday-teams-rce-fireeye-tools-0xff09-22f7b6363831)
+  - [FalconFriday — Catching more macros— 0xFF0A](https://medium.com/falconforce/falconfriday-catching-more-macros-0xff0a-ec8273ab115a)
+  - [FalconFriday — Recognizing Beaconing Traffic— 0xFF0D](https://medium.com/falconforce/falconfriday-recognizing-beaconing-traffic-0xff0d-f0fab038c22f)
+  - [FalconFriday — AzureAD Edition— 0xFF11](https://medium.com/falconforce/falconfriday-azuread-edition-0xff11-758a40ff3bf)
+  - [FalconFriday — Detecting important data destruction by ransomware — 0xFF15](https://medium.com/falconforce/falconfriday-detecting-important-data-destruction-by-ransomware-0xff15-75f76ed4a4cd)
+  - [FalconFriday — Detecting UAC Bypasses — 0xFF16](https://medium.com/falconforce/falconfriday-detecting-uac-bypasses-0xff16-86c2a9107abf)
+  - [FalconFriday — Detecting ASR Bypasses — 0xFF17](https://medium.com/falconforce/falconfriday-detecting-asr-bypasses-0xff17-c84b1417019b)
+  - [FalconFriday — Stealing and detecting Azure PRT cookies — 0xFF18](https://medium.com/falconforce/falconfriday-stealing-and-detecting-azure-prt-cookies-0xff18-96efce74ce63)
+  - [FalconFriday —Monitoring for public shares — 0xFF1A](https://medium.com/falconforce/falconfriday-monitoring-for-public-shares-0xff1a-ece14fe137e1)
+  - [FalconFriday — Suspicious named pipe events — 0xFF1B](https://medium.com/falconforce/falconfriday-suspicious-named-pipe-events-0xff1b-fe475d7ebd8)
+  - [FalconFriday — Detecting Malicious Browser Extensions and code signing- 0xFF01](https://medium.com/falconforce/falcon-friday-detecting-malicious-browser-extensions-and-code-signing-0xff01-db622e6a6519)
+  - [FalconFriday — Detecting suspicious code compilation and Certutil — 0xFF02](https://medium.com/falconforce/falconfriday-detecting-certutil-and-suspicious-code-compilation-0xff02-cfe8fb5e159e)
+  - 
+
 # Web Proxy Threat Hunting 
   - [Threat Hunting and Detection with Web Proxy Logs](https://posts.bluraven.io/threat-hunting-and-detection-with-web-proxy-logs-58094cae3537)
   - [Hunting ngrok Activity](https://c99.sh/hunting-ngrok-activity/)
@@ -174,6 +189,9 @@
   - [2021-12-10 - Cool Query Friday - Hunting Apache Log4j CVE-2021-44228 (Log4Shell)](https://www.reddit.com/r/crowdstrike/comments/rda0ls/20211210_cool_query_friday_hunting_apache_log4j/)
   - [2021-12-22 - Cool Query Friday(ish) - Continuing to Obsess Over Log4Shell](https://www.reddit.com/r/crowdstrike/comments/rmgjli/20211222_cool_query_fridayish_continuing_to/)
   - [2022-01-07 - Cool Query Friday - Adding Process Explorer and RTR Links to Scheduled Queries](https://www.reddit.com/r/crowdstrike/comments/ry6ma0/20220107_cool_query_friday_adding_process/)
+  - [Domain Users with Local Admin Privs](https://www.reddit.com/r/crowdstrike/comments/s3tvse/domain_users_with_local_admin_privs/hso1k4p/?utm_medium=android_app&utm_source=share&context=3)
+  - [MS Office Macro Hunting Queries](https://www.reddit.com/r/crowdstrike/comments/sbuh7r/ms_office_macro_hunting_queries/?utm_medium=android_app&utm_source=share)
+  - [interactive service account logins report](https://www.reddit.com/r/crowdstrike/comments/schzjx/interactive_service_account_logins_report/?utm_medium=android_app&utm_source=share)
  ### Crowdstrike Splunk Threat Hunting Searches
   - [Huting Queries Google Excel Sheet](https://docs.google.com/spreadsheets/d/1RTcZsRbDsjxwmKpe3FIvSKUjBk5pR2Dlzj71QTnxAK0/edit#gid=0)
   - [Huting Queries Google Excel Github Repo](https://github.com/freeload101/SCRIPTS/tree/master/CrowdStrike%20Threat%20Hunting)
