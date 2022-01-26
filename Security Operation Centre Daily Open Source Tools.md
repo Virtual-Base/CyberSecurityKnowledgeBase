@@ -10,6 +10,10 @@
   - [Microsoft Teams Spoofing Attacks](https://mrd0x.com/microsoft-teams-abuse/?s=09)
   - [SOC-OpenSource - BlackPerl](https://github.com/archanchoudhury/SOC-OpenSource)
   - [Home Lab Resources](https://github.com/reswob10/HomeLabResources)
+  - [Initial Steps For Investigating Compromised Website](https://intarna.com/2022/01/15/initial-steps-for-investigating-compromised-website/)
+  - [SOC Reload 2021](https://events.picussecurity.com/soc-reload-21-on-demand-videos?utm_campaign=SOC%20Reload%202021&utm_content=193136922&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3280240)
+  - [SOC Analyst Study Guide](https://biggingerhoneypot.notion.site/68fb84422c8b47118569f7585054a7d7?v=493a04e2c4024a899ba23dea337d7009)
+  - [9 Free Tools to Automate Your Incident Response Process](https://www.altexsoft.com/blog/incident-response-tools/)
 ### Phishing 
   - [Training - Email Forensic](https://www.youtube.com/playlist?list=PLvOFsJ3VdHa_USZuhzIjDFk_EYA5pRP9Z)
   - [The Ultimate Guide to Phishing](https://sidb.in/2021/08/03/Phishing-0-to-100.html)
