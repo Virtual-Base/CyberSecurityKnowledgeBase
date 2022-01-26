@@ -8,10 +8,12 @@
 # Microsoft Defender - Advanced Threat Protection 
   - [Attack Surface Reduction Rules](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/attack-surface-reduction-rules?view=o365-worldwide)
   - [Attack Surface Reduction Rules Recommendations](https://blog.palantir.com/microsoft-defender-attack-surface-reduction-recommendations-a5c7d41c3cf8)
+  - [Bypass Windows Defender Attack Surface Reduction](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Bypass%20Windows%20Defender%20Attack%20Surface%20Reduction.pdf)
   - [Microsoft Defender Antivirus Event Logs and Error Codes](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide)
   - [Configure Microsoft Defender for Endpoint](https://www.christiaanbrinkhoff.com/2021/03/12/learn-how-to-configure-microsoft-defender-for-endpoint-for-your-windows-virtual-and-physical-desktops-via-microsoft-endpoint-manager/)
   - [Adarsh Pandey - KQL Query](https://github.com/AdarshPandey-dev/Kusto-Query-Language-KQL-)
   - [TweetFeed.live - Hunting IOCs via Microsoft Defender](https://github.com/0xDanielLopez/TweetFeed#hunting-IOCs-via-Microsoft-Defender)
+  - [Sysmon vs Microsoft Defender for Endpoint, MDE Internals 0x01](https://medium.com/falconforce/sysmon-vs-microsoft-defender-for-endpoint-mde-internals-0x01-1e5663b10347)
 
 ### Red Canary 2021 MDATP Crash Course 
  - [2021Threat Detection Report](https://redcanary.com/threat-detection-report/)
