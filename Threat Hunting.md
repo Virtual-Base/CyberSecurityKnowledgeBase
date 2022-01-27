@@ -192,6 +192,7 @@
   - [Domain Users with Local Admin Privs](https://www.reddit.com/r/crowdstrike/comments/s3tvse/domain_users_with_local_admin_privs/hso1k4p/?utm_medium=android_app&utm_source=share&context=3)
   - [MS Office Macro Hunting Queries](https://www.reddit.com/r/crowdstrike/comments/sbuh7r/ms_office_macro_hunting_queries/?utm_medium=android_app&utm_source=share)
   - [interactive service account logins report](https://www.reddit.com/r/crowdstrike/comments/schzjx/interactive_service_account_logins_report/?utm_medium=android_app&utm_source=share)
+  - [2022-01-26 - Cool Query Friday - Hunting pwnkit Local Privilege Escalation in Linux (CVE-2021-4034)](https://www.reddit.com/r/crowdstrike/comments/sdfeig/20220126_cool_query_friday_hunting_pwnkit_local/?utm_medium=android_app&utm_source=share)
  ### Crowdstrike Splunk Threat Hunting Searches
   - [Huting Queries Google Excel Sheet](https://docs.google.com/spreadsheets/d/1RTcZsRbDsjxwmKpe3FIvSKUjBk5pR2Dlzj71QTnxAK0/edit#gid=0)
   - [Huting Queries Google Excel Github Repo](https://github.com/freeload101/SCRIPTS/tree/master/CrowdStrike%20Threat%20Hunting)
