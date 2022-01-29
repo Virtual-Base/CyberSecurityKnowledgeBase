@@ -1,5 +1,6 @@
 # Compilation 
   - [DIVA DFIR Programming](https://freetraining.dfirdiva.com/free-programming-scripting-training)
+  - [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
 
 # C Plus Plus 
   - [The Cherno - Playlist](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
