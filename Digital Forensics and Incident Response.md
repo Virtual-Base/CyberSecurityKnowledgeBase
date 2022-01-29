@@ -16,6 +16,7 @@
   - [Linux Command Line tutorial](https://www.youtube.com/playlist?list=PLSbhiuoC0XgX70ZtgJ7d-1rLui0jZRabg)
   - [Linux Forensics](https://linuxdfir.ashemery.com/)
   - [Linux Dig Deeper - Velociraptor](https://docs.velociraptor.app/presentations/2022_linuxconf_au/)
+  - [BlackPerl DFIR || INCIDENT RESPONSE TRAINING || Full Course - BlackPerl](https://www.youtube.com/playlist?list=PLjWEV7pmvSa4yvhzNsCjOJovOn1LLyBXB)
  
 # Tools 
   - [DFIR Tools CheatSheet](https://dfircheatsheet.github.io/)
