@@ -41,6 +41,7 @@
   - [EDRSandBlast](https://github.com/wavestone-cdt/EDRSandblast)
   - [CreateHiddenAccount](https://github.com/wgpsec/CreateHiddenAccount)
   - [macro_pack](https://github.com/sevagas/macro_pack)
+  - [Stratus Red team](https://github.com/DataDog/stratus-red-team)
 
 # Case Study 
 ## Telecom Industry 
