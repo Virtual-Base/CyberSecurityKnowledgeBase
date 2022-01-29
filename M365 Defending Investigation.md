@@ -34,6 +34,7 @@
   - [Overview of Microsoft Identity Security Monitoring](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense/blob/main/IdentitySecurityMonitoring.md)
   - [Password Spray Attacks](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense/blob/main/PasswordSpray.md)
   - [Consent Grant Attack -Perfect tool to create backdoors, and MFA bypasses in the victim’s environment](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense/blob/main/ConsentGrant.md)
+  - [AWESOME-Azure-Architecture](https://github.com/lukemurraynz/awesome-azure-architecture#Community-Tools)
 
 # Office 365 
   - [Office365 Attacks: Bypassing MFA, Achieving Persistence and More - Part I](https://www.inversecos.com/2021/09/office365-attacks-bypassing-mfa.html?m=1)
@@ -50,5 +51,6 @@
   - [Get expert training on advanced hunting](https://docs.microsoft.com/en-us/microsoft-365/security/defender/advanced-hunting-expert-training?view=o365-worldwide)
   - [Leveraging the Power of KQL in Incident Response](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/leveraging-the-power-of-kql-in-incident-response/ba-p/3044795)
   - [Advanced hunting query best practices](https://docs.microsoft.com/en-us/microsoft-365/security/defender/advanced-hunting-best-practices?view=o365-worldwide#:~:text=When%20querying%20for%20command%2Dline,%3D%3D%20%2C%20in%20%2C%20and%20contains_cs%20.)
+  - [Hunting Unmanaged devices](https://gist.github.com/Shivammalaviya/5fb6db0008a772ab355ef7d4a8016f26)
   - [KQL for Microsoft Sentinel](https://github.com/reprise99/Sentinel-Queries#the-anatomy-of-a-kql-query)
   - [Must Learn KQL - the series, the book, the merch store](https://github.com/rod-trent/MustLearnKQL)
