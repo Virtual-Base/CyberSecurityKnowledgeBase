@@ -33,6 +33,7 @@
   - [Forensics Eric Zimmerman Tools](https://ericzimmerman.github.io/#!index.md)
   - [AutoMacTC: Automated Mac Forensic Triage Collector](https://github.com/CrowdStrike/automactc?s=08)
   - [Linux Security and Monitoring Scripts](https://github.com/sqall01/LSMS)
+  - [Rip Raw - Analyse the memory of compromised Linux systems](https://github.com/cado-security/rip_raw)
 
 # CheatSheet
   - [DFIR Regex](https://github.com/rathbuna/DFIRRegex)
