@@ -20,6 +20,7 @@
   - [Kerberos visuals to describe authentication/authorization](https://twitter.com/kellthenoise/status/1457792337539600385?t=1X3FPRONV5SlJfWE6PTATg&s=08)
   - [Hotpatching on Windows](https://techcommunity.microsoft.com/t5/windows-kernel-internals-blog/hotpatching-on-windows/ba-p/2959541?s=08)
   - [[windows] kernel internals](https://www.matteomalvica.com/minutes/windows_kernel/)
+  - [A first look into how WinDbg works](https://www.youtube.com/watch?v=QStC084UrgY)
  
 # Tutorials 
   - [OS Internals Concepts - For Reverse Engineering & Malware Research Interview](https://www.youtube.com/playlist?list=PLKwUZp9HwWoCZ7wjx-wQBlvudxauhcxpn)
