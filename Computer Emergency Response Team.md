@@ -16,6 +16,7 @@
   8. [RANSOMWARE SERIES - LEARNINGS FROM THE FRONTLINES](https://www.fireeye.com/company/events/mandiant-ransomware-series.html)
   9. [Ransomware playbook and references](https://github.com/rootsecdev/Microsoft-Blue-Forest/blob/master/Ransomware/Playbook.md)
   10. [Ransomware playbook ITSM.00.099 - Canadian Centre for Cyber Security](https://cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099?mtm_campaign=cse-cst-ransomware-2021&mtm_source=twt&mtm_medium=smo&mtm_content=ransomware-playbook-e&s=09)
+  11. [History-of-REvil](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/History-of-REvil.pdf)
     
    ## **Analysis Blogs**
    - [Chuong Dong](https://chuongdong.com/blog/)
