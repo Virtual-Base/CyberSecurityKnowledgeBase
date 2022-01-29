@@ -4,6 +4,7 @@
   - [Kestrel Threat Hunting Language](https://github.com/opencybersecurityalliance/kestrel-lang#installation)
   - [The Game of Cyber Threat Hunting: The Return of the Fun - Kestrel](https://www.youtube.com/watch?v=-Xb086R0JTk)
   - [Detection Engineering](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Detection_Engineering.pdf)
+  - [Threat hunting tips and additional notes!](https://www.linkedin.com/posts/meisameslahi_cybersecurity-threathunting-proactivesecurity-activity-6892746272315453440-pliH/)
 
 # SANS Summit Compilation
   - [2021](https://start.me/p/DP6oRw/sans-threat-hunting-2021)
@@ -66,6 +67,7 @@
   - [Cobalt Strike: Decrypting Obfuscated Traffic – Part 4](https://blog.nviso.eu/2021/11/17/cobalt-strike-decrypting-obfuscated-traffic-part-4/)
   - [Cobalt Strike: Decrypting DNS Traffic – Part 5](https://blog.nviso.eu/2021/11/29/cobalt-strike-decrypting-dns-traffic-part-5/)
   - [Decrypting Cobalt Strike Traffic With Keys Extracted From Process Memory](https://www.youtube.com/watch?v=rpsnPwdxTnA)
+  - [RITA (Real Intelligence Threat Analytics) in Jupyter Notebook](https://github.com/Cyb3r-Monk/RITA-J)
 
 # Falcon Friday
   - [FalconFriday — Teams RCE & FireEye tools— 0xFF09](https://medium.com/falconforce/falconfriday-teams-rce-fireeye-tools-0xff09-22f7b6363831)
@@ -230,6 +232,7 @@
 | --- | --- |
 | [Yara Rules](https://github.com/advanced-threat-research/Yara-Rules) | APT, Malware, Miner, Stealer, Ransomware, Mobile, RAT |
 | [Florian Roth](https://github.com/Neo23x0/signature-base/tree/master/yara) | ALL |
+| [JPCERT/CC YARA rules](https://github.com/JPCERTCC/jpcert-yara) | ALL |
 
 # Splunk 
 ### Theory 
