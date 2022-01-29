@@ -49,6 +49,7 @@
   - [Awesome Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery#data-leaks)
   - [Top 5 OSINT Sources for Threat Intelligence](https://www.spiderfoot.net/top-5-osint-sources-for-threat-intelligence/)
   - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+  - [SANS Cyber Threat Intelligence 2022](https://start.me/p/6rnyLp/sans-cyber-threat-intelligence-summit-2022)
 
 # Blogs 
   - [Conti affiliates use ProxyShell Exchange exploit in ransomware attacks](https://twitter.com/SophosLabs/status/1433769658256089089)
