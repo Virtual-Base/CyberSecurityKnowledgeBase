@@ -47,8 +47,8 @@
    - [BlackByte Ransomware – Pt 2. Code Obfuscation Analysis](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/blackbyte-ransomware-pt-2-code-obfuscation-analysis/)
   ### Memento Ransomware 
    - [New ransomware actor uses password-protected archives to bypass encryption protection](https://news.sophos.com/en-us/2021/11/18/new-ransomware-actor-uses-password-protected-archives-to-bypass-encryption-protection/)
-  ### Emotet  
-   - [Unpacking Emotet and Reversing Obfuscated Word Document](https://www.youtube.com/watch?v=AkZ5TYBqcU4)
+  ### ASyncRAT 
+   - [Baby’s First Malware Config Parser: Tutorial w/ dnSpy+CyberChef+Python - 6+hours](https://www.youtube.com/watch?v=xV0x7kNZ_Yc&t=8101s)
  ### Agent Tesla
   - [Powershell and DnSpy tricks in .NET reversing – AgentTesla [Part1]](https://www.youtube.com/watch?v=hxaeWyK8gMI&t=4s)
   - [Powershell and DnSpy tricks in .NET reversing – AgentTesla [Part2]](https://www.youtube.com/watch?v=BM38OshcozE&t=5s)
@@ -56,6 +56,8 @@
   - [Deep Analysis Agent Tesla Malware](https://malgamy.github.io/malware-analysis/Deep-Analysis-Agent-Tesla/?s=09)
 ### Qakbot 
   - [A closer look at Qakbot’s latest building blocks (and how to knock them down)](https://www.microsoft.com/security/blog/2021/12/09/a-closer-look-at-qakbots-latest-building-blocks-and-how-to-knock-them-down/)
+  - [Qbot Likes to Move It, Move It](https://thedfirreport.com/2022/02/07/qbot-likes-to-move-it-move-it/)
+  - [THREAT ANALYSIS REPORT: All Paths Lead to Cobalt Strike - IcedID, Emotet and QBot](https://www-cybereason-com.cdn.ampproject.org/c/s/www.cybereason.com/blog/threat-analysis-report-all-paths-lead-to-cobalt-strike-icedid-emotet-and-qbot?hs_amp=true)
 ### Rook Ransomware
   - [Rook Ransomware](https://chuongdong.com/reverse%20engineering/2022/01/06/RookRansomware/)
 ### NightSky Ransomware
@@ -65,14 +67,19 @@
   - [HANCITOR: Analysing The Malicious Document](https://www.0ffset.net/reverse-engineering/malware-analysis/hancitor-maldoc-analysis/)
   - [Unpacking Hancitor malware](https://muha2xmad.github.io/unpacking/hancitor/)
   - [Extracting Hancitor’s Configuration with Ghidra part 1](https://medium.com/@crovax/extracting-hancitors-configuration-with-ghidra-7963900494b5)
+  - [Full Hancitor malware analysis](https://muha2xmad.github.io/malware-analysis/fullHancitor/?s=09)
 ### Dridex
   - [Unpacking Dridex malware](https://muha2xmad.github.io/unpacking/dridex/)
   - [DRIDEX: Analysing API Obfuscation Through VEH](https://www.0ffset.net/reverse-engineering/malware-analysis/dridex-veh-api-obfuscation/?s=09)
 ### Emotet Malware Analysis Series
+  - [Unpacking Emotet and Reversing Obfuscated Word Document](https://www.youtube.com/watch?v=AkZ5TYBqcU4)
   - [Emotet-Malware-0x01](https://malgamy.github.io/malware-analysis/Emotet-Malware-0x01/)
   - [Emotet-Malware-0x02](https://malgamy.github.io/malware-analysis/Emotet-Malware-0x02/)
   - [Unpacking Emotet malware part 01](https://muha2xmad.github.io/unpacking/emotet-part-1/)
   - [Unpacking Emotet malware part 02](https://muha2xmad.github.io/unpacking/emotet-part-2/)
+### Delphi MBR Wiper
+  - [IDAPro Reversing Delphi MBR Wiper and Infected Bootstrap Code](https://www.youtube.com/watch?v=qmhGwvAH7-8)
+  - [Analyzing WhisperGate - destructive malware targeting Ukraine - part 1](https://www.youtube.com/watch?v=Ek3URIaC5O8&t=4s)
 
    ## **Compilation**
    - [SANS - Ransomware](https://www.sans.org/blog/recommended-sources-for-ransomware-information/)
@@ -83,3 +90,5 @@
    - [Stealbit-Configuration-Decryptor](https://github.com/CERT-Yoroi-Malware-ZLab/Stealbit-Configuration-Decryptor)
    - [BlackByteDecryptor](https://github.com/SpiderLabs/BlackByteDecryptor)
    - [Decryptor for AtomSilo and LockFile ransomware](https://decoded.avast.io/threatintel/decryptor-for-atomsilo-and-lockfile-ransomware/)
+
+
