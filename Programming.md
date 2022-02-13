@@ -32,3 +32,13 @@
 
 # Scripting Course
   - [Books, reference guides and resources on Regular Expressions, CLI one-liners, Scripting Languages and Vim](https://github.com/learnbyexample/scripting_course?s=08)
+
+# Powershell 
+  - [PowerShell Master Class - PowerShell Fundamentals](https://www.youtube.com/watch?v=sQm4zRvvX58&list=PLlVtbbG169nFq_hR7FcMYg32xsSAObuq8)
+  - [PowerShell Master Class - Connecting Commands Together](https://www.youtube.com/watch?v=K_LsLq5yGgk&list=PLlVtbbG169nFq_hR7FcMYg32xsSAObuq8&index=2)
+  - [PowerShell Master Class - PowerShell Remoting](https://www.youtube.com/watch?v=PMRkM9jlMMw&list=PLlVtbbG169nFq_hR7FcMYg32xsSAObuq8&index=3)
+  - [PowerShell Master Class - PowerShell Scripting](https://www.youtube.com/watch?v=ApbdhcZBcyU&list=PLlVtbbG169nFq_hR7FcMYg32xsSAObuq8&index=5)
+  - [PowerShell Master Class - Advanced Scripting Techniques](https://www.youtube.com/watch?v=BVU7MxlyMmA&list=PLlVtbbG169nFq_hR7FcMYg32xsSAObuq8&index=7)
+  - [PowerShell Master Class - Data and Objects](https://www.youtube.com/watch?v=Bmsa6F69afA&list=PLlVtbbG169nFq_hR7FcMYg32xsSAObuq8&index=9)
+  - [PowerShell Master Class - Desired State Configuration](https://www.youtube.com/watch?v=D-jmIk4xaWw&list=PLlVtbbG169nFq_hR7FcMYg32xsSAObuq8&index=10)
+  - [PowerShell Master Class - Automation](https://www.youtube.com/watch?v=n2dlNA3Z-mc&list=PLlVtbbG169nFq_hR7FcMYg32xsSAObuq8&index=11)
