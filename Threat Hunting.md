@@ -28,6 +28,7 @@
   - [Part 1](https://info.cyborgsecurity.com/en-us/do-you-even-threat-hunt-bro?utm_campaign=Webinar%20|%20Do%20You%20Even%20Threat%20Hunt,%20Bro%3F%20III&utm_content=181777242&utm_medium=social&utm_source=linkedin&hss_channel=lcp-37377305)
   - [Part 2 - HiveNightmare](https://info.cyborgsecurity.com/en-us/do-you-even-threat-hunt-bro-ii?utm_campaign=Webinar%20|%20Do%20You%20Even%20Threat%20Hunt,%20Bro%3F%20III&utm_content=181777242&utm_medium=social&utm_source=linkedin&hss_channel=lcp-37377305)
   - [Part 3 - WMIC Abuse](https://info.cyborgsecurity.com/en-us/do-you-even-threat-hunt-bro-iii?utm_campaign=Webinar%20|%20Do%20You%20Even%20Threat%20Hunt,%20Bro%3F%20III&utm_content=181777242&utm_medium=social&utm_source=linkedin&hss_channel=lcp-37377305)
+  - [The Threat Hunting Workshop](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop)
 
 # Active Directory Threat Hunting 
   - [Threat Hunting in Active Directory Environment](https://www.youtube.com/watch?v=lBIaLmvVpBE)
@@ -59,6 +60,7 @@
   - [Cobalt Strike DFIR: Listening to the Pipes](https://bmcder.com/blog/cobalt-strike-dfir-listening-to-the-pipes)
   - [Guide to Named Pipes and Hunting for Cobalt Strike Pipes](https://svch0st.medium.com/guide-to-named-pipes-and-hunting-for-cobalt-strike-pipes-dc46b2c5f575)
   - [Inspecting a PowerShell Cobalt Strike Beacon](https://forensicitguy.github.io/inspecting-powershell-cobalt-strike-beacon/)
+  - [Threat Hunting Cobalt Strike - Using Velociraptor and Splunk - Hunting Credential Dumping, Malicious Powershell, Malicious Named Pipes and Lateral Movement](https://rahmatnurfauzi.medium.com/threat-hunting-cobalt-strike-58e641363581)
 
 ## Traffic Analysis Series
   - [Cobalt Strike: Using Known Private Keys To Decrypt Traffic – Part 1](https://blog.nviso.eu/2021/10/21/cobalt-strike-using-known-private-keys-to-decrypt-traffic-part-1/)
@@ -103,6 +105,11 @@
 # Maliious Domain Threat Hunting 
   - [Detecting TA551 domains](https://threatresearch.ext.hp.com/detecting-ta551-domains/)
 
+# LOLBins
+  - [Why Hunting For LOLBINs Is One Of The Best Bets](https://nasbench.medium.com/why-hunting-for-lolbins-is-one-of-the-best-bets-e5e58e1619c2)
+  - [Breaking Down LOLBAS Attacks With The Help Of Hunter-gatherers](https://www.scythe.io/library/breaking-down-lolbas-attacks-with-the-help-of-hunter-gatherers)
+  - [LOLBins Are No Laughing Matter: How Attackers Operate Quietly](https://www.uptycs.com/blog/lolbins-are-no-laughing-matter)
+
 # NOBELIUM 
   - [Breaking down NOBELIUM’s latest early-stage toolset](https://www.microsoft.com/security/blog/2021/05/28/breaking-down-nobeliums-latest-early-stage-toolset/)
   - [Detecting Initial Access: HTML Smuggling and ISO Images — Part 1](https://posts.bluraven.io/detecting-initial-access-html-smuggling-and-iso-images-part-1-c4f953edd13f)
@@ -126,8 +133,16 @@
   - [Analysis of RDP Attack Surface and Its Security](https://medium.com/@knownsec404team/analysis-of-rdp-attack-surface-and-its-security-bd49b4f6b255)
 
 # Linux 
+## Tool
+  - [Fennec - artifact collection tool written in Rust to be used during incident response on _*nix based systems](https://github.com/AbdulRhmanAlfaifi/FennecM)
+## Monitoring 
+  - [Leveling up your Linux Security Monitoring](https://www.signalblur.io/leveling-up-your-linux-security-monitoring/)
+## Persistence
   - [Hunting for Persistence in Linux (Part 1): Auditd, Sysmon, Osquery, and Webshells](https://pberba.github.io/security/2021/11/22/linux-threat-hunting-for-persistence-sysmon-auditd-webshell/)
   - [Hunting for Persistence in Linux (Part 2): Account Creation and Manipulation](https://pberba.github.io/security/2021/11/23/linux-threat-hunting-for-persistence-account-creation-manipulation/)
+  - [Hunting for Persistence in Linux (Part 3): Systemd, Timers, and Cron](https://pberba.github.io/security/2022/01/30/linux-threat-hunting-for-persistence-systemd-timers-cron/)
+  - [Hunting for Persistence in Linux (Part 4): Initialization Scripts and Shell Configuration](https://pberba.github.io/security/2022/02/06/linux-threat-hunting-for-persistence-initialization-scripts-and-shell-configuration/)
+  - [Hunting for Persistence in Linux (Part 5): Systemd Generators](https://pberba.github.io/security/2022/02/07/linux-threat-hunting-for-persistence-systemd-generators/)
 
 # Powershell Suspicious Detection
   - [PowerShell Detections — Threat Research Release, August 2021](https://www.splunk.com/en_us/blog/security/powershell-detections-threat-research-release-august-2021.html?s=08)
@@ -137,6 +152,8 @@
 # MiTRE Detection Rules 
   - [Detection Ideas & Rules by Vadim Hunter](https://github.com/vadim-hunter/Detection-Ideas-Rules)
   - [Threat Hunting and Detection by CyberMonk](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection)
+  - [Common Tools & Techniques Used By Threat Actors and Malware - Nasreddine Bencherchali](https://www.youtube.com/watch?v=YVMgHsvJ1_Y)
+  - [Top Tools And Techniques Used By Threat Actors And Malware](https://www.youtube.com/watch?v=DgdyawrNBzA)
 
 # Hunting Macros
   - [Hunting Malicious Office Macros](https://www.youtube.com/watch?v=soF5iyeeWDg)
@@ -195,6 +212,9 @@
   - [MS Office Macro Hunting Queries](https://www.reddit.com/r/crowdstrike/comments/sbuh7r/ms_office_macro_hunting_queries/?utm_medium=android_app&utm_source=share)
   - [interactive service account logins report](https://www.reddit.com/r/crowdstrike/comments/schzjx/interactive_service_account_logins_report/?utm_medium=android_app&utm_source=share)
   - [2022-01-26 - Cool Query Friday - Hunting pwnkit Local Privilege Escalation in Linux (CVE-2021-4034)](https://www.reddit.com/r/crowdstrike/comments/sdfeig/20220126_cool_query_friday_hunting_pwnkit_local/?utm_medium=android_app&utm_source=share)
+  - [Detecting scheduled tasks and services running as domain admin](https://www.reddit.com/r/crowdstrike/comments/sk8g8p/detecting_scheduled_tasks_and_services_running_as/?utm_medium=android_app&utm_source=share)
+  - [Anyone worked up a good event query for Lockbit 2.0](https://www.reddit.com/r/crowdstrike/comments/sn0gja/anyone_worked_up_a_good_event_query_for_lockbit_20/?utm_medium=android_app&utm_source=share)
+  - [2022-02-11 - Cool Query Friday - Time To Assign, Time To Resolve, and Time To Close](https://www.reddit.com/r/crowdstrike/comments/spx5zu/20220211_cool_query_friday_time_to_assign_time_to/?utm_medium=android_app&utm_source=share)
  ### Crowdstrike Splunk Threat Hunting Searches
   - [Huting Queries Google Excel Sheet](https://docs.google.com/spreadsheets/d/1RTcZsRbDsjxwmKpe3FIvSKUjBk5pR2Dlzj71QTnxAK0/edit#gid=0)
   - [Huting Queries Google Excel Github Repo](https://github.com/freeload101/SCRIPTS/tree/master/CrowdStrike%20Threat%20Hunting)
@@ -227,12 +247,14 @@
   - [Applied YARA training](https://www.brighttalk.com/webcast/18282/504513/applied-yara-training)
   - [YARA Using PE Features for Quick Wins](https://github.com/g-les/YARA-PE-Features)
   - [CS6038/CS5138 Malware Analysis, UC](https://class.malware.re/tags/yara.html?s=09)
+  - [Defender’s Toolkit 101: Yara Rules!](https://syedhasan010.medium.com/defenders-toolkit-101-yara-rules-bd5a838a0250)
 ### Detection Rules
 | Repo | Comments |
 | --- | --- |
 | [Yara Rules](https://github.com/advanced-threat-research/Yara-Rules) | APT, Malware, Miner, Stealer, Ransomware, Mobile, RAT |
 | [Florian Roth](https://github.com/Neo23x0/signature-base/tree/master/yara) | ALL |
 | [JPCERT/CC YARA rules](https://github.com/JPCERTCC/jpcert-yara) | ALL |
+| [Yara Station](https://github.com/NumLocK15/YaraStation) | Managment portal for LoKi scanner |
 
 # Splunk 
 ### Theory 
@@ -293,6 +315,7 @@
   - [SHELL IS ONLY THE BEGINNING](https://www.darkoperator.com/blog/2018/10/5/operating-offensively-against-sysmon)
   - [Sysmon for Linux Test Drive](https://www.lares.com/blog/sysmon-for-linux-test-drive/?utm_content=bufferff83d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
   - [Understanding Sysmon Events using SysmonSimulator](https://rootdse.org/posts/understanding-sysmon-events/)
+  - [Sysmon: How To Setup, Configure, and Analyze the System Monitor’s Events](https://syedhasan010.medium.com/sysmon-how-to-setup-configure-and-analyze-the-system-monitors-events-930e9add78d)
 ### Configuration
   - [SwiftonSecurity](https://github.com/SwiftOnSecurity/sysmon-config)
   - [Florian Roth Sysmon Config](https://github.com/Neo23x0/sysmon-config)
@@ -307,5 +330,15 @@
 
 # Sigma
   - [How to Write Sigma Rules](https://www.nextron-systems.com/2018/02/10/write-sigma-rules/)
+  - [Defender’s Toolkit 102: Sigma Rules](https://syedhasan010.medium.com/defenders-toolkit-102-sigma-rules-4a623acb2036)
+  - [THREAT-DETECTION-USING-SIGMA](https://github.com/nasbench/Slides/blob/main/THREAT-DETECTION-USING-SIGMA-Bsides-Algiers-2022.pdf)
 ### Rules
   - [Sigma Rules Repo](https://github.com/SigmaHQ/sigma/tree/master/rules)
+
+# OSquery 
+## Training 
+  - [Lesson 1: The Basics of Osquery](https://www.uptycs.com/free-osquery-training-your-intro-to-osquery-class?submissionGuid=8f80d631-7e1a-4ede-90f6-4a6867c34047)
+  - [Lesson 2: Installing Osquery & Practicing SQL](https://www.uptycs.com/free-osquery-training-your-intro-to-osquery-class?submissionGuid=8f80d631-7e1a-4ede-90f6-4a6867c34047)
+  - [Lesson 3: Capturing Events, Running Investigation and FIM in-action](https://www.uptycs.com/free-osquery-training-your-intro-to-osquery-class?submissionGuid=8f80d631-7e1a-4ede-90f6-4a6867c34047)
+  - [Lesson 4: Augeas (for Linux Config Tables) & Prometheus (for Performance Monitoring)](https://www.uptycs.com/free-osquery-training-your-intro-to-osquery-class?submissionGuid=8f80d631-7e1a-4ede-90f6-4a6867c34047)
+  - [Lesson 5: Deploying Osquery at Scale & Contributing to the Community](https://www.uptycs.com/free-osquery-training-your-intro-to-osquery-class?submissionGuid=8f80d631-7e1a-4ede-90f6-4a6867c34047)
