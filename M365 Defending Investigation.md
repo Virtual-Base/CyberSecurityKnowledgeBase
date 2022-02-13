@@ -14,6 +14,7 @@
   - [Adarsh Pandey - KQL Query](https://github.com/AdarshPandey-dev/Kusto-Query-Language-KQL-)
   - [TweetFeed.live - Hunting IOCs via Microsoft Defender](https://github.com/0xDanielLopez/TweetFeed#hunting-IOCs-via-Microsoft-Defender)
   - [Sysmon vs Microsoft Defender for Endpoint, MDE Internals 0x01](https://medium.com/falconforce/sysmon-vs-microsoft-defender-for-endpoint-mde-internals-0x01-1e5663b10347)
+  - [WDEG - Bypassing The ASR](https://confidentialteam.github.io/posts/wdegbypassingasr/)
 
 ### Red Canary 2021 MDATP Crash Course 
  - [2021Threat Detection Report](https://redcanary.com/threat-detection-report/)
@@ -54,3 +55,8 @@
   - [Hunting Unmanaged devices](https://gist.github.com/Shivammalaviya/5fb6db0008a772ab355ef7d4a8016f26)
   - [KQL for Microsoft Sentinel](https://github.com/reprise99/Sentinel-Queries#the-anatomy-of-a-kql-query)
   - [Must Learn KQL - the series, the book, the merch store](https://github.com/rod-trent/MustLearnKQL)
+
+# Azure 
+## Notebook Ninja 
+  - [Become a Jupyter Notebooks Ninja – MSTICPy Fundamentals to Build Your Own Notebooks](https://www.youtube.com/watch?v=S0knTOnA2Rk)
+  - [Become a Jupyter Notebooks Ninja – MSTICPy Intermediate to Build Your Own Notebooks](https://www.youtube.com/watch?v=Rpj-FS_0Wqg)
