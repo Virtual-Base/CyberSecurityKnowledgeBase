@@ -43,6 +43,13 @@
 | [phishing_kits_2021](https://github.com/ninoseki/phishing_kits_2021) | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :x: </p> </center> |
 | [BlackBerry Threat Research & Intelligence](https://github.com/blackberry/threat-research-and-intelligence) | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | This repository is for the dissemination of IOCs, YARA rules and source code from threat intelligence reports published by the BlackBerry Threat Research & Intelligence team. |
 | [phishunt.io](https://phishunt.io/) | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :x: </p> </center> | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :x: </p> </center> | Active sites that are suspicious of being phishing |
+| [Emotet IOCs](https://github.com/pr0xylife/Emotet) | <center><p align = "center"> :heavy_check_mark: </p> </center> | <center><p align = "center"> :x: </p> </center> |  <center><p align = "center"> :x: </p> </center> |  <center><p align = "center"> :x: </p> </center> | Emotet 2022 C2s list |
+
+# HaveiBeen
+  - [';--have i been pwned?](https://haveibeenpwned.com/)
+  - [haveibeenexpired - SSL](https://www.haveibeenexpired.com/)
+  - [havwibeen Emotet](https://www.haveibeenemotet.com/index.php)
+  - [haveibeensold - Email Sold](https://haveibeensold.app/)
 
 # Compilation 
   - [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
@@ -50,11 +57,13 @@
   - [Top 5 OSINT Sources for Threat Intelligence](https://www.spiderfoot.net/top-5-osint-sources-for-threat-intelligence/)
   - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
   - [SANS Cyber Threat Intelligence 2022](https://start.me/p/6rnyLp/sans-cyber-threat-intelligence-summit-2022)
+  - [Cyware Threat Response Docker - All in one docker image for Threat Intelligence Analysts](https://github.com/cyware-labs/Threat-Response-Docker)
 
 # Blogs 
   - [Conti affiliates use ProxyShell Exchange exploit in ransomware attacks](https://twitter.com/SophosLabs/status/1433769658256089089)
   - [Analysis of a Dark Web site](https://www.neteye-blog.com/2021/07/analysis-of-a-dark-web-site/)
   - [Ultimate Guide to Cyber Threat Intelligence](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Finding_Beacon_Guide_Blackberry.pdf)
+  - [Dark Web Threat Intelligence Part 1: Deep Dive into the Criminal Underground Network on Telegram](https://bolster.ai/blog/darkweb-threat-intelligence-underground-networks-telegram/)
 
 # DeepDark
   - [Exploits Forums](https://github.com/fastfire/deepdarkCTI/blob/main/exploits.md)
