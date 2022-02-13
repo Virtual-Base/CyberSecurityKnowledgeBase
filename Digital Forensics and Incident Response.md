@@ -1,7 +1,8 @@
-# Franework
+# Franework and Theory
   - [DFIR Reference Frameworks](https://github.com/joshlemon/DFIR-Reference-Frameworks)
   - [CrowdStrike Services Offers Incident Response Tracker for the DFIR Community](https://www.crowdstrike.com/blog/crowdstrike-releases-digital-forensics-and-incident-response-tracker/?utm_content=sprout&utm_medium=soc&utm_source=twitter&s=09)
   - [FalconFriday - MITRE ATT & CK](https://github.com/FalconForceTeam/FalconFriday)
+  - [3 Ways to Save Incident Response Time](https://www.intezer.com/blog/malware-analysis/save-incident-response-time-intezer-analyze/)
 
 # Training 
   - [DFIR - SANS](https://www.youtube.com/watch?v=pSAW_T_WvME&t=2s)
@@ -35,6 +36,7 @@
   - [AutoMacTC: Automated Mac Forensic Triage Collector](https://github.com/CrowdStrike/automactc?s=08)
   - [Linux Security and Monitoring Scripts](https://github.com/sqall01/LSMS)
   - [Rip Raw - Analyse the memory of compromised Linux systems](https://github.com/cado-security/rip_raw)
+  - [DetectionHistory Parser v1.0.1](https://github.com/jklepsercyber/defender-detectionhistory-parser)
 
 # CheatSheet
   - [DFIR Regex](https://github.com/rathbuna/DFIRRegex)
@@ -62,10 +64,12 @@
 
 # DFIR Compilation 
   - [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
-
+  - [CyberThreatIntel - Analysis of malware and Cyber Threat Intel of APT and cybercriminals groups](https://github.com/StrangerealIntel/CyberThreatIntel)
+  - [EventLogs, Data Acquisition, Registry and Windows Acquistion](https://github.com/0xMohammed/MISC/tree/main/DFIRSeries)
 # Foresics Images Practice
   - [Ali Hadi Challenges](https://www.ashemery.com/dfir.html)
   - [Cado Security Forensics Image REvil Ransomware Kaseya Supply Chain Attack](https://github.com/cado-security/DFIR_Resources_REvil_Kaseya/releases/tag/v1.0)
+  - [MemLabs](https://github.com/stuxnet999/memlabs)
 
 # Cobalt Strike Defender Guide - DFIR Report
   - [Cobalt Strike, a Defender’s Guide - Part 1](https://thedfirreport.com/2021/08/29/cobalt-strike-a-defenders-guide/)
@@ -122,7 +126,6 @@
   - [Detecting CONTI CobaltStrike Lateral Movement Techniques - Part 1](https://www.unh4ck.com/detection-engineering-and-threat-hunting/lateral-movement/detecting-conti-cobaltstrike-lateral-movement-techniques-part-1)
   - [Detecting CONTI CobaltStrike Lateral Movement Techniques - Part 2](https://www.unh4ck.com/detection-engineering-and-threat-hunting/lateral-movement/detecting-conti-cobaltstrike-lateral-movement-techniques-part-2)
   - [Detecting Lateral Movement via Service Configuration Manager](https://www.unh4ck.com/detection-engineering-and-threat-hunting/lateral-movement/detecting-lateral-movement-via-service-configuration-manager)
-  - [Data Analysis for Cyber Security 101: Detecting Lateral Movement](https://pberba.github.io/security/2020/04/26/lateral-movement/)
 
 # Windows and Active Directory 
   - [Windows And Active Directory Persistence And Malicious Configurations](https://web.archive.org/web/20210623173110/https://m365internals.com/2021/06/23/dfir-windows-and-active-directory-persistence-and-malicious-configurations/)
@@ -166,20 +169,12 @@
   - [Memory Forensics for Incident Response](https://www.varonis.com/blog/memory-forensics/)
   - [Advanced Memory Forensics (Windows) - Threat_Hunting and Initial Malware_Analysis](https://github.com/Dump-GUY/Malware-analysis-and-Reverse-engineering/blob/main/Advanced_Memory_Forensics_Threat_Hunting_and_Malware_Analysis/Advanced_Memory_Forensics_Threat_Hunting_and_Malware_Analysis.md)
 
-# Python Malware Analysis 
-  - [Snakes on a Domain: An Analysis of a Python Malware Loader](https://www-huntress-com.cdn.ampproject.org/c/s/www.huntress.com/blog/snakes-on-a-domain-an-analysis-of-a-python-malware-loader?hs_amp=true)
-
-# Go Malware Analysis 
-  - [Go Reversing Introduction](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/BHACK_2021_ALEXANDREBORGES_Go_Reversing.pdf)
-
 # Jumping The Air Gap
   - [Air-gapping is used to protect the most sensitive of networks](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/ESET_%20Jumping%20the%20Air%20Gap.pdf)
 
 # Bonet Analysis
   - [Botnet Malware Dissemination](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Botnet_%20Malware_Dissemination.pdf)
-
-# LoLbins 
-  - [LOLBins Are No Laughing Matter: How Attackers Operate Quietly](https://www.uptycs.com/blog/lolbins-are-no-laughing-matter)
+ 
 
 # EndPoint Detection and Response 
   - [Empirical Assessment of Endpoint Detection and Response Systems against Advanced Persistent Threats Attack Vectors](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Empirical%20Assessment%20of%20Endpoint%20Detection%20and%20Response.pdf)
