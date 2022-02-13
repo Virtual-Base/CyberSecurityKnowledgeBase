@@ -17,6 +17,8 @@
   - [The Endpoint Security Checklist](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/The%20Endpoint%20Security%20Checklist.pdf)
   - [Important SIEM Alerts](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/SIEM_Alerts.jpeg)
   - [Cyber Security Logs](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/SOC_Logs_Daily_Monthly_Weekly.png)
+  - [ATT&CK 2022 Roadmap](https://medium.com/mitre-attack/attack-2022-roadmap-cd5a1a3387c7)
+  - [SIGMA vs Indicators of Compromise](https://socprime.com/blog/sigma-vs-indicators-of-compromise/)
 ### Phishing 
   - [Training - Email Forensic](https://www.youtube.com/playlist?list=PLvOFsJ3VdHa_USZuhzIjDFk_EYA5pRP9Z)
   - [The Ultimate Guide to Phishing](https://sidb.in/2021/08/03/Phishing-0-to-100.html)
@@ -26,6 +28,14 @@
   - [How to investigate a massive phishing campaign](https://www.osintme.com/index.php/2021/12/06/how-to-investigate-a-massive-phishing-campaign/?s=09)
   - [A phishing document signed by Microsoft – part 1](https://outflank.nl/blog/2021/12/09/a-phishing-document-signed-by-microsoft/?s=09)
   - [A phishing document signed by Microsoft – part 2](https://outflank.nl/blog/2022/01/07/a-phishing-document-signed-by-microsoft-part-2/)
+  - [Long Live DMARC - Email Spoof issues](https://www.redteam.cafe/phishing/long-live-dmarc-email-spoof-issues)
+  - [Evaluation of 7 Open Source Phishing Threat Intel Feeds](https://bolster.ai/blog/evaluation-phishing-threat-intel-feeds/)
+  - [Comparing OSINT Typosquatting Tools like DNSTwist, DNSRazzle against Bolster's Typosquatting monitoring](https://bolster.ai/blog/osint-typosquatting-comparision-bolster/)
+
+# Asset Discovery 
+  - [netlas.io - Discover, Research and Monitor any Assets Available Online](https://netlas.io/)
+  - [Create Your Own Python DNS ENUMERATION TOOL](https://www.youtube.com/watch?v=SLQrbjeVrk0)
+  - [Create Your Own Python SUBDOMAIN ENUMERATION TOOL](https://www.youtube.com/watch?v=E5BklV9I2-4)
   
 #
 > :heavy_check_mark: Possible :x: Not Possible
