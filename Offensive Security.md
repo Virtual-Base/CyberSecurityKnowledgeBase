@@ -42,6 +42,11 @@
   - [CreateHiddenAccount](https://github.com/wgpsec/CreateHiddenAccount)
   - [macro_pack](https://github.com/sevagas/macro_pack)
   - [Stratus Red team](https://github.com/DataDog/stratus-red-team)
+  - [UACMe](https://github.com/hfiref0x/UACME)
+# Tips
+  - [The Hacker Recipes](https://www.thehacker.recipes/)
+# MISC 
+  - [x86matthew - Low Level Hack](https://www.x86matthew.com/)
 
 # Case Study 
 ## Telecom Industry 
@@ -49,6 +54,9 @@
   - [How I hacked into a Telecom Network — Part 2 (Playing with Tunnels: TCP Tunneling)](https://infosecwriteups.com/how-i-hacked-into-a-telecom-network-part-2-playing-with-tunnels-tcp-tunneling-b4cef2837938)
   - [How I hacked into a Telecom Network — Part 3 (Playing with Tunnels: Stealthy SSH & Dynamic Tunnels)](https://infosecwriteups.com/how-i-hacked-into-a-telecom-network-part-3-playing-with-tunnels-stealthy-ssh-dynamic-tunnels-5ac26557d0eb)
   - [How I hacked into a Telecom Network — Part 4 (Getting Access to CDRs, SS7 applications & VLRs)](https://infosecwriteups.com/how-i-hacked-into-a-telecom-network-part-4-getting-access-to-cdrs-ss7-applications-vlrs-9a8cf95e2648)
+  - [SIM Hijacking](https://sensepost.com/blog/2022/sim-hijacking/)
+## Other Industry
+  - [Chris Meistre - My first physical assessment](https://chrismeistre.github.io/Red-Teaming-My-first-physical-assessment/)
 
 ### Fuzzing 101
   - [Github Repository](https://github.com/antonio-morales/Fuzzing101)
@@ -64,6 +72,11 @@
   - [Taking the pain out of C2 infrastructure (Part 2)](https://byt3bl33d3r.substack.com/p/taking-the-pain-out-of-c2-infrastructure-3c4?r=jt535&utm_campaign=post&utm_medium=web&utm_source=)
   - [Infrastructure](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques/tree/master/offensive-security/red-team-infrastructure)
   - [MiTRE TTPs Explanation](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques/tree/master/offensive-security)
+
+### GoPhish Training
+  - [Pentesting | Gofish Tool Training | Day 1 Part 1](https://www.youtube.com/watch?v=kjEQm-kfzcU&list=PLCnShyylK2vtpy3S7Ap-VgOSfFOBp9LLi&index=2)
+  - [Pentesting | File Masquerading Attack | Day 1Part 2](https://www.youtube.com/watch?v=Bl9MJM2uZHo&list=PLCnShyylK2vtpy3S7Ap-VgOSfFOBp9LLi&index=3)
+  - [Pentesting | File masquerading Attack | Gofish | Day 1 Part 3](https://www.youtube.com/watch?v=02naOmN7anM&list=PLCnShyylK2vtpy3S7Ap-VgOSfFOBp9LLi&index=4) 
 
 ## Reconnaissance
 ### Domain, User, Computer and Group Enumeration
@@ -136,6 +149,9 @@
   - [Offensive WMI - Reconnaissance & Enumeration (Part 4)](https://0xinfection.github.io/posts/wmi-recon-enum/)
   - [Offensive WMI - Active Directory Enumeration (Part 5)](https://0xinfection.github.io/posts/wmi-ad-enum/)
 
+# Persistence 
+  - [Windows Persistence Using WSL2](https://medium.themayor.tech/windows-persistence-using-wsl2-8f87e319ea56)
+
 # Lateral Movement
   - [Lateral Movement Using DCOM Objects and C#](https://github.com/klezVirus/klezVirus.github.io/tree/master/RedTeaming/LateralMovement/LateralMovementDCOM)
   - [Lateral Movement Using PSRemoting via C#](https://github.com/klezVirus/klezVirus.github.io/tree/master/RedTeaming/LateralMovement/LateralMovementPSRemoting)
@@ -149,11 +165,15 @@
   - [Remote Code Execution](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Article_Guide_to_Lateral_We_study_remote_code_execution_in_Windows_from_all_sides.pdf)
   - [Reverse Proxies to Nmap Scan](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Article%20-%20How_APTs_Use_Reverse_Proxies_to_Nmap_Scan_Internal_Networks.pdf)
 
+# Exfiltration 
+  - [Transferring Files over ICMP in Restricted Network Environments](https://icyguider.github.io/2022/02/01/Transferring-Files-Over-ICMP.html) 
+
 # Visual Basic Application
   - [OffensiveVBA - S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t/OffensiveVBA)
   - [AV Evasion 101 - VBS/VBA - Office Macros](https://www.youtube.com/watch?v=KeSRGjnTdSc)
   - [Attack Surface Reduction (ASR) Bypass using VBA](https://blog.nviso.eu/2020/04/21/video-attack-surface-reduction-asr-bypass-using-vba/)
   - [VBA Stomping — Advanced Maldoc Techniques](https://medium.com/walmartglobaltech/vba-stomping-advanced-maldoc-techniques-612c484ab278)
+  - [VBA Purging — How Effective Is It?](https://syedhasan010.medium.com/vba-purging-what-purpose-does-it-serve-1f3ff6c7fd01)
 
 # Hardware Hacking 
   - [EXTENDING GHIDRA PART 1: SETTING UP A DEVELOPMENT ENVIRONMENT](https://voidstarsec.com/blog//2021/12/24/ghidra-dev-environment)
@@ -163,6 +183,17 @@
   - [The Art of Malware Development](https://hackersarcade.medium.com/the-art-of-malware-development-d9843ad10a10)
   - [vxunderground - Study Research Paper](https://vx-underground.org/papers.html)
   - [Malware development workshop](https://github.com/chr0n1k/AH2021Workshop)
+  - [Execution of Remote VBA Script in Excel](https://www.netero1010-securitylab.com/evasion/execution-of-remote-vba-script-in-excel)
+
+## Credential Stealing Malware Development
+  - [Credential Stealing Malware Development | Day 2 part 1](https://www.youtube.com/watch?v=UsEu95YUwAM&list=PLCnShyylK2vtpy3S7Ap-VgOSfFOBp9LLi&index=5)
+  - [Credential Stealing malware Development| Day 2 Part 2](https://www.youtube.com/watch?v=s5snOwOOOPU&list=PLCnShyylK2vtpy3S7Ap-VgOSfFOBp9LLi&index=6)
+  - [Credential Stealing malware Development | Day 2 Part 3](https://www.youtube.com/watch?v=P_jGRjQN36U&list=PLCnShyylK2vtpy3S7Ap-VgOSfFOBp9LLi&index=7)
+
+## Command & Control Infrastructure Building
+  - [Command & Control Infrastructure Building | Day 3 part 1](https://www.youtube.com/watch?v=crH8kwe4dXo&list=PLCnShyylK2vtpy3S7Ap-VgOSfFOBp9LLi&index=9)
+  - [Command & Control Infrastructure Building | Day 3 part 2](https://www.youtube.com/watch?v=dwgSz9XlqIk&list=PLCnShyylK2vtpy3S7Ap-VgOSfFOBp9LLi&index=10)
+  - [Command & Control Infrastructure Building | Day 3 part 3](https://www.youtube.com/watch?v=YdNsLRXQcAw&list=PLCnShyylK2vtpy3S7Ap-VgOSfFOBp9LLi&index=11)
 
 ## Windows Malware Development 
   - [Malware development part 1 - basics](https://0xpat.github.io/Malware_development_part_1/)
