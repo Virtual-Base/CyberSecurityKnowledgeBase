@@ -1,4 +1,4 @@
-# Franework and Theory
+# Framework and Theory
   - [DFIR Reference Frameworks](https://github.com/joshlemon/DFIR-Reference-Frameworks)
   - [CrowdStrike Services Offers Incident Response Tracker for the DFIR Community](https://www.crowdstrike.com/blog/crowdstrike-releases-digital-forensics-and-incident-response-tracker/?utm_content=sprout&utm_medium=soc&utm_source=twitter&s=09)
   - [FalconFriday - MITRE ATT & CK](https://github.com/FalconForceTeam/FalconFriday)
