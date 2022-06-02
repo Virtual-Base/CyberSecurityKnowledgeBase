@@ -1,0 +1,36 @@
+title: Suspicious msdt.exe execution - Office Exploit
+id: 17a8s0293263283249a2as5as
+description: This rule will monitor suspicious arguments passed to the msdt.exe process including directory traversal. 
+references:
+    - https://www.linkedin.com/feed/update/urn:li:activity:6937716090928046080/
+    - https://gist.github.com/Samirbous/9384ee6667f8b472ee6d9dcd505bd175
+author: 'Vignesh Bhaaskaran'
+tags:
+    - attack.execution
+falsepositvies:
+    - None
+logsource:
+    category: process_creation
+    product: windows
+detection:
+    selection_1:
+      CommandLine|contains:
+        - 'msdt.exe'
+        - 'ms-msdt:-id'
+        - 'ms-msdt:/id'
+    selection_2:
+      CommandLine|contains:
+        - 'PCWDiagnostic'
+    selection_3:
+      CommandLine|contains:
+        - 'IT_BrowserForFile'
+        - 'IT_LaunchMethod'
+        - 'IT_RebrowseForFile'
+    selection_4:
+      CommandLine|contains:
+        - '//'
+        - './'
+        - '/.'
+        - '../'
+    condition: selection_1 and selection_2 and selection_3 and selection_4
+level: high
