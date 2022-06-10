@@ -1,0 +1,33 @@
+title: SVCReady Detection Phishing Campaign
+id: 17a8s0293263283249a2as5a4
+description: This rule will monitor suspicious dropped process spawing from WINWORD. 
+references:
+    - https://www.bleepingcomputer.com/news/security/new-svcready-malware-loads-from-word-doc-properties/
+    - https://twitter.com/ankit_anubhav/status/1529664691357659136
+author: 'Vignesh Bhaaskaran'
+tags:
+    - attack.execution
+falsepositvies:
+    - None
+logsource:
+    category: process_creation
+    product: windows
+detection:
+    selection_1:
+     ParentImage|endswith:
+        - '\WINWORD.exe'
+    selection_5:
+      Image|endswith:
+        - '\WINWORD.exe'
+    selection_6:
+      CommandLine|contains:
+        - 'WINWORD.exe'
+    selection_2:
+      CommandLine|contains:
+        - '\AppData\Local\Temp'
+    selection_3:
+      CommandLine|re: 
+        - '\\[\w\.]+\.dll'
+        - '\\[\w\.]+\.exe'
+    condition: (selection_1 or selection_5 or selection_6) and selection_2 and selection_3 
+level: high
