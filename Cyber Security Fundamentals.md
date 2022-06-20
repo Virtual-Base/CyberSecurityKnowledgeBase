@@ -12,6 +12,10 @@
   - [Port Forwarding REVERSE SHELL PAYLOADS for TARGET REMOTE ACCESS!](https://www.youtube.com/watch?v=rjiUsyQTaQE)
   - [Reverse Shell & Bind Shell](https://www.infosecademy.com/netcat-reverse-shells/)
   - [DNSSEC – Domain Name System Security Extensions Explained](https://www.socinvestigation.com/dnssec-domain-name-system-security-extensions-explained/)
+  - [DHCP log overview](https://www.youtube.com/watch?v=uDOSN9WteDA)
+  - [NMAP Wokring](https://www.youtube.com/playlist?list=PLW8bTPfXNGdDQIh9jN6v7fjLF1JcXKeSH)
+  - [DNS misconfigurations/resources/articles/tools](https://twitter.com/0xAsm0d3us/status/1495061175222288385?t=T6JI4vPhehrBquZ0od2O9A&s=19)
+  - [HOW HTTPS WORKS](https://howhttps.works/)
 # NetCat Series
   - [Netcat I: Fundamental Features](https://www.youtube.com/watch?v=7YrYRQQLjdA&t=794s)
   - [Netcat II: Bind and Reverse Shell](https://www.youtube.com/watch?v=wXkN6WGvadM&t=690s)
