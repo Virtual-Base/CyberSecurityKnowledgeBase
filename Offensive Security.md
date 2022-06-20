@@ -45,8 +45,10 @@
   - [UACMe](https://github.com/hfiref0x/UACME)
 # Tips
   - [The Hacker Recipes](https://www.thehacker.recipes/)
+  - [OFFENSIVE SECURITY CHEATSHEET](https://cheatsheet.haax.fr/)
 # MISC 
   - [x86matthew - Low Level Hack](https://www.x86matthew.com/)
+  - [Staged vs Stageless Payloads](https://blog.spookysec.net/stage-v-stageless-1/)
 
 # Case Study 
 ## Telecom Industry 
@@ -72,6 +74,7 @@
   - [Taking the pain out of C2 infrastructure (Part 2)](https://byt3bl33d3r.substack.com/p/taking-the-pain-out-of-c2-infrastructure-3c4?r=jt535&utm_campaign=post&utm_medium=web&utm_source=)
   - [Infrastructure](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques/tree/master/offensive-security/red-team-infrastructure)
   - [MiTRE TTPs Explanation](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques/tree/master/offensive-security)
+  - [Cobalt Strike Training Resources](https://www.cobaltstrike.com/training/)
 
 ### GoPhish Training
   - [Pentesting | Gofish Tool Training | Day 1 Part 1](https://www.youtube.com/watch?v=kjEQm-kfzcU&list=PLCnShyylK2vtpy3S7Ap-VgOSfFOBp9LLi&index=2)
@@ -81,8 +84,9 @@
 ## Reconnaissance
 ### Domain, User, Computer and Group Enumeration
   - [RED TEAMING - ENUMERATION PHASE](https://aidenpearce369.github.io/offsec/redteam-enumeration/#recommended-enumeration-tools)
-### Subdomain Enumeration 
+### Domain/Subdomain Enumeration 
   - [Subdomain Enumeration Guide 2021](https://sidxparab.gitbook.io/subdomain-enumeration-guide/)
+  - [Python Create Your Own Series](https://www.youtube.com/playlist?list=PLJQHPJLj_SQb0gxh3kCeEurfwPtreQazg)
 ###  Automated Recon Pipeline with Python and Luigi
   - [How to Build an Automated Recon Pipeline with Python and Luigi - Part I (Setup and Scope)](https://epi052.gitlab.io/notes-to-self/blog/2019-09-01-how-to-build-an-automated-recon-pipeline-with-python-and-luigi/)
   - [How to Build an Automated Recon Pipeline with Python and Luigi - Part II (Port Scanning I)](https://epi052.gitlab.io/notes-to-self/blog/2019-09-02-how-to-build-an-automated-recon-pipeline-with-python-and-luigi-part-two/)
@@ -164,6 +168,8 @@
   - [ByPass Antivirus](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/The%20article_is_F%23ck_da_Antivirus_How_to_bypass_antivirus_when_pentest.pdf)
   - [Remote Code Execution](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Article_Guide_to_Lateral_We_study_remote_code_execution_in_Windows_from_all_sides.pdf)
   - [Reverse Proxies to Nmap Scan](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Article%20-%20How_APTs_Use_Reverse_Proxies_to_Nmap_Scan_Internal_Networks.pdf)
+  - [Port Forwarding REVERSE SHELL PAYLOADS for TARGET REMOTE ACCESS!](https://www.youtube.com/watch?v=rjiUsyQTaQE)
+  - [SSH Tunneling [Explained] | Reverse Shell over the Internet [WAN]](https://www.youtube.com/watch?v=dKDgynsTAkw)
 
 # Exfiltration 
   - [Transferring Files over ICMP in Restricted Network Environments](https://icyguider.github.io/2022/02/01/Transferring-Files-Over-ICMP.html) 
