@@ -14,3 +14,4 @@
   - [OSINT-Github-profiles](https://github.com/cipher387/OSINT-Github-profiles)
   - [Awesome Maps](https://github.com/simsieg/awesome-maps)
   - [KeyHacks - API List](https://github.com/streaak/keyhacks#ABTasty-API-Key)
+  - [Collection of 4000+ OSINT resources](https://github.com/danieldurnea/FBI-tools)
