@@ -15,6 +15,7 @@
   - [TweetFeed.live - Hunting IOCs via Microsoft Defender](https://github.com/0xDanielLopez/TweetFeed#hunting-IOCs-via-Microsoft-Defender)
   - [Sysmon vs Microsoft Defender for Endpoint, MDE Internals 0x01](https://medium.com/falconforce/sysmon-vs-microsoft-defender-for-endpoint-mde-internals-0x01-1e5663b10347)
   - [WDEG - Bypassing The ASR](https://confidentialteam.github.io/posts/wdegbypassingasr/)
+  - [Stop Hurting YourSelf](https://yongrhee.wordpress.com/2020/03/21/stop-hurting-yourself-find-the-domain-users-with-local-admin-rights-with-mtps-or-mdatps-advanced-hunting-and-enterprises-lower-your-security-exposure-part-1-of-2/)
 
 ### Red Canary 2021 MDATP Crash Course 
  - [2021Threat Detection Report](https://redcanary.com/threat-detection-report/)
