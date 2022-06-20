@@ -143,6 +143,7 @@
   - [Hunting for Persistence in Linux (Part 3): Systemd, Timers, and Cron](https://pberba.github.io/security/2022/01/30/linux-threat-hunting-for-persistence-systemd-timers-cron/)
   - [Hunting for Persistence in Linux (Part 4): Initialization Scripts and Shell Configuration](https://pberba.github.io/security/2022/02/06/linux-threat-hunting-for-persistence-initialization-scripts-and-shell-configuration/)
   - [Hunting for Persistence in Linux (Part 5): Systemd Generators](https://pberba.github.io/security/2022/02/07/linux-threat-hunting-for-persistence-systemd-generators/)
+  - [Deep Dive on Persistence, Privilege Escalation Technique and Detection in Linux Platform](https://www.splunk.com/en_us/blog/security/deep-dive-on-persistence-privilege-escalation-technique-and-detection-in-linux-platform.html?splunk)
 
 # Powershell Suspicious Detection
   - [PowerShell Detections — Threat Research Release, August 2021](https://www.splunk.com/en_us/blog/security/powershell-detections-threat-research-release-august-2021.html?s=08)
