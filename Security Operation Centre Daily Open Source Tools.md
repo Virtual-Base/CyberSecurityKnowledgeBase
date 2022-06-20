@@ -1,3 +1,7 @@
+# SOC Procedure
+  - [A Day in Security Operation Center: a walkthrough explanation of a SOC; #part1](https://www.linkedin.com/posts/igeek098_part1-soc-preventive-activity-6903434779082018816-n_0g/)
+  - [A Day in Security Operation Center: a walkthrough explanation of a SOC; #part2](https://www.linkedin.com/posts/igeek098_part2-solarwinds-activity-6903440367354548224-iUb9/)
+
 # Interesting Blogs and Trainings
   - [Malware Analysis in the Modern SOC](https://www.crowdstrike.com/blog/the-role-of-malware-analysis-in-the-modern-security-operations-center/)
   - [Security Infographics - Sigma, TI, MITRE, YARA, so on.](https://medium.com/malware-buddy/security-infographics-9c4d3bd891ef) 
@@ -19,6 +23,8 @@
   - [Cyber Security Logs](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/SOC_Logs_Daily_Monthly_Weekly.png)
   - [ATT&CK 2022 Roadmap](https://medium.com/mitre-attack/attack-2022-roadmap-cd5a1a3387c7)
   - [SIGMA vs Indicators of Compromise](https://socprime.com/blog/sigma-vs-indicators-of-compromise/)
+  - [Operationalizing Mitre's ATT&CK Framework](https://www.signalblur.io/getting-started-with-mitres-att-ck-navigator/)
+  - [Dive into the MITRE Engage™ Official Release](https://medium.com/mitre-engage/dive-into-the-mitre-engage-official-release-731504542924)
 ### Phishing 
   - [Training - Email Forensic](https://www.youtube.com/playlist?list=PLvOFsJ3VdHa_USZuhzIjDFk_EYA5pRP9Z)
   - [The Ultimate Guide to Phishing](https://sidb.in/2021/08/03/Phishing-0-to-100.html)
@@ -31,6 +37,8 @@
   - [Long Live DMARC - Email Spoof issues](https://www.redteam.cafe/phishing/long-live-dmarc-email-spoof-issues)
   - [Evaluation of 7 Open Source Phishing Threat Intel Feeds](https://bolster.ai/blog/evaluation-phishing-threat-intel-feeds/)
   - [Comparing OSINT Typosquatting Tools like DNSTwist, DNSRazzle against Bolster's Typosquatting monitoring](https://bolster.ai/blog/osint-typosquatting-comparision-bolster/)
+  - [Steal Credentials & Bypass 2FA Using noVNC](https://mrd0x.com/bypass-2fa-using-novnc/?no-cache=1)
+  - [URL Analysis 101: A Beginner’s Guide to Phishing URLs](https://www.intezer.com/blog/malware-analysis/url-analysis-phishing-part-1/)
 
 # Asset Discovery 
   - [netlas.io - Discover, Research and Monitor any Assets Available Online](https://netlas.io/)
