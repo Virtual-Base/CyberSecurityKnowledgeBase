@@ -126,6 +126,10 @@
   - [Detecting CONTI CobaltStrike Lateral Movement Techniques - Part 1](https://www.unh4ck.com/detection-engineering-and-threat-hunting/lateral-movement/detecting-conti-cobaltstrike-lateral-movement-techniques-part-1)
   - [Detecting CONTI CobaltStrike Lateral Movement Techniques - Part 2](https://www.unh4ck.com/detection-engineering-and-threat-hunting/lateral-movement/detecting-conti-cobaltstrike-lateral-movement-techniques-part-2)
   - [Detecting Lateral Movement via Service Configuration Manager](https://www.unh4ck.com/detection-engineering-and-threat-hunting/lateral-movement/detecting-lateral-movement-via-service-configuration-manager)
+  - [The Lowdown on Lateral Movement](https://www.lares.com/blog/the-lowdown-on-lateral-movement/)
+
+# Data Theft
+  - [Investigate file sharing using the Google Workspace Security Investigation tool](https://www.linkedin.com/posts/shareef-abdul-cyber-forensics_workspace-security-investigation-tool-activity-6902337517144682496-bqeU/)
 
 # Windows and Active Directory 
   - [Windows And Active Directory Persistence And Malicious Configurations](https://web.archive.org/web/20210623173110/https://m365internals.com/2021/06/23/dfir-windows-and-active-directory-persistence-and-malicious-configurations/)
@@ -141,9 +145,15 @@
   - [BREAKING TYPICAL WINDOWS HARDENING IMPLEMENTATIONS](https://www.trustedsec.com/blog/breaking-typical-windows-hardening-implementations/)
   - [Common misconceptions about Windows EventLogs](https://osdfir.blogspot.com/2021/10/common-misconceptions-about-windows.html?m=1)
   - [Top 5 Windows Events for Incident Response](https://invictus-ir.medium.com/top-5-windows-events-for-incident-response-e34b0323780d)
+  - [A primer on DCSync attack and detection](https://www.alteredsecurity.com/post/a-primer-on-dcsync-attack-and-detection)
+  - [Keeping Up with the NTLM Relay](https://www.fortalicesolutions.com/posts/keeping-up-with-the-ntlm-relay)
+  - [CMD Deobfuscation and Detection](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/dosfuscation-report.pdf) 
+  - [Qbot and Zerologon Lead To Full Domain Compromise](https://thedfirreport.com/2022/02/21/qbot-and-zerologon-lead-to-full-domain-compromise/)
 ### Forensics Analysis
 #### Forensics Intelligence 
   - [Digital Forensics Lab & Shared Cyber Forensic Intelligence Repository](https://github.com/frankwxu/digital-forensics-lab)
+#### Network Foremsics 
+  - [Network Forensics: Tools of the Trade… At Scale and on a Budget](https://www.linkedin.com/video/event/urn:li:ugcPost:6894322857338638337/)
 #### Windows
   - [Windows Forensics Analysis — Tools And Resources](https://nasbench.medium.com/windows-forensics-analysis-tools-and-resources-b819c8b4b6b0)
   - [Windows Forensics Analysis — Windows Artifacts (Part I)](https://nasbench.medium.com/windows-forensics-analysis-windows-artifacts-part-i-c7ad81ada16c)
@@ -152,6 +162,8 @@
   - [DFIR-01 : $MFT](https://www.unh4ck.com/dfir/dfir-01-usdmft)
   - [DFIR-02 : Journal Forensics](https://www.unh4ck.com/dfir/dfir-02-journal-forensics)
   - [Digging Into Process Memory - Velociraptor](https://docs.velociraptor.app/blog/2021/2021-04-16-digging-into-process-memory-33c60a640cdb/)
+  - [LNK Files, Again](http://windowsir.blogspot.com/2022/02/lnk-files-again.html)
+  - [Amcache](https://github.com/gajos112/Digital-Forensics/blob/master/Artifacts/Amcache.md)
 
 # Packed PE Files 
   - [Detecting Packed PE Files](https://github.com/Virtual-Base/CyberSecurityKnowledgeBase/blob/main/Resources/Detecting_Packed_PE_Files.pdf)
