@@ -220,6 +220,14 @@
   - [Huting Queries Google Excel Github Repo](https://github.com/freeload101/SCRIPTS/tree/master/CrowdStrike%20Threat%20Hunting)
   - [crowdstrike-falcon-queries Compilation](https://github.com/pe3zx/crowdstrike-falcon-queries#crowdstrike-falcon-queries)
   - [SPL/FQL Threat Hunting Reference Guide](https://github.com/thetanz/csfalcon)
+  - [2022-02-18 - Cool Query Friday - New Office File Written Events](https://www.reddit.com/r/crowdstrike/comments/svf8y7/20220218_cool_query_friday_new_office_file/)
+  - [2022-02-25 - Cool Query Friday - Situational Awareness \\ DriveSlayer Wiper](https://www.reddit.com/r/crowdstrike/comments/t0vhe6/20220225_cool_query_friday_situational_awareness/?utm_medium=android_app&utm_source=share)
+  - [2022-03-06 - Cool Query Friday - SITUATIONAL AWARENESS \\ Hunting for NVIDIA Certificates](https://www.reddit.com/r/crowdstrike/comments/t81heu/20220306_cool_query_friday_situational_awareness/?utm_medium=android_app&utm_source=share)
+  - [2022-03-18 - Cool Query Friday - Revisiting User Added To Group Events](https://www.reddit.com/r/crowdstrike/comments/th06gy/20220318_cool_query_friday_revisiting_user_added/)
+  - [2022-04-08 - Cool Query Friday - Scoring User Logon Events in Windows](https://www.reddit.com/r/crowdstrike/comments/tz5obg/20220408_cool_query_friday_scoring_user_logon/)
+  - [2022-04-15 - Cool Query Friday - Hunting Tarrask and HAFNIUM](https://www.reddit.com/r/crowdstrike/comments/u49jxq/20220415_cool_query_friday_hunting_tarrask_and/)
+  - [2022-04-22 - Cool Query Friday - macOS, HostInfo, and System Preferences](https://www.reddit.com/r/crowdstrike/comments/u9f2z6/20220422_cool_query_friday_macos_hostinfo_and/)
+  - [2022-05-20 - Cool Query Friday - Hunting macOS Application Bundles](https://www.reddit.com/r/crowdstrike/comments/utycmg/20220520_cool_query_friday_hunting_macos/)
 
 # Virus Total 
 ### Training 
