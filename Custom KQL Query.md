@@ -17,7 +17,7 @@ DeviceEvents
 | parse ShellLinkWorkingDirectory with DriveLetter '\\' *
 ) on DeviceName,DriveLetter
 | project Timestamp=ProcessCreationTime,ReportId,DeviceName=DeviceName1,DeviceId,MountedVendorName=ProductName,MountedLetter=DriveLetter,MappingFilename=FileName,ShellLinkWorkingDirectory
-| join kind = leftouter ( 
+| join kind = inner ( 
 DeviceProcessEvents
 | parse kind=regex ProcessCommandLine with "\\s\"" MountedLetter ":" MappingFilename "\""
 | extend MappingFilename = split(MappingFilename,"\\")[-1]
