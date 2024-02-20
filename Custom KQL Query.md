@@ -19,7 +19,6 @@ DeviceEvents
 | project Timestamp=ProcessCreationTime,ReportId,DeviceName=DeviceName1,DeviceId,MountedVendorName=ProductName,MountedLetter=DriveLetter,MappingFilename=FileName,ShellLinkWorkingDirectory
 | join kind = leftouter ( 
 DeviceProcessEvents
-| where DeviceName !has "INCSWLAP2133"
 | parse kind=regex ProcessCommandLine with "\\s\"" MountedLetter ":" MappingFilename "\""
 | extend MappingFilename = split(MappingFilename,"\\")[-1]
 | extend MountedLetter=strcat(MountedLetter,":"),MappingFilename=strcat(MappingFilename,".lnk")
