@@ -25,3 +25,17 @@ DeviceProcessEvents
 ) on MountedLetter,DeviceName,MappingFilename
 | where isnotempty(ProcessCommandLine)
 ```
+
+## Unique Emails which are having same malicious URL
+### Query Description 
+#### Detect number of unique URLs which sent from different SenderEmailAddress with different subjects to different ReceipientEmailAddress along with SenderIPv4 and its geo location
+```
+EmailUrlInfo
+| where Url has "<URL_Domain_Name>"
+| distinct Url,NetworkMessageId
+| join EmailEvents on NetworkMessageId
+| where SenderFromAddress !has "ingrammicro"
+| extend GEOIP = geo_info_from_ip_address(SenderIPv4)
+| extend Country = tostring(todynamic(GEOIP).country),State = tostring(todynamic(GEOIP).state)
+| project Timestamp,SenderFromAddress, RecipientEmailAddress, Subject, Url, SenderIPv4, Country, State
+```
