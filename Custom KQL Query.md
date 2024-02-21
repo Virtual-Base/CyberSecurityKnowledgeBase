@@ -17,10 +17,11 @@ DeviceEvents
 | parse ShellLinkWorkingDirectory with DriveLetter '\\' *
 ) on DeviceName,DriveLetter
 | project Timestamp=ProcessCreationTime,ReportId,DeviceName=DeviceName1,DeviceId,MountedVendorName=ProductName,MountedLetter=DriveLetter,MappingFilename=FileName,ShellLinkWorkingDirectory
-| join kind = inner ( 
+| join kind = leftouter ( 
 DeviceProcessEvents
 | parse kind=regex ProcessCommandLine with "\\s\"" MountedLetter ":" MappingFilename "\""
 | extend MappingFilename = split(MappingFilename,"\\")[-1]
 | extend MountedLetter=strcat(MountedLetter,":"),MappingFilename=strcat(MappingFilename,".lnk")
-) on MountedLetter,MappingFilename,DeviceName
+) on MountedLetter,DeviceName,MappingFilename
+| where isnotempty(ProcessCommandLine)
 ```
